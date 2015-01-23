@@ -17,7 +17,7 @@
   <link rel='stylesheet' href='cards/assets/style.min.css'>
   <!-- endbuild -->
 </head>
-<body>
+<body ng-controller='MainCtrl'>
   <header id='header' class='pure-g' ng-controller='ListCtrl'>
     <div class='pure-u-1'>
       <a ng-click='scroll(item.title)' ng-repeat='item in list' class='{{item.id}}-tab'><span ng-bind="item.id"></span></a>

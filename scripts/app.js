@@ -31,7 +31,6 @@ app.config(['$routeProvider', '$locationProvider', function($routeProvider, $loc
     $routeProvider
 	    .when('/', {
             templateUrl: 'views/main.html',
-            controller: 'MainCtrl',
             title: '',
             keywords: '',
             description: ''
