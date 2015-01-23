@@ -1,9 +1,9 @@
-$base-a: #2ecc71;
-$base-b: #f39c12;
-$base-c: #f15353;
-$base-d: #1b97ae;
-$base-e: #e67e22;
-$base-f: #1abc9c;
+$base-a: #2ecc71; // green
+$base-b: #f39c12; // yellow
+$base-c: #f15353; // pink
+$base-d: #1b97ae; // blue
+$base-e: #e67e22; // orange
+$base-f: #1abc9c; // mint
 
 @font-face {
   font-family: 'icomoon';
@@ -355,7 +355,9 @@ footer {
     squirrel, bottleopener, choppingboard, orange,
     squid, towel, bed, cake, frog, 
     ant, mirror, telephone, bathtub, hat, nest, vacuum, iron, jellyfish, zebra, kettle, factory, lizard, yarn,
-    bee, cow, sweater, sneakers, crocodile, turtle, broccoli, celery, washstand, lamp, earphone, ladle, mop, flashlight, cap, briefs, hamster, butterfly, corn, potato, hairdryer, wardrobe, rug, floor, microwave, dustpan, parrot, clock, highheels, panties, coat, hanger, pillow, toiletpaper, toiletbowl, door, television, oven, pot, slippers, snake, outlet, raincoat, boxers, necklace, whale, shampoo, toothpaste, ironingboard, washingmachine, bin, elephant, duck, owl, boots, chicken, lobster, tomato, soap, spatula, quilt, alarmclock, kitchenknife, table, blind, fryingpan, gloves, pigeon, wall, blender, brassiere, cap, scarf, camel, shell, pea, toothbrush, blanket, airconditioner, remotecontrol, headphone) {
+    bee, cow, sweater, sneakers, crocodile, turtle, broccoli, celery, washstand, lamp, earphone, ladle, mop, flashlight, cap, briefs, hamster, butterfly, corn, potato, hairdryer, wardrobe, rug, floor, microwave, dustpan, parrot, clock, highheels, panties, coat, hanger, pillow, toiletpaper, toiletbowl, door, television, oven, pot, slippers, snake, outlet, raincoat, boxers, necklace, whale, shampoo, toothpaste, ironingboard, washingmachine, bin, elephant, duck, owl, boots, chicken, lobster, tomato, soap, spatula, quilt, alarmclock, kitchenknife, table, blind, fryingpan, gloves, pigeon, wall, blender, brassiere, cap, scarf, camel, shell, pea, toothbrush, blanket, airconditioner, remotecontrol, headphone,
+      pepper, necktie, glass, teapot, teacup, mug, bowl, plate, chopstick, spoon, notebook, clothes, soldier, icecream, dress,
+      fork, taxi) {
   .#{$image}-img {
     background: url('../images/#{$image}.png') no-repeat center center;
     -webkit-background-size: cover;
@@ -393,7 +395,8 @@ footer {
     squid, towel, bed, cake, frog, 
     ant, mirror, telephone, bathtub, hat, nest, vacuum, iron, jellyfish, zebra, kettle, factory, lizard, yarn,
     bee, cow, sweater, sneakers, crocodile, turtle, broccoli, celery, washstand, lamp, earphone, ladle, mop, flashlight, cap, briefs, hamster, butterfly, corn, potato, hairdryer, wardrobe, rug, floor, microwave, dustpan, parrot, clock, highheels, panties, coat, hanger, pillow, toiletpaper, toiletbowl, door, television, oven, pot, slippers, snake, outlet, raincoat, boxers, necklace, whale, shampoo, toothpaste, ironingboard, washingmachine, bin, elephant, duck, owl, boots, chicken, lobster, tomato, soap, spatula, quilt, alarmclock, kitchenknife, table, blind, fryingpan, gloves, pigeon, wall, blender, brassiere, cap, scarf, camel, shell, pea, toothbrush, blanket, airconditioner, remotecontrol, headphone,
-      pepper, necktie, glass, teapot, teacup, mug, bowl, plate, chopstick, spoon, notebook, clothes, soldier, icecream, dress ) {
+      pepper, necktie, glass, teapot, teacup, mug, bowl, plate, chopstick, spoon, notebook, clothes, soldier, icecream, dress,
+      fork, taxi ) {
     .#{$image}-img {
       background: url('../images/#{$image}.png') no-repeat center center;
       -webkit-background-size: cover;
@@ -468,7 +471,8 @@ footer {
     squid, towel, bed, cake, frog, 
     ant, mirror, telephone, bathtub, hat, nest, vacuum, iron, jellyfish, zebra, kettle, factory, lizard, yarn,
     bee, cow, sweater, sneakers, crocodile, turtle, broccoli, celery, washstand, lamp, earphone, ladle, mop, flashlight, cap, briefs, hamster, butterfly, corn, potato, hairdryer, wardrobe, rug, floor, microwave, dustpan, parrot, clock, highheels, panties, coat, hanger, pillow, toiletpaper, toiletbowl, door, television, oven, pot, slippers, snake, outlet, raincoat, boxers, necklace, whale, shampoo, toothpaste, ironingboard, washingmachine, bin, elephant, duck, owl, boots, chicken, lobster, tomato, soap, spatula, quilt, alarmclock, kitchenknife, table, blind, fryingpan, gloves, pigeon, wall, blender, brassiere, cap, scarf, camel, shell, pea, toothbrush, blanket, airconditioner, remotecontrol, headphone,
-    pepper, necktie, glass, teapot, teacup, mug, bowl, plate, chopstick, spoon, notebook, clothes, soldier, icecream, dress) {
+    pepper, necktie, glass, teapot, teacup, mug, bowl, plate, chopstick, spoon, notebook, clothes, soldier, icecream, dress,
+    fork, taxi) {
     .#{$image}-img {
       background: url('../images/#{$image}.png') no-repeat center center;
       -webkit-background-size: cover;
@@ -516,7 +520,8 @@ footer {
     squid, towel, bed, cake, frog, 
     ant, mirror, telephone, bathtub, hat, nest, vacuum, iron, jellyfish, zebra, kettle, factory, lizard, yarn,
     bee, cow, sweater, sneakers, crocodile, turtle, broccoli, celery, washstand, lamp, earphone, ladle, mop, flashlight, cap, briefs, hamster, butterfly, corn, potato, hairdryer, wardrobe, rug, floor, microwave, dustpan, parrot, clock, highheels, panties, coat, hanger, pillow, toiletpaper, toiletbowl, door, television, oven, pot, slippers, snake, outlet, raincoat, boxers, necklace, whale, shampoo, toothpaste, ironingboard, washingmachine, bin, elephant, duck, owl, boots, chicken, lobster, tomato, soap, spatula, quilt, alarmclock, kitchenknife, table, blind, fryingpan, gloves, pigeon, wall, blender, brassiere, cap, scarf, camel, shell, pea, toothbrush, blanket, airconditioner, remotecontrol, headphone,
-    pepper, necktie, glass, teapot, teacup, mug, bowl, plate, chopstick, spoon, notebook, clothes, soldier, icecream, dress) {
+    pepper, necktie, glass, teapot, teacup, mug, bowl, plate, chopstick, spoon, notebook, clothes, soldier, icecream, dress,
+    fork, taxi) {
     .#{$image}-img {
       background: url('../images/#{$image}.png') no-repeat center center;
       -webkit-background-size: cover;
@@ -617,14 +622,14 @@ footer {
   }
 }
 
-@each $id in (bag, hand, newspaper, ticket, zoo, bus, hotel, train,pear, beans, egg, rice, westernfood, chinesedumpling, garlic, sunflower, mouse, school,mosquito, electrickettle, feather, curtain, bathtub, nest, flashlight, cap,boxers, briefs, hamster, butterfly, corn, potato, hairdryer, wardrobe, rug, floor, microwave, dustpan, glass, teapot, necktie) {
+@each $id in (bag, hand, newspaper, ticket, zoo, bus, hotel, train,pear, beans, egg, rice, westernfood, chinesedumpling, garlic, sunflower, mouse, school,mosquito, electrickettle, feather, curtain, bathtub, nest, flashlight, cap,boxers, briefs, hamster, butterfly, corn, potato, hairdryer, wardrobe, rug, floor, microwave, dustpan, glass, teapot, necktie, taxi) {
   ##{$id} {
     background: $base-b;
     color: #222;
   }
 }
 
-@each $id in (cloud, ice, octopus, umbrella, udon, car, immigration,apple, strawberry, shrimp, beer, beef, ruler, peach, rose, deer, cat,socks, giraffe, chair, electricfan, kettle, telephone, parrot, clock, highheels, panties, coat, hanger, pillow, toiletpaper, toiletbowl, door, television, oven, pot, mug, notebook) {
+@each $id in (cloud, ice, octopus, umbrella, udon, car, immigration,apple, strawberry, shrimp, beer, beef, ruler, peach, rose, deer, cat,socks, giraffe, chair, electricfan, kettle, telephone, parrot, clock, highheels, panties, coat, hanger, pillow, toiletpaper, toiletbowl, door, television, oven, pot, mug, notebook, fork) {
   ##{$id} {
     background: $base-c;
     color: #222;
