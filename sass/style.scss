@@ -1,0 +1,751 @@
+$base-a: #2ecc71;
+$base-b: #f39c12;
+$base-c: #f15353;
+$base-d: #1b97ae;
+$base-e: #e67e22;
+$base-f: #1abc9c;
+
+@font-face {
+  font-family: 'icomoon';
+  src:url('../fonts/icomoon.eot?jaz7lp');
+  src:url('../fonts/icomoon.eot?#iefixjaz7lp') format('embedded-opentype'),
+    url('../fonts/icomoon.woff?jaz7lp') format('woff'),
+    url('../fonts/icomoon.ttf?jaz7lp') format('truetype'),
+    url('../fonts/icomoon.svg?jaz7lp#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  font-family: 'icomoon';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-mail:before {
+  content: "\e601";
+}
+
+.icon-plus:before {
+  content: "\e600";
+}
+
+.icon-twitter2:before {
+  content: "\e602";
+}
+
+.icon-chrome:before {
+  content: "\eae5";
+}
+
+[ng\:cloak], 
+[ng-cloak], 
+.ng-cloak {
+  display: none !important;
+}
+
+*, *:before, *:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+@mixin horizontal-center() {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -moz-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+
+@mixin vertical-left() {
+  -webkit-box-pack: flex-start;
+  -moz-box-pack: flex-start;
+  -ms-flex-pack: flex-start;
+  -webkit-justify-content: flex-start;
+  justify-content: flex-start;
+}
+
+@mixin vertical-right() {
+  -webkit-box-pack: flex-end;
+  -moz-box-pack: flex-end;
+  -ms-flex-pack: flex-end;
+  -webkit-justify-content: flex-end;
+  justify-content: flex-end;
+}
+
+@mixin vertical-center() {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: box;
+  -webkit-box-pack: center;
+  -moz-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-box-align: center; 
+  -moz-box-align: center;
+  -ms-flex-align: middle;
+  box-align: center;
+}
+
+body {
+  background: #222;
+  font-family: Helvetica, Helvetica Neue, Arial;
+  -webkit-overflow-scrolling: touch;
+}
+
+body::-webkit-scrollbar { 
+  display: none; 
+}
+
+a {
+  color: #000;
+  cursor: pointer;
+  text-decoration: none;
+  /*text-transform: uppercase;*/
+}
+
+a:hover,
+a:active {
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+
+a:link,
+a:visited {
+  /*color: #000;*/
+}
+
+ul,
+li {
+  list-style: none;
+  padding: 0;
+}
+
+h1,h2,h3,h4,p {
+  margin: 0;
+}
+
+.l-box {
+  padding: 1em;
+}
+
+#header,
+header {
+  display: none;
+  a > span {
+    text-decoration: uppercase;
+  }
+  &.hidden {
+    display: none;
+  }
+}
+
+#container {
+  /*margin-bottom: 34px;*/
+  z-index: 1;
+}
+
+#footer,
+footer {
+  background: #000;
+  padding: 2em 1em 2em 1em;
+  text-align: center;
+  width: 100%;
+  p {
+    color: #68686B;
+    font-size: .9em;
+    font-weight: 200;
+    margin-bottom: 1em;
+    text-shadow: 0 1px 0 rgba(200,200,200,.05);
+    a {
+      color: #68686B;
+      span {
+        font-size: 1.5em;
+      }
+      &.link {
+        text-decoration: underline;
+      }
+      &:hover {
+        color:#eee;
+      }
+    } 
+  }
+  #contact {
+    margin-bottom: 0;
+    #twitter,
+    #email {
+      color: #68686B;
+      margin-right: 1em;
+      &:hover {
+        color: #eee;
+      }
+    }
+  }
+}
+
+#loader {
+  background: #333;
+  bottom: 0;
+  color: #fff;
+  display: block;
+  left: 0;
+  position: absolute;
+  right: 0;
+  text-align: center;
+  width: 100%;
+  z-index: 999;
+  &.hide {
+    display: none;
+  }
+  p {
+    background: #333;
+    font-weight: 100;
+    height: 34px !important;
+    letter-spacing: 2px;
+    padding: .5em .7em;
+    text-shadow: 0 1px 0 rgba(0,0,0,.1);
+    text-transform: uppercase;
+    z-index: 1000;
+  }
+}
+
+#preloader5 {
+  position:relative;
+  span {
+    position: absolute;
+    width:15px;
+    height:15px;
+    background:#000;
+    border-radius: 20px;
+    -webkit-animation: preloader_5 1s infinite linear;
+    animation: preloader_5 1s infinite linear;
+  }
+}
+
+#preloader5 span em {
+  color: #fff;
+  margin: 9px;
+  position: relative;
+  top: -5px;
+}
+
+@-webkit-keyframes preloader_5 {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  50% {
+    -webkit-transform: rotate(180deg);
+    transform: rotate(180deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+
+.card {
+  cursor: default;
+  h1 {
+    border-top: 1px solid #000;
+    margin-bottom: 0;
+    padding-top: .5em;
+    span {
+      font-size: .5em;
+      text-transform: uppercase;
+      font-weight: 200;
+    }
+  }
+  .pronunciation {
+    margin-left: .3em;
+  }
+  .kanji {
+    border-top: 1px solid #000;
+    font-family: SimHei,STHeiti,SimSun,STSong;
+    font-size: 1.67em;
+    max-height: 42px;
+    margin-top: .5em;
+    padding-left: .2em;
+    padding-top: .5em;
+  }
+  .copy {
+    color: #5e5e5e;
+    font-weight: 200;
+    padding-left: .3em;
+    padding-top: .5em;
+    text-align: center;
+    text-shadow: 0 1px 0 rgba(200,200,200,.05);
+  }
+  .share {
+    font-weight: 200;
+    padding-left: .3em;
+    padding-top: .5em;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: underline;
+    a {
+      color: #5e5e5e;
+      cursor: pointer;
+      text-shadow: 0 1px 0 rgba(0,0,0,.1);
+    }
+    a:hover {
+      color: #eee;
+      text-shadow: 0 1px 0 rgba(0,0,0,.1);
+    }
+  }
+}
+
+.img-wrapper {
+  display: block;
+  /*height: 100vw;*/
+  padding: 1em;
+  /*width: inherit;*/
+}
+
+.jam-img {
+  background: url('../images/everyday3.png') no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  display: block;
+  height: 90vw;
+  position: relative;
+}
+
+#jam {
+  h1,
+  .pronunciation,
+  .kanji {
+    display: none;
+  }
+}
+
+@each $image in ( 
+  airplane, guide, map, subway, glasses, giraffe, mountain, mushroom, shoes, sakura, yawn,
+    bag, hand, newspaper, ticket, zoo, bus, hotel, train,
+    cloud, ice, octopus, umbrella, udon, car, immigration,
+    drum, judo, plants, vegetables, departure, japan, passport, vehicles,
+    eye, key, queue, window, water, entrance, kimono,
+    fruit, lion, rope, xylophone, food, luggage,
+    watermelon, fish, greentea, cucumber, scissors, spinach, horse, hospital, trafficlight,
+    pear, beans, egg, rice, westernfood, chinesedumpling, garlic, sunflower, mouse, school,
+    apple, strawberry, shrimp, beer, beef, ruler, peach, rose, deer, cat,
+    grape, milk, salt, japanesefood, calculator, eraser, eggplant, swimming, pig, bank,
+    cherry, carrot, chickenmeat, crab, bread, sushi, glue, pumpkin, dog, bridge,
+    onion, sugar, sushi, dairy, riceuncooked, drinks, pencil, dandelion, rabbit, rhino,
+    switch, lettuce, asparagus, ear,refrigerator,
+    mosquito, electrickettle, feather, curtain,
+    socks, giraffe, chair, electricfan,
+    dragonfly, stapler, snail, penguin,
+    squirrel, bottleopener, choppingboard, orange,
+    squid, towel, bed, cake, frog, 
+    ant, mirror, telephone, bathtub, hat, nest, vacuum, iron, jellyfish, zebra, kettle, factory, lizard, yarn,
+    bee, cow, sweater, sneakers, crocodile, turtle, broccoli, celery, washstand, lamp, earphone, ladle, mop, flashlight, cap, briefs, hamster, butterfly, corn, potato, hairdryer, wardrobe, rug, floor, microwave, dustpan, parrot, clock, highheels, panties, coat, hanger, pillow, toiletpaper, toiletbowl, door, television, oven, pot, slippers, snake, outlet, raincoat, boxers, necklace, whale, shampoo, toothpaste, ironingboard, washingmachine, bin, elephant, duck, owl, boots, chicken, lobster, tomato, soap, spatula, quilt, alarmclock, kitchenknife, table, blind, fryingpan, gloves, pigeon, wall, blender, brassiere, cap, scarf, camel, shell, pea, toothbrush, blanket, airconditioner, remotecontrol, headphone) {
+  .#{$image}-img {
+    background: url('../images/#{$image}.png') no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    display: block;
+    height: 90vw;
+    position: relative;
+  }
+}
+
+@media (min-width: 1024px) {
+  .img-wrapper {
+    height: 25vw;
+    width: 100%;
+  }
+  @each $image in ( 
+    airplane, guide, map, subway, glasses, giraffe, mountain, mushroom, shoes, sakura, yawn,
+    bag, hand, newspaper, ticket, zoo, bus, hotel, train,
+    cloud, ice, octopus, umbrella, udon, car, immigration,
+    drum, judo, plants, vegetables, departure, japan, passport, vehicles,
+    eye, key, queue, window, water, entrance, kimono,
+    fruit, lion, rope, xylophone, food, luggage,
+    watermelon, fish, greentea, cucumber, scissors, spinach, horse, hospital, trafficlight,
+    pear, beans, egg, rice, westernfood, chinesedumpling, garlic, sunflower, mouse, school,
+    apple, strawberry, shrimp, beer, beef, ruler, peach, rose, deer, cat,
+    grape, milk, salt, japanesefood, calculator, eraser, eggplant, swimming, pig, bank,
+    cherry, carrot, chickenmeat, crab, bread, sushi, glue, pumpkin, dog, bridge,
+    onion, sugar, sushi, dairy, riceuncooked, drinks, pencil, dandelion, rabbit, rhino,
+    switch, lettuce, asparagus, ear,refrigerator,
+    mosquito, electrickettle, feather, curtain,
+    socks, giraffe, chair, electricfan,
+    dragonfly, stapler, snail, penguin,
+    squirrel, bottleopener, choppingboard, orange,
+    squid, towel, bed, cake, frog, 
+    ant, mirror, telephone, bathtub, hat, nest, vacuum, iron, jellyfish, zebra, kettle, factory, lizard, yarn,
+    bee, cow, sweater, sneakers, crocodile, turtle, broccoli, celery, washstand, lamp, earphone, ladle, mop, flashlight, cap, briefs, hamster, butterfly, corn, potato, hairdryer, wardrobe, rug, floor, microwave, dustpan, parrot, clock, highheels, panties, coat, hanger, pillow, toiletpaper, toiletbowl, door, television, oven, pot, slippers, snake, outlet, raincoat, boxers, necklace, whale, shampoo, toothpaste, ironingboard, washingmachine, bin, elephant, duck, owl, boots, chicken, lobster, tomato, soap, spatula, quilt, alarmclock, kitchenknife, table, blind, fryingpan, gloves, pigeon, wall, blender, brassiere, cap, scarf, camel, shell, pea, toothbrush, blanket, airconditioner, remotecontrol, headphone,
+      pepper, necktie, glass, teapot, teacup, mug, bowl, plate, chopstick, spoon, notebook, clothes, soldier, icecream, dress ) {
+    .#{$image}-img {
+      background: url('../images/#{$image}.png') no-repeat center center;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      background-size: cover;
+      display: block;
+      height: 23vw;
+      position: relative;
+    }
+  }
+  .jam-img {
+    background: url('../images/everyday3.png') no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    display: block;
+    height: 23vw;
+    position: relative;
+  }
+}
+
+@media (min-width: 1280px) {
+  .card {
+    h1 {
+      font-size: 1.44em;
+      span {
+        font-size: 0.53em;
+      }
+    }
+  }
+}
+
+@media (min-width: 1024px) and (max-width: 1279px) {
+  .card {
+    h1 {
+      font-size: 1.33em;
+    }
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+  .img-wrapper {
+    height: 33.333333vw;
+    width: 100%;
+  }
+  .card {
+    h1 {
+      font-size: 1.33em;
+    }
+    .copy {
+      font-size: .9em;
+    }
+  }
+  @each $image in ( 
+    airplane, guide, map, subway, glasses, giraffe, mountain, mushroom, shoes, sakura, yawn,
+    bag, hand, newspaper, ticket, zoo, bus, hotel, train,
+    cloud, ice, octopus, umbrella, udon, car, immigration,
+    drum, judo, plants, vegetables, departure, japan, passport, vehicles,
+    eye, key, queue, window, water, entrance, kimono,
+    fruit, lion, rope, xylophone, food, luggage,
+    watermelon, fish, greentea, cucumber, scissors, spinach, horse, hospital, trafficlight,
+    pear, beans, egg, rice, westernfood, chinesedumpling, garlic, sunflower, mouse, school,
+    apple, strawberry, shrimp, beer, beef, ruler, peach, rose, deer, cat,
+    grape, milk, salt, japanesefood, calculator, eraser, eggplant, swimming, pig, bank,
+    cherry, carrot, chickenmeat, crab, bread, sushi, glue, pumpkin, dog, bridge,
+    onion, sugar, sushi, dairy, riceuncooked, drinks, pencil, dandelion, rabbit, rhino,
+    switch, lettuce, asparagus, ear,refrigerator,
+    mosquito, electrickettle, feather, curtain,
+    socks, giraffe, chair, electricfan,
+    dragonfly, stapler, snail, penguin,
+    squirrel, bottleopener, choppingboard, orange,
+    squid, towel, bed, cake, frog, 
+    ant, mirror, telephone, bathtub, hat, nest, vacuum, iron, jellyfish, zebra, kettle, factory, lizard, yarn,
+    bee, cow, sweater, sneakers, crocodile, turtle, broccoli, celery, washstand, lamp, earphone, ladle, mop, flashlight, cap, briefs, hamster, butterfly, corn, potato, hairdryer, wardrobe, rug, floor, microwave, dustpan, parrot, clock, highheels, panties, coat, hanger, pillow, toiletpaper, toiletbowl, door, television, oven, pot, slippers, snake, outlet, raincoat, boxers, necklace, whale, shampoo, toothpaste, ironingboard, washingmachine, bin, elephant, duck, owl, boots, chicken, lobster, tomato, soap, spatula, quilt, alarmclock, kitchenknife, table, blind, fryingpan, gloves, pigeon, wall, blender, brassiere, cap, scarf, camel, shell, pea, toothbrush, blanket, airconditioner, remotecontrol, headphone,
+    pepper, necktie, glass, teapot, teacup, mug, bowl, plate, chopstick, spoon, notebook, clothes, soldier, icecream, dress) {
+    .#{$image}-img {
+      background: url('../images/#{$image}.png') no-repeat center center;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      background-size: cover;
+      display: block;
+      height: 27vw;
+      position: relative;
+    }
+  }
+  .jam-img {
+    background: url('../images/everyday3.png') no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    display: block;
+    height: 27vw;
+    position: relative;
+  }
+}
+
+@media (min-width: 568px) and (max-width: 767px) {
+  .img-wrapper {
+    height: 54vw;
+    width: 100%;
+  }
+  @each $image in ( 
+    airplane, guide, map, subway, glasses, giraffe, mountain, mushroom, shoes, sakura, yawn,
+    bag, hand, newspaper, ticket, zoo, bus, hotel, train,
+    cloud, ice, octopus, umbrella, udon, car, immigration,
+    drum, judo, plants, vegetables, departure, japan, passport, vehicles,
+    eye, key, queue, window, water, entrance, kimono,
+    fruit, lion, rope, xylophone, food, luggage,
+    watermelon, fish, greentea, cucumber, scissors, spinach, horse, hospital, trafficlight,
+    pear, beans, egg, rice, westernfood, chinesedumpling, garlic, sunflower, mouse, school,
+    apple, strawberry, shrimp, beer, beef, ruler, peach, rose, deer, cat,
+    grape, milk, salt, japanesefood, calculator, eraser, eggplant, swimming, pig, bank,
+    cherry, carrot, chickenmeat, crab, bread, sushi, glue, pumpkin, dog, bridge,
+    onion, sugar, sushi, dairy, riceuncooked, drinks, pencil, dandelion, rabbit, rhino,
+    switch, lettuce, asparagus, ear,refrigerator,
+    mosquito, electrickettle, feather, curtain,
+    socks, giraffe, chair, electricfan,
+    dragonfly, stapler, snail, penguin,
+    squirrel, bottleopener, choppingboard, orange,
+    squid, towel, bed, cake, frog, 
+    ant, mirror, telephone, bathtub, hat, nest, vacuum, iron, jellyfish, zebra, kettle, factory, lizard, yarn,
+    bee, cow, sweater, sneakers, crocodile, turtle, broccoli, celery, washstand, lamp, earphone, ladle, mop, flashlight, cap, briefs, hamster, butterfly, corn, potato, hairdryer, wardrobe, rug, floor, microwave, dustpan, parrot, clock, highheels, panties, coat, hanger, pillow, toiletpaper, toiletbowl, door, television, oven, pot, slippers, snake, outlet, raincoat, boxers, necklace, whale, shampoo, toothpaste, ironingboard, washingmachine, bin, elephant, duck, owl, boots, chicken, lobster, tomato, soap, spatula, quilt, alarmclock, kitchenknife, table, blind, fryingpan, gloves, pigeon, wall, blender, brassiere, cap, scarf, camel, shell, pea, toothbrush, blanket, airconditioner, remotecontrol, headphone,
+    pepper, necktie, glass, teapot, teacup, mug, bowl, plate, chopstick, spoon, notebook, clothes, soldier, icecream, dress) {
+    .#{$image}-img {
+      background: url('../images/#{$image}.png') no-repeat center center;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      background-size: cover;
+      display: block;
+      height: 45vw;
+      position: relative;
+    }
+  }
+  .jam-img {
+    background: url('../images/everyday3.png') no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    display: block;
+    height: 45vw;
+    position: relative;
+  }
+  .card {
+    h1 {
+      font-size: 1.6em;
+    }
+  }
+}
+
+@media (max-width: 567px) {
+  .card {
+    h1 {
+      font-size: 1.6em;
+      span {
+        font-size: .52em;
+        text-transform: uppercase;
+        font-weight: 200;
+      }
+    }
+    display: block;
+    height:  100vh;
+    width: 100vw;
+    img {
+      height: 100%;
+      width: 100%;
+    }
+  }
+  .img-wrapper {
+    height: 100vw;
+    width: 100%;
+  }
+  #header,
+  header {
+    background: #333;
+    display: block;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    bottom: 0;
+    left: 0;
+    overflow-x: scroll;
+    overflow-y: none;
+    position: fixed;
+    right: 0;
+    width: 100%;
+    z-index: 10;
+    > div {
+      padding: .5em 0;
+    }
+    a {
+      color: #fff;
+      span {
+        min-width: 33px;
+        padding: .6em .7em;
+        text-align: center;
+      }
+      &:nth-of-type(odd) span {
+        background: #333;
+      }
+      &:nth-of-type(even) span {
+        background: #333;
+      }
+    }
+  }
+  #header::-webkit-scrollbar,
+  header::-webkit-scrollbar { 
+    display: none; 
+  }
+  #container {
+    margin-bottom: 34px;
+  }
+  #footer,
+  footer {
+    display: none;
+  }
+}
+
+/* 6 colour code */
+@each $id in (airplane, glasses, giraffe, mountain, mushroom, shoes, sakura, yawn, guide, map, subway,watermelon, fish, greentea, cucumber, scissors, spinach, horse, hospital, trafficlight,switch, lettuce, asparagus, ear,refrigerator, factory, zebra, bee, cow, sweater, sneakers, crocodile, turtle, broccoli, celery, washstand, lamp, earphone, ladle, mop, yarn, pepper, teacup, dress) {
+  ##{$id} {
+    background: $base-a;
+    color: #222;
+  }
+}
+
+@each $id in (bag, hand, newspaper, ticket, zoo, bus, hotel, train,pear, beans, egg, rice, westernfood, chinesedumpling, garlic, sunflower, mouse, school,mosquito, electrickettle, feather, curtain, bathtub, nest, flashlight, cap,boxers, briefs, hamster, butterfly, corn, potato, hairdryer, wardrobe, rug, floor, microwave, dustpan, glass, teapot, necktie) {
+  ##{$id} {
+    background: $base-b;
+    color: #222;
+  }
+}
+
+@each $id in (cloud, ice, octopus, umbrella, udon, car, immigration,apple, strawberry, shrimp, beer, beef, ruler, peach, rose, deer, cat,socks, giraffe, chair, electricfan, kettle, telephone, parrot, clock, highheels, panties, coat, hanger, pillow, toiletpaper, toiletbowl, door, television, oven, pot, mug, notebook) {
+  ##{$id} {
+    background: $base-c;
+    color: #222;
+  }
+}
+
+@each $id in (drum, judo, plants, vegetables, departure, japan, passport, vehicles, grape, milk, salt, japanesefood, calculator, eraser, eggplant, swimming, pig, bank,dragonfly, stapler, snail, penguin, mirror, jellyfish, slippers, snake, outlet, raincoat, necklace, whale, shampoo, toothpaste, ironingboard, washingmachine, bin, elephant, plate, icecream) {
+  ##{$id} {
+    background: $base-d;
+    color: #222;
+  }
+}
+
+@each $id in (eye, key, queue, window, water, entrance, kimono, cherry, carrot, chickenmeat, crab, bread, sushi, glue, pumpkin, dog, bridge,squirrel, bottleopener, choppingboard, orange, hat, vacuum, duck, owl, boots, chicken, lobster, tomato, soap, spatula, quilt, alarmclock, kitchenknife, table, blind, fryingpan, chopstick, spoon, bowl) {
+  ##{$id} {
+    background: $base-e;
+    color: #222;
+  }
+}
+
+@each $id in (fruit, lion, rope, xylophone, food, luggage, onion, sugar, sushi, dairy, riceuncooked, drinks, pencil, dandelion, rabbit, rhino,squid, towel, bed, cake, frog, ant,iron,lizard, gloves, pigeon, wall, blender, brassiere, cap, scarf, camel, shell, pea, toothbrush, blanket, airconditioner, remotecontrol, headphone, clothes, soldier) {
+  ##{$id} {
+    background: $base-f;
+    color: #222;
+  }
+}
+
+.cell {
+  margin: 0 16%;
+  color: #fff;
+  padding-top: 1em;
+  overflow: hidden;
+  width: 68%;
+}
+
+#cards {
+  img {
+    width: 400px;
+  }
+}
+
+#download {
+  background: #222;
+  height: 100vh;
+  @include vertical-center();
+  text-align: center;
+  #download_desc {
+    color: #000;
+    margin-top: 1em;
+    p {
+      color: #ccc;
+      font-size: 1em;
+      padding: 1em;
+      text-shadow: 0 1px 0 rgba(0,0,0,.05);
+    }
+    a {
+      border-radius: 3px;
+      color: #ccc;
+      text-decoration: none;
+      text-shadow: 0 1px 0 rgba(0,0,0,.05);
+      box-shadow: 0 1px 0 rgba(0,0,0,.1);
+    }
+    a:hover {
+      color: #eee;
+      text-shadow: 0 1px 0 rgba(0,0,0,.05);
+    }
+    #chrome_btn {
+      padding: 1em; 
+      background: #000;
+      color: #fff;
+    }
+    .twitter {
+      box-shadow: none;
+      text-shadow: none;
+    }
+  }  
+}
+
+.icon-plus {
+  font-size: 1.2em;
+  position: relative;
+  top: 2px;
+  right: 3px;
+}
+
+// mailchimp
+#mc_embed_signup {
+  color: #fff;
+  text-align: center !important;
+  form {
+    padding: 15px 15px 0 15px!important;
+  }
+  label {
+    border-top: 1px solid #68686B;
+    color: #68686B;
+    font-weight: 200 !important;
+    padding-top: 15px;
+    text-align: center !important;
+    text-shadow: 0 1px 0 rgba(200,200,200,.05);
+  }
+  input.email {
+    left: 0 !important;
+    margin: 0 auto 10px auto !important;
+    max-width: 400px !important;
+    position: absolute !important;
+    right: 0 !important;
+  }
+  input.button {
+    margin: 50px auto 10px auto !important;
+  }
+  .button {
+    width: 150px !important;
+    color: #000 !important;
+    font-weight: 200 !important;
+    background-color: #68686B !important;
+    &:hover {
+      background-color: #eee !important;
+    }
+  }
+}
+
+#mc_embed_signup_scroll {
+  display: inline;
+}

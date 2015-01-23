@@ -1,0 +1,52 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class='no-js lt-ie9 lt-ie8 lt-ie7'> <![endif]-->
+<!--[if IE 7]>         <html class='no-js lt-ie9 lt-ie8'> <![endif]-->
+<!--[if IE 8]>         <html class='no-js lt-ie9'> <![endif]-->
+<!--[if gt IE 8]><!--> 
+<html class='no-js' data-ng-app='jamApp'> <!--<![endif]-->
+<head>
+
+  <base href='/' >
+  <meta charset='utf-8'>
+  <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+  <meta name='viewport' content='initial-scale=1.0, maximum-scale=1.0, user-scalable=no, width=device-width'>
+  <link rel='shortcut icon' href='favicon.ico' type='image/x-icon'>
+  <link rel='icon' href='favicon.ico' type='image/x-icon'>
+  <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+  <!-- build:css(.tmp) styles/main.css -->
+  <link rel='stylesheet' href='assets/pure/pure.v0.5.0.css'>
+  <link rel='stylesheet' href='assets/pure/grids-responsive-min.css'>
+  <link rel='stylesheet' href='assets/style.min.css'>
+  <!-- endbuild -->
+</head>
+<body>
+  <header id='header' class='pure-g' ng-controller='ListCtrl'>
+    <div class='pure-u-1'>
+      <a ng-click='scroll(item.title)' ng-repeat='item in list' class='{{item.id}}-tab'><span ng-bind="item.id"></span></a>
+    </div>
+  </header>
+  <!-- Add your site or application content here -->
+  <div id='container' class='pure-g' ng-view ng-cloak></div>
+  <script>
+      // Picture element HTML5 shiv
+      document.createElement( "picture" );
+  </script>
+  <script src='js/picturefill.min.js' async></script>
+  <script src='js/vminpoly.js' async></script>
+  <!-- 3rd party -->
+  <script src='js/angular/angular.min.js'></script>
+  <script src='js/angular/angular-route.min.js'></script>
+  <script src='js/angular/angular-resource.min.js'></script>
+  <script src='js/angular/angular-cookies.min.js'></script>
+  <script src='js/angular/angular-sanitize.min.js'></script>
+  <script src='js/angular/angular-touch.min.js'></script>
+  <script src='js/angular/angular-animate.min.js'></script>
+  <script src='js/vendor/jquery-1.11.1.min.js'></script>
+
+  <!-- App -->
+  <script src='scripts/app.js'></script>
+  <script src='scripts/controllers.js'></script>
+  <script src='scripts/filters.js'></script>
+
+</body>
+</html>

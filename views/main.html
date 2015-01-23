@@ -1,0 +1,14 @@
+<div class='pure-u-1'>
+  <section class='card pure-u-1 pure-u-sm-1-2 pure-u-md-1-3 pure-u-lg-1-4' ng-click='scroll(item.title)' ng-repeat='item in list' id='{{item.title}}'>
+  	<div class='img-wrapper'>
+  		<div class='{{item.title}}-img'></div>
+  	</div>
+  	<div class='l-box'>
+  		<h1>{{item.word}} | <span ng-bind="item.meaning"></span></h1>
+  		<p class='pronunciation'>{{ item.pronunciation | middot }}</p>
+  		<p class='kanji'>{{ item.kanji | none }}</p>
+  		<p class='copy'>{{ item.copy }}</p>
+      <p class='share'><a href='{{item.link}}' data-ng-click="shareTracking('getapp-logo')" target='_blank'>{{ item.share }}</a></p>
+  	</div>
+  </section>
+</div>
