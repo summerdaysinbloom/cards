@@ -622,7 +622,7 @@ footer {
   }
 }
 /* 6 colour code */
-@each $id in (airplane, glasses, giraffe, mountain, mushroom, shoes, sakura, yawn, guide, map, subway,watermelon, fish, greentea, cucumber, scissors, spinach, horse, hospital, trafficlight,switch, lettuce, asparagus, ear,refrigerator, factory, zebra, bee, cow, sweater, sneakers, crocodile, turtle, broccoli, celery, washstand, lamp, earphone, ladle, mop, yarn, pepper, teacup, dress, monday, sunday,january,july,showerhead, faucet) {
+@each $id in (airplane, glasses, giraffe, mountain, mushroom, shoes, sakura, yawn, guide, map, subway,watermelon, fish, greentea, cucumber, scissors, spinach, horse, hospital, trafficlight,switch, lettuce, asparagus, ear,refrigerator, factory, zebra, bee, cow, sweater, sneakers, crocodile, turtle, broccoli, celery, washstand, lamp, earphone, ladle, mop, yarn, pepper, teacup, dress, monday, sunday,january,july,showerhead) {
   ##{$id} {
     background: $base-a;
     color: #222;
@@ -630,7 +630,7 @@ footer {
 }
 
 @each $id in (bag, hand, newspaper, ticket, zoo, bus, hotel, train,pear, beans, egg, rice, westernfood, chinesedumpling, garlic, sunflower, mouse, school,mosquito, electrickettle, feather, curtain, bathtub, nest, flashlight, cap,boxers, briefs, hamster, butterfly, corn, potato, hairdryer, wardrobe, rug, floor, microwave, dustpan, glass, teapot, necktie, taxi, tuesday,february,august,
-  cottonswab, bathroomscale) {
+  cottonswab, bathroomscale,faucet) {
   ##{$id} {
     background: $base-b;
     color: #222;

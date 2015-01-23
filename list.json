@@ -1,5 +1,16 @@
 [
 {
+  "title": "sneakers",
+  "word" : "スニーカー",
+  "kanji": "-",
+  "meaning": "sneakers",
+  "pronunciation": "su-nii-kaa",
+  "id": "",
+  "svgname": "#icon-sneakers",
+  "svgclass": "icon-sneakers",
+  "copy": ""
+},
+{
   "title": "bathtub",
   "word" : "バスタブ",
   "kanji": "-",
