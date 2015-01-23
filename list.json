@@ -1,5 +1,137 @@
 [
 {
+  "title": "january",
+  "word" : "いちがつ",
+  "kanji": "一月",
+  "meaning": "January",
+  "pronunciation": "i-chi-ga-tsu",
+  "id": "",
+  "svgname": "#icon-january",
+  "svgclass": "icon-january",
+  "copy": ""
+},
+{
+  "title": "february",
+  "word" : "にがつ",
+  "kanji": "二月",
+  "meaning": "February",
+  "pronunciation": "ni-ga-tsu",
+  "id": "",
+  "svgname": "#icon-february",
+  "svgclass": "icon-february",
+  "copy": ""
+},
+{
+  "title": "marcharch",
+  "word" : "さんがつ",
+  "kanji": "三月",
+  "meaning": "March",
+  "pronunciation": "san-ga-tsu",
+  "id": "",
+  "svgname": "#icon-march",
+  "svgclass": "icon-march",
+  "copy": ""
+},
+{
+  "title": "april",
+  "word" : "しがつ",
+  "kanji": "四月",
+  "meaning": "April",
+  "pronunciation": "shi-ga-tsu",
+  "id": "",
+  "svgname": "#icon-april",
+  "svgclass": "icon-april",
+  "copy": ""
+},
+{
+  "title": "may",
+  "word" : "ごがつ",
+  "kanji": "五月",
+  "meaning": "May",
+  "pronunciation": "go-ga-tsu",
+  "id": "",
+  "svgname": "#icon-may",
+  "svgclass": "icon-may",
+  "copy": ""
+},
+{
+  "title": "june",
+  "word" : "ろくがつ",
+  "kanji": "六月",
+  "meaning": "June",
+  "pronunciation": "ro-ku-ga-tsu",
+  "id": "",
+  "svgname": "#icon-june",
+  "svgclass": "icon-june",
+  "copy": ""
+},
+{
+  "title": "july",
+  "word" : "しちがつ",
+  "kanji": "七月",
+  "meaning": "July",
+  "pronunciation": "shi-chi-ga-tsu",
+  "id": "",
+  "svgname": "#icon-july",
+  "svgclass": "icon-july",
+  "copy": ""
+},
+{
+  "title": "august",
+  "word" : "はちがつ",
+  "kanji": "八月",
+  "meaning": "August",
+  "pronunciation": "ha-chi-ga-tsu",
+  "id": "",
+  "svgname": "#icon-august",
+  "svgclass": "icon-august",
+  "copy": ""
+},
+{
+  "title": "september",
+  "word" : "くがつ",
+  "kanji": "九月",
+  "meaning": "September",
+  "pronunciation": "ku-ga-tsu",
+  "id": "",
+  "svgname": "#icon-september",
+  "svgclass": "icon-september",
+  "copy": ""
+},
+{
+  "title": "october",
+  "word" : "じゅうがつ",
+  "kanji": "十月",
+  "meaning": "October",
+  "pronunciation": "juu-ga-tsu",
+  "id": "",
+  "svgname": "#icon-october",
+  "svgclass": "icon-october",
+  "copy": ""
+},
+{
+  "title": "november",
+  "word" : "じゅういちがつ",
+  "kanji": "十一月",
+  "meaning": "November",
+  "pronunciation": "juu-i-chi-ga-tsu",
+  "id": "",
+  "svgname": "#icon-november",
+  "svgclass": "icon-november",
+  "copy": ""
+},
+{
+  "title": "december",
+  "word" : "じゅうにがつ",
+  "kanji": "十二月",
+  "meaning": "December",
+  "pronunciation": "juu-ni-ga-tsu",
+  "id": "",
+  "svgname": "#icon-december",
+  "svgclass": "icon-december",
+  "copy": ""
+},
+{
   "title": "monday",
   "word" : "にちようび",
   "kanji": "月曜日",
