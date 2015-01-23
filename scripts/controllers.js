@@ -5,7 +5,7 @@ app
     function($scope, $location, $anchorScroll, $http, $timeout) {
         console.log('[C] Main');
 
-        $http.get('list.json', { cache: true })
+        $http.get('cards/list.json', { cache: true })
         	.success(function(data) {
         	    $scope.list = data;
         	}).error(function(data, status) {
@@ -33,7 +33,7 @@ app
 	function($scope, $location, $anchorScroll, $http, $timeout) {
 		console.log('[C] list');
 
-		$http.get('list.json', { cache: true })
+		$http.get('cards/list.json', { cache: true })
         	.success(function(data) {
             console.log('data',data)
         	    $scope.list = data;
