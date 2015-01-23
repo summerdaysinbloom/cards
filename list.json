@@ -16,7 +16,7 @@
     "kanji": "-",
     "meaning": "bus",
     "pronunciation": "ba-su",
-    "id": "B",
+    "id": "",
     "svgname": "#icon-bus",
     "svgclass": "icon-bus",
     "copy": ""
@@ -236,7 +236,7 @@
     "kanji": "鞄",
     "meaning": "bag",
     "pronunciation": "ka-ban",
-    "id": "B",
+    "id": "",
     "svgname": "#icon-briefcase",
     "svgclass": "icon-briefcase",
     "copy": ""
@@ -445,7 +445,7 @@
   "kanji": "-",
   "meaning": "apple",
   "pronunciation": "rin-go",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-apple",
   "svgclass": "icon-apple",
   "copy": ""
@@ -456,7 +456,7 @@
   "kanji": "葡萄",
   "meaning": "grape",
   "pronunciation": "bu-do-u",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-grape",
   "svgclass": "icon-grape",
   "copy": ""
@@ -467,7 +467,7 @@
   "kanji": "梨",
   "meaning": "pear",
   "pronunciation": "na-shi",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-pear",
   "svgclass": "icon-pear",
   "copy": ""
@@ -478,7 +478,7 @@
   "kanji": "苺",
   "meaning": "strawberry",
   "pronunciation": "i-chi-go",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-strawberry",
   "svgclass": "icon-strawberry",
   "copy": ""
@@ -489,7 +489,7 @@
   "kanji": "桜ん坊",
   "meaning": "cherry",
   "pronunciation": "sa-ku-ran-bo",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-cherry",
   "svgclass": "icon-cherry",
   "copy": ""
@@ -500,7 +500,7 @@
   "kanji": "西瓜",
   "meaning": "watermelon",
   "pronunciation": "su-i-ka",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-watermelon",
   "svgclass": "icon-watermelon",
   "copy": ""
@@ -511,7 +511,7 @@
   "kanji": "人参",
   "meaning": "carrot",
   "pronunciation": "nin-jin",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-carrot",
   "svgclass": "icon-carrot",
   "copy": ""
@@ -522,7 +522,7 @@
   "kanji": "玉葱",
   "meaning": "onion",
   "pronunciation": "ta-ma-ne-gi",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-onion",
   "svgclass": "icon-onion",
   "copy": ""
@@ -533,7 +533,7 @@
   "kanji": "豆",
   "meaning": "beans",
   "pronunciation": "ma-me",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-beans",
   "svgclass": "icon-beans",
   "copy": ""
@@ -544,7 +544,7 @@
   "kanji": "鶏肉",
   "meaning": "chicken meat",
   "pronunciation": "to-ri-ni-ku",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-chickenmeat",
   "svgclass": "icon-chickenmeat",
   "copy": ""
@@ -555,7 +555,7 @@
   "kanji": "卵",
   "meaning": "egg",
   "pronunciation": "ta-ma-go",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-egg",
   "svgclass": "icon-egg",
   "copy": ""
@@ -566,7 +566,7 @@
   "kanji": "魚",
   "meaning": "fish",
   "pronunciation": "sa-ka-na",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-fish",
   "svgclass": "icon-fish",
   "copy": ""
@@ -577,7 +577,7 @@
   "kanji": "海老",
   "meaning": "shrimp",
   "pronunciation": "e-bi",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-shrimp",
   "svgclass": "icon-shrimp",
   "copy": ""
@@ -588,7 +588,7 @@
   "kanji": "蟹",
   "meaning": "crab",
   "pronunciation": "ka-ni",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-crab",
   "svgclass": "icon-crab",
   "copy": ""
@@ -599,7 +599,7 @@
   "kanji": "牛乳",
   "meaning": "milk",
   "pronunciation": "gyuu-nyuu",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-milk",
   "svgclass": "icon-milk",
   "copy": ""
@@ -610,7 +610,7 @@
   "kanji": "ご飯",
   "meaning": "rice (cooked)",
   "pronunciation": "go-han",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-rice",
   "svgclass": "icon-rice",
   "copy": ""
@@ -621,7 +621,7 @@
   "kanji": "-",
   "meaning": "bread",
   "pronunciation": "pan",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-bread",
   "svgclass": "icon-bread",
   "copy": ""
@@ -632,7 +632,7 @@
   "kanji": "お茶",
   "meaning": "green tea",
   "pronunciation": "o-cha",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-greentea",
   "svgclass": "icon-greentea",
   "copy": ""
@@ -643,7 +643,7 @@
   "kanji": "塩",
   "meaning": "salt",
   "pronunciation": "shi-o",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-salt",
   "svgclass": "icon-salt",
   "copy": ""
@@ -654,7 +654,7 @@
   "kanji": "寿司",
   "meaning": "sushi",
   "pronunciation": "su-shi",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-sushi",
   "svgclass": "icon-sushi",
   "copy": ""
@@ -665,7 +665,7 @@
   "kanji": "-",
   "meaning": "beer",
   "pronunciation": "bi-ru",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-beer",
   "svgclass": "icon-beer",
   "copy": ""
@@ -676,7 +676,7 @@
   "kanji": "乳製品",
   "meaning": "dairy products",
   "pronunciation": "nyuu-se-i-hin",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-dairy",
   "svgclass": "icon-dairy",
   "copy": ""
@@ -698,7 +698,7 @@
   "kanji": "-",
   "meaning": "rice (uncooked)",
   "pronunciation": "ko-me",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-riceuncooked",
   "svgclass": "icon-riceuncooked",
   "copy": ""
@@ -706,10 +706,10 @@
 {
   "title": "drinks",
   "word" : "のみもの",
-  "kanji": "乗り物",
+  "kanji": "飲み物",
   "meaning": "drinks",
   "pronunciation": "No-mi-mo-no",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-drinks",
   "svgclass": "icon-drinks",
   "copy": ""
@@ -720,7 +720,7 @@
   "kanji": "和食",
   "meaning": "japanese food",
   "pronunciation": "wa-sho-ku",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-japanesefood",
   "svgclass": "icon-japanesefood",
   "copy": ""
@@ -731,7 +731,7 @@
   "kanji": "洋食",
   "meaning": "western food",
   "pronunciation": "yo-u-sho-ku",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-westernfood",
   "svgclass": "icon-westernfood",
   "copy": ""
@@ -742,7 +742,7 @@
   "kanji": "餃子",
   "meaning": "chinese dumpling",
   "pronunciation": "gyou-za",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-chinesedumpling",
   "svgclass": "icon-chinesedumpling",
   "copy": ""
@@ -753,7 +753,7 @@
   "kanji": "胡瓜",
   "meaning": "cucumber",
   "pronunciation": "kyuu-ri",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-cucumber",
   "svgclass": "icon-cucumber",
   "copy": ""
@@ -764,7 +764,7 @@
   "kanji": "糊",
   "meaning": "glue",
   "pronunciation": "no-ri",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-glue",
   "svgclass": "icon-glue",
   "copy": ""
@@ -775,7 +775,7 @@
   "kanji": "牛肉",
   "meaning": "beef",
   "pronunciation": "gyuu-ni-ku",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-beef",
   "svgclass": "icon-beef",
   "copy": ""
@@ -786,7 +786,7 @@
   "kanji": "電卓",
   "meaning": "calculator",
   "pronunciation": "den-ta-ku",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-calculator",
   "svgclass": "icon-calculator",
   "copy": ""
@@ -797,7 +797,7 @@
   "kanji": "鋏",
   "meaning": "scissors",
   "pronunciation": "ha-sa-mi",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-scissors",
   "svgclass": "icon-scissors",
   "copy": ""
@@ -808,7 +808,7 @@
   "kanji": "鉛筆",
   "meaning": "pencil",
   "pronunciation": "en-pi-tsu",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-pencil",
   "svgclass": "icon-pencil",
   "copy": ""
@@ -819,7 +819,7 @@
   "kanji": "消しゴム",
   "meaning": "eraser",
   "pronunciation": "ke-shi-go-mu",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-eraser",
   "svgclass": "icon-eraser",
   "copy": ""
@@ -830,7 +830,7 @@
   "kanji": "定規",
   "meaning": "ruler",
   "pronunciation": "jou-gi",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-ruler",
   "svgclass": "icon-ruler",
   "copy": ""
@@ -841,7 +841,7 @@
   "kanji": "桃",
   "meaning": "peach",
   "pronunciation": "mo-mo",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-peach",
   "svgclass": "icon-peach",
   "copy": ""
@@ -852,7 +852,7 @@
   "kanji": "茄子",
   "meaning": "eggplant",
   "pronunciation": "na-su-bi",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-eggplant",
   "svgclass": "icon-eggplant",
   "copy": ""
@@ -863,7 +863,7 @@
   "kanji": "ほうれん草",
   "meaning": "spinach",
   "pronunciation": "ho-u-ren-so-u",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-spinach",
   "svgclass": "icon-spinach",
   "copy": ""
@@ -874,7 +874,7 @@
   "kanji": "大蒜",
   "meaning": "garlic",
   "pronunciation": "nin-ni-ku",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-garlic",
   "svgclass": "icon-garlic",
   "copy": ""
@@ -885,7 +885,7 @@
   "kanji": "南瓜",
   "meaning": "pumpkin",
   "pronunciation": "ka-bo-cha",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-pumpkin",
   "svgclass": "icon-pumpkin",
   "copy": ""
@@ -896,7 +896,7 @@
   "kanji": "水泳",
   "meaning": "swimming",
   "pronunciation": "su-i-e-i",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-swimming",
   "svgclass": "icon-swimming",
   "copy": ""
@@ -907,7 +907,7 @@
   "kanji": "薔薇",
   "meaning": "rose",
   "pronunciation": "ba-ra",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-rose",
   "svgclass": "icon-rose",
   "copy": ""
@@ -918,7 +918,7 @@
   "kanji": "蒲公英",
   "meaning": "dandelion",
   "pronunciation": "tan-po-po",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-dandelion",
   "svgclass": "icon-dandelion",
   "copy": ""
@@ -929,7 +929,7 @@
   "kanji": "向日葵",
   "meaning": "sunflower",
   "pronunciation": "hi-ma-wa-ri",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-sunflower",
   "svgclass": "icon-sunflower",
   "copy": ""
@@ -940,7 +940,7 @@
   "kanji": "猫",
   "meaning": "cat",
   "pronunciation": "ne-ko",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-cat",
   "svgclass": "icon-cat",
   "copy": ""
@@ -951,7 +951,7 @@
   "kanji": "鼠",
   "meaning": "mouse",
   "pronunciation": "ne-zu-mi",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-mouse",
   "svgclass": "icon-mouse",
   "copy": ""
@@ -962,7 +962,7 @@
   "kanji": "鹿",
   "meaning": "deer",
   "pronunciation": "shi-ka",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-deer",
   "svgclass": "icon-deer",
   "copy": ""
@@ -973,7 +973,7 @@
   "kanji": "兎",
   "meaning": "rabbit",
   "pronunciation": "u-sa-gi",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-rabbit",
   "svgclass": "icon-rabbit",
   "copy": ""
@@ -984,7 +984,7 @@
   "kanji": "犬",
   "meaning": "dog",
   "pronunciation": "i-nu",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-dog",
   "svgclass": "icon-dog",
   "copy": ""
@@ -995,7 +995,7 @@
   "kanji": "豚",
   "meaning": "pig",
   "pronunciation": "bu-ta",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-pig",
   "svgclass": "icon-pig",
   "copy": ""
@@ -1006,7 +1006,7 @@
   "kanji": "馬",
   "meaning": "horse",
   "pronunciation": "u-ma",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-horse",
   "svgclass": "icon-horse",
   "copy": ""
@@ -1017,7 +1017,7 @@
   "kanji": "犀",
   "meaning": "rhino",
   "pronunciation": "sa-i",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-rhino",
   "svgclass": "icon-rhino",
   "copy": ""
@@ -1028,7 +1028,7 @@
   "kanji": "病院",
   "meaning": "hospital",
   "pronunciation": "byou-in",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-hospital",
   "svgclass": "icon-hospital",
   "copy": ""
@@ -1039,7 +1039,7 @@
   "kanji": "学校",
   "meaning": "school",
   "pronunciation": "ga-kko-u",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-school",
   "svgclass": "icon-school",
   "copy": ""
@@ -1050,7 +1050,7 @@
   "kanji": "銀行",
   "meaning": "bank",
   "pronunciation": "gin-ko-u",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-bank",
   "svgclass": "icon-bank",
   "copy": ""
@@ -1061,7 +1061,7 @@
   "kanji": "信号",
   "meaning": "traffic light",
   "pronunciation": "shin-go-u",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-trafficlight",
   "svgclass": "icon-trafficlight",
   "copy": ""
@@ -1072,7 +1072,7 @@
   "kanji": "橋",
   "meaning": "bridge",
   "pronunciation": "ha-shi",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-bridge",
   "svgclass": "icon-bridge",
   "copy": ""
@@ -1094,7 +1094,7 @@
   "kanji": "浴槽",
   "meaning": "bath tub",
   "pronunciation": "yo-ku-so-u",
-  "id": "B",
+  "id": "",
   "svgname": "#icon-bathtub",
   "svgclass": "icon-bathtub",
   "copy": ""
@@ -2582,6 +2582,39 @@
   "id": "",
   "svgname": "#icon-dress",
   "svgclass": "icon-dress",
+  "copy": ""
+},
+{
+  "title": "taxi",
+  "word" : "タクシー",
+  "kanji": "牛乳",
+  "meaning": "taxi",
+  "pronunciation": "ta-k(u)-shi",
+  "id": "",
+  "svgname": "#icon-taxi",
+  "svgclass": "icon-taxi",
+  "copy": ""
+},
+{
+  "title": "milk",
+  "word" : "ミルク",
+  "kanji": "-",
+  "meaning": "milk",
+  "pronunciation": "mi-ru-ku",
+  "id": "",
+  "svgname": "#icon-milk",
+  "svgclass": "icon-milk",
+  "copy": ""
+},
+{
+  "title": "fork",
+  "word" : "フォーク",
+  "kanji": "-",
+  "meaning": "fork",
+  "pronunciation": "foo-ku",
+  "id": "",
+  "svgname": "#icon-fork",
+  "svgclass": "icon-fork",
   "copy": ""
 }
 ]
