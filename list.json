@@ -1,5 +1,93 @@
 [
 {
+  "title": "monday",
+  "word" : "にちようび",
+  "kanji": "月曜日",
+  "meaning": "monday",
+  "pronunciation": "ge-tsu-yo-u-bi",
+  "id": "",
+  "svgname": "#icon-monday",
+  "svgclass": "icon-monday",
+  "copy": ""
+},
+{
+  "title": "tuesday",
+  "word" : "かようび",
+  "kanji": "火曜日",
+  "meaning": "tuesday",
+  "pronunciation": "ka-yo-u-bi",
+  "id": "",
+  "svgname": "#icon-tuesday",
+  "svgclass": "icon-tuesday",
+  "copy": ""
+},
+{
+  "title": "wednesday",
+  "word" : "すいようび",
+  "kanji": "水曜日",
+  "meaning": "wednesday",
+  "pronunciation": "su-i-yo-u-bi",
+  "id": "",
+  "svgname": "#icon-wednesday",
+  "svgclass": "icon-wednesday",
+  "copy": ""
+},
+{
+  "title": "thursday",
+  "word" : "もくようび",
+  "kanji": "木曜日",
+  "meaning": "thursday",
+  "pronunciation": "mo-ku-yo-u-bi",
+  "id": "",
+  "svgname": "#icon-thursday",
+  "svgclass": "icon-thursday",
+  "copy": ""
+},
+{
+  "title": "friday",
+  "word" : "きんようび",
+  "kanji": "金曜日",
+  "meaning": "friday",
+  "pronunciation": "kin-yo-u-bi",
+  "id": "",
+  "svgname": "#icon-friday",
+  "svgclass": "icon-friday",
+  "copy": ""
+},
+{
+  "title": "saturday",
+  "word" : "どようび",
+  "kanji": "土曜日",
+  "meaning": "saturday",
+  "pronunciation": "do-yo-u-bi",
+  "id": "",
+  "svgname": "#icon-saturday",
+  "svgclass": "icon-saturday",
+  "copy": ""
+},
+{
+  "title": "sunday",
+  "word" : "にちようび",
+  "kanji": "日曜日",
+  "meaning": "sunday",
+  "pronunciation": "ni-chi-yo-u-bi",
+  "id": "",
+  "svgname": "#icon-sunday",
+  "svgclass": "icon-sunday",
+  "copy": ""
+},
+{
+  "title": "wineglass",
+  "word" : "ワイングラス",
+  "kanji": "-",
+  "meaning": "wineglass",
+  "pronunciation": "wa-in-gu-ra-su",
+  "id": "",
+  "svgname": "#icon-wineglass",
+  "svgclass": "icon-wineglass",
+  "copy": ""
+},
+{
   "title": "taxi",
   "word" : "タクシー",
   "kanji": "-",
