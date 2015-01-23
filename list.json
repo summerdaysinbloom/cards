@@ -1,5 +1,137 @@
 [
 {
+  "title": "bathtub",
+  "word" : "バスタブ",
+  "kanji": "-",
+  "meaning": "bath tub",
+  "pronunciation": "ba-su-ta-bu",
+  "id": "",
+  "svgname": "#icon-bathtub",
+  "svgclass": "icon-bathtub",
+  "copy": ""
+},
+{
+  "title": "showerhead",
+  "word" : "シャワーヘッド",
+  "kanji": "-",
+  "meaning": "shower head",
+  "pronunciation": "sha-waa-he-ddo",
+  "id": "",
+  "svgname": "#icon-showerhead",
+  "svgclass": "icon-showerhead",
+  "copy": ""
+},
+{
+  "title": "faucet",
+  "word" : "じゃぐち",
+  "kanji": "蛇口",
+  "meaning": "faucet",
+  "pronunciation": "ja-gu-chi",
+  "id": "",
+  "svgname": "#icon-faucet",
+  "svgclass": "icon-faucet",
+  "copy": ""
+},
+{
+  "title": "cottonswab",
+  "word" : "めんぼう",
+  "kanji": "綿棒",
+  "meaning": "cotton swab",
+  "pronunciation": "men-bo-u",
+  "id": "",
+  "svgname": "#icon-cottonswab",
+  "svgclass": "icon-cottonswab",
+  "copy": ""
+},
+{
+  "title": "bathroomscale",
+  "word" : "たいじゅうけい",
+  "kanji": "体重計",
+  "meaning": "bathroom scale",
+  "pronunciation": "ta-i-juu-ke-i",
+  "id": "",
+  "svgname": "#icon-bathroomscale",
+  "svgclass": "icon-bathroomscale",
+  "copy": ""
+},
+{
+  "title": "dice",
+  "word" : "",
+  "kanji": "",
+  "meaning": "dice",
+  "pronunciation": "",
+  "id": "",
+  "svgname": "#icon-dice",
+  "svgclass": "icon-dice",
+  "copy": ""
+},
+{
+  "title": "yogurt",
+  "word" : "",
+  "kanji": "",
+  "meaning": "yogurt",
+  "pronunciation": "",
+  "id": "",
+  "svgname": "#icon-yogurt",
+  "svgclass": "icon-yogurt",
+  "copy": ""
+},
+{
+  "title": "degree",
+  "word" : "",
+  "kanji": "",
+  "meaning": "degree",
+  "pronunciation": "",
+  "id": "",
+  "svgname": "#icon-degree",
+  "svgclass": "icon-degree",
+  "copy": ""
+},
+{
+  "title": "mobilephone",
+  "word" : "",
+  "kanji": "",
+  "meaning": "mobilephone",
+  "pronunciation": "",
+  "id": "",
+  "svgname": "#icon-mobilephone",
+  "svgclass": "icon-mobilephone",
+  "copy": ""
+},
+{
+  "title": "laptop",
+  "word" : "",
+  "kanji": "",
+  "meaning": "laptop",
+  "pronunciation": "",
+  "id": "",
+  "svgname": "#icon-laptop",
+  "svgclass": "icon-laptop",
+  "copy": ""
+},
+{
+  "title": "desktop",
+  "word" : "",
+  "kanji": "",
+  "meaning": "desktop",
+  "pronunciation": "",
+  "id": "",
+  "svgname": "#icon-desktop",
+  "svgclass": "icon-desktop",
+  "copy": ""
+},
+{
+  "title": "detergent",
+  "word" : "せんざい",
+  "kanji": "洗剤",
+  "meaning": "laundry detergent",
+  "pronunciation": "sen-za-i",
+  "id": "",
+  "svgname": "#icon-detergent",
+  "svgclass": "icon-detergent",
+  "copy": ""
+},
+{
   "title": "january",
   "word" : "いちがつ",
   "kanji": "一月",
