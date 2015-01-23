@@ -33,8 +33,9 @@ app
 	function($scope, $location, $anchorScroll, $http, $timeout) {
 		console.log('[C] list');
 
-		$http.get('/list.json', { cache: true })
+		$http.get('list.json', { cache: true })
         	.success(function(data) {
+            console.log('data',data)
         	    $scope.list = data;
         	}).error(function(data, status) {
         	    console.log('error',data);
