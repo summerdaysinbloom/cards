@@ -10,7 +10,7 @@ var app = angular.module('jamApp', [
 app.run(['$location', '$rootScope', '$timeout', '$routeParams', 
     function($location, $rootScope, $timeout, $routeParams, $templateCache) {
         $rootScope.$on('$routeChangeSuccess', function (event, current, previous) {
-            console.log('app -')
+            console.log('app +')
             // $templateCache.put('templateId.html', 'This is the content of the template');
 
             // console.log($templateCache,'///');
@@ -27,7 +27,7 @@ app.run(['$location', '$rootScope', '$timeout', '$routeParams',
 app.config(['$routeProvider', '$locationProvider', function($routeProvider, $locationProvider) {
     $routeProvider
 	    .when('/', {
-            templateUrl: 'views/main.html',
+            templateUrl: './views/main.html',
             title: '',
             keywords: '',
             description: ''
