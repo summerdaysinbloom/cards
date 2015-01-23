@@ -37,6 +37,8 @@ app
         	.success(function(data) {
             console.log('data',data)
         	    $scope.list = data;
+              $scope.words = data.length;
+              console.log($scope.words)
         	}).error(function(data, status) {
         	    console.log('error',data);
         	}); 
