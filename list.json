@@ -55,17 +55,6 @@
   "copy": ""
 },
 {
-  "title": "bathroomscale",
-  "word" : "たいじゅうけい",
-  "kanji": "体重計",
-  "meaning": "bathroom scale",
-  "pronunciation": "ta-i-juu-ke-i",
-  "id": "",
-  "svgname": "#icon-bathroomscale",
-  "svgclass": "icon-bathroomscale",
-  "copy": ""
-},
-{
   "title": "dice",
   "word" : "",
   "kanji": "",
@@ -74,6 +63,17 @@
   "id": "",
   "svgname": "#icon-dice",
   "svgclass": "icon-dice",
+  "copy": ""
+},
+{
+  "title": "degree",
+  "word" : "",
+  "kanji": "",
+  "meaning": "degree",
+  "pronunciation": "",
+  "id": "",
+  "svgname": "#icon-degree",
+  "svgclass": "icon-degree",
   "copy": ""
 },
 {
@@ -88,14 +88,14 @@
   "copy": ""
 },
 {
-  "title": "degree",
-  "word" : "",
-  "kanji": "",
-  "meaning": "degree",
-  "pronunciation": "",
+  "title": "bathroomscale",
+  "word" : "たいじゅうけい",
+  "kanji": "体重計",
+  "meaning": "bathroom scale",
+  "pronunciation": "ta-i-juu-ke-i",
   "id": "",
-  "svgname": "#icon-degree",
-  "svgclass": "icon-degree",
+  "svgname": "#icon-bathroomscale",
+  "svgclass": "icon-bathroomscale",
   "copy": ""
 },
 {
