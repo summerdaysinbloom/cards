@@ -3,7 +3,7 @@ var app = angular.module('ngControllers', []);
 app
 .controller('MainCtrl', ['$scope', '$location', '$anchorScroll', '$http', '$timeout',
     function($scope, $location, $anchorScroll, $http, $timeout) {
-        console.log('[C] Main');
+        console.log('[C] Main 2');
 
         $http.get('cards/list.json', { cache: true })
         	.success(function(data) {
