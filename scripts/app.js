@@ -27,7 +27,7 @@ app.run(['$location', '$rootScope', '$timeout', '$routeParams',
 app.config(['$routeProvider', '$locationProvider', function($routeProvider, $locationProvider) {
     $routeProvider
 	    .when('/', {
-            templateUrl: '../views/main.html',
+            templateUrl: './cards/views/main.html',
             title: '',
             keywords: '',
             description: ''
