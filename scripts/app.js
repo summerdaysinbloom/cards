@@ -10,7 +10,7 @@ var app = angular.module('jamApp', [
 app.run(['$location', '$rootScope', '$timeout', '$routeParams', 
     function($location, $rootScope, $timeout, $routeParams, $templateCache) {
         $rootScope.$on('$routeChangeSuccess', function (event, current, previous) {
-            console.log('app 1')
+            console.log('app 3')
             // $templateCache.put('templateId.html', 'This is the content of the template');
 
             // console.log($templateCache,'///');
