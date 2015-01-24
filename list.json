@@ -12,7 +12,7 @@
   "word" : "しょうゆ",
   "kanji": "醤油",
   "meaning": "soy sauce",
-  "pronunciation": "shou-yu",
+  "pronunciation": "sho-u-yu",
   "id": ""
 },
 {
@@ -234,7 +234,7 @@
 {
   "title": "winter",
   "word" : "ふゆ",
-  "kanji": "冬-",
+  "kanji": "冬",
   "meaning": "winter",
   "pronunciation": "fu-yu",
   "id": ""
@@ -1060,7 +1060,7 @@
   "word" : "ぎょうざ",
   "kanji": "餃子",
   "meaning": "chinese dumpling",
-  "pronunciation": "gyou-za",
+  "pronunciation": "gyo-u-za",
   "id": ""
 },
 {
@@ -1124,7 +1124,7 @@
   "word" : "じょうぎ",
   "kanji": "定規",
   "meaning": "ruler",
-  "pronunciation": "jou-gi",
+  "pronunciation": "jo-u-gi",
   "id": ""
 },
 {
@@ -1268,7 +1268,7 @@
   "word" : "びょういん",
   "kanji": "病院",
   "meaning": "hospital",
-  "pronunciation": "byou-in",
+  "pronunciation": "byo-u-in",
   "id": ""
 },
 {
@@ -1332,7 +1332,7 @@
   "word" : "こうじょう",
   "kanji": "工場",
   "meaning": "factory",
-  "pronunciation": "kou-jou",
+  "pronunciation": "ko-u-jou",
   "id": "F"
 },
 {
@@ -1780,7 +1780,7 @@
   "word" : "ちょう",
   "kanji": "蝶",
   "meaning": "butterfly",
-  "pronunciation": "chou",
+  "pronunciation": "cho-u",
   "id": ""
 },
 {
@@ -2292,7 +2292,7 @@
   "word" : "こしょう",
   "kanji": "胡椒",
   "meaning": "pepper",
-  "pronunciation": "ko-shou",
+  "pronunciation": "ko-sho-u",
   "id": ""
 },
 {
