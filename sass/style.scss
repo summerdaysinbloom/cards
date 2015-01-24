@@ -621,7 +621,7 @@ footer {
   }
 }
 
-@each $id in (eye, key, queue, window, water, entrance, kimono, cherry, carrot, chickenmeat, crab, bread, sushi, glue, pumpkin, dog, bridge,squirrel, bottleopener, choppingboard, orange, hat, vacuum, duck, owl, boots, chicken, lobster, tomato, soap, spatula, quilt, alarmclock, kitchenknife, table, blind, fryingpan, chopstick, spoon, bowl, friday,may, november,laptop,autumn, rugby,gasstation,hamburger,juice,salmon,wallet)) {
+@each $id in (eye, key, queue, window, water, entrance, kimono, cherry, carrot, chickenmeat, crab, bread, sushi, glue, pumpkin, dog, bridge,squirrel, bottleopener, choppingboard, orange, hat, vacuum, duck, owl, boots, chicken, lobster, tomato, soap, spatula, quilt, alarmclock, kitchenknife, table, blind, fryingpan, chopstick, spoon, bowl, friday,may, november,laptop,autumn, rugby,gasstation,hamburger,juice,salmon,wallet) {
   ##{$id} {
     background: $base-e;
     color: #222;
