@@ -20,7 +20,7 @@
   "word" : "ホットドッグ",
   "kanji": "-",
   "meaning": "hotdog",
-  "pronunciation": "hottodoggu",
+  "pronunciation": "ho-tto-do-ggu",
   "id": ""
 },
 {
@@ -28,7 +28,7 @@
   "word" : "ハンバーガー",
   "kanji": "-",
   "meaning": "hamburger",
-  "pronunciation": "hanbaagaa",
+  "pronunciation": "han-baa-gaa",
   "id": ""
 },
 {
@@ -36,7 +36,7 @@
   "word" : "フライドポテト",
   "kanji": "-",
   "meaning": "French fries",
-  "pronunciation": "furaidopoteto",
+  "pronunciation": "fu-ra-i-do-po-te-to",
   "id": ""
 },
 {
@@ -44,7 +44,7 @@
   "word" : "コーヒー",
   "kanji": "-",
   "meaning": "coffee",
-  "pronunciation": "koohii",
+  "pronunciation": "koo-hii",
   "id": ""
 },
 {
@@ -52,7 +52,7 @@
   "word" : "ジュース",
   "kanji": "-",
   "meaning": "juice",
-  "pronunciation": "juusu",
+  "pronunciation": "juu-su",
   "id": ""
 },
 {
@@ -60,7 +60,7 @@
   "word" : "ストロー",
   "kanji": "-",
   "meaning": "straw",
-  "pronunciation": "sutoroo",
+  "pronunciation": "su-to-roo",
   "id": ""
 },
 {
@@ -68,7 +68,7 @@
   "word" : "ピザ",
   "kanji": "-",
   "meaning": "pizza",
-  "pronunciation": "piza",
+  "pronunciation": "pi-za",
   "id": ""
 },
 {
@@ -76,7 +76,7 @@
   "word" : "ベーグル",
   "kanji": "-",
   "meaning": "bagel",
-  "pronunciation": "beeguru",
+  "pronunciation": "bee-gu-ru",
   "id": ""
 },
 {
@@ -84,7 +84,7 @@
   "word" : "マフィン",
   "kanji": "-",
   "meaning": "muffin",
-  "pronunciation": "mafin",
+  "pronunciation": "ma-fin",
   "id": ""
 },
 {
@@ -92,7 +92,7 @@
   "word" : "ドーナツ",
   "kanji": "-",
   "meaning": "doughnut",
-  "pronunciation": "doonatsu",
+  "pronunciation": "doo-na-tsu",
   "id": ""
 },
 {
@@ -100,7 +100,7 @@
   "word" : "クロワッサン",
   "kanji": "-",
   "meaning": "croissant",
-  "pronunciation": "kurowassan",
+  "pronunciation": "ku-ro-wa-ssan",
   "id": ""
 },
 {
@@ -108,7 +108,7 @@
   "word" : "サンドイッチ",
   "kanji": "-",
   "meaning": "sandwich",
-  "pronunciation": "sandoitchi",
+  "pronunciation": "san-do-i-tchi",
   "id": ""
 },
 {
@@ -116,7 +116,7 @@
   "word" : "でんわボックス",
   "kanji": "電話ボックス",
   "meaning": "phone booth",
-  "pronunciation": "denwabokkusu",
+  "pronunciation": "den-wa-bo-kku-su",
   "id": ""
 },
 {
@@ -124,7 +124,7 @@
   "word" : "ガソリンスタンド",
   "kanji": "-",
   "meaning": "gas station",
-  "pronunciation": "gasorinsutando",
+  "pronunciation": "ga-so-rin-su-tan-do",
   "id": ""
 },
 {
@@ -281,26 +281,18 @@
 },
 {
   "title": "dice",
-  "word" : "",
-  "kanji": "",
+  "word" : "さいころ",
+  "kanji": "賽子",
   "meaning": "dice",
-  "pronunciation": "",
-  "id": ""
-},
-{
-  "title": "degree",
-  "word" : "",
-  "kanji": "",
-  "meaning": "degree",
-  "pronunciation": "",
+  "pronunciation": "sa-i-ko-ro",
   "id": ""
 },
 {
   "title": "yogurt",
-  "word" : "",
-  "kanji": "",
+  "word" : "ヨーグルト",
+  "kanji": "-",
   "meaning": "yogurt",
-  "pronunciation": "",
+  "pronunciation": "yoo-gu-ru-to",
   "id": ""
 },
 {
@@ -313,24 +305,24 @@
 },
 {
   "title": "mobilephone",
-  "word" : "",
-  "kanji": "",
-  "meaning": "mobilephone",
-  "pronunciation": "",
+  "word" : "けいたいでんわ",
+  "kanji": "携帯電話",
+  "meaning": "mobile　phone",
+  "pronunciation": "kee-tai-den-wa",
   "id": ""
 },
 {
   "title": "laptop",
-  "word" : "",
-  "kanji": "",
+  "word" : "ラップトップ",
+  "kanji": "-",
   "meaning": "laptop",
   "pronunciation": "",
   "id": ""
 },
 {
   "title": "desktop",
-  "word" : "",
-  "kanji": "",
+  "word" : "デスクトップピーシー",
+  "kanji": "-",
   "meaning": "desktop",
   "pronunciation": "",
   "id": ""
