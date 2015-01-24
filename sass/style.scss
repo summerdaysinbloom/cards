@@ -645,7 +645,7 @@ footer {
   }
 }
 
-@each $id in (cloud, ice, octopus, umbrella, udon, car, immigration,apple, strawberry, shrimp, beer, beef, ruler, peach, rose, deer, cat,socks, giraffe, chair, electricfan, kettle, telephone, parrot, clock, highheels, panties, coat, hanger, pillow, toiletpaper, toiletbowl, door, television, oven, pot, mug, notebook, fork, wineglass, wednesday,march,september, dice, yogurt,coin, baseball, basketball,phonebooth) {
+@each $id in (cloud, ice, octopus, umbrella, udon, car, immigration,apple, strawberry, shrimp, beer, beef, ruler, peach, rose, deer, cat,socks, giraffe, chair, electricfan, kettle, telephone, parrot, clock, highheels, panties, coat, hanger, pillow, toiletpaper, toiletbowl, door, television, oven, pot, mug, notebook, fork, wineglass, wednesday,march,september, dice, yogurt,coin, baseball, basketball,phonebooth,frenchfries) {
   ##{$id} {
     background: $base-c;
     color: #222;
