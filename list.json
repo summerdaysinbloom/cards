@@ -1,5 +1,37 @@
 [
 {
+  "title": "textbook",
+  "word" : "きょうかしょ",
+  "kanji": "教科書",
+  "meaning": "textbook",
+  "pronunciation": "kyoo-ka-sho",
+  "id": ""
+},
+{
+  "title": "money",
+  "word" : "おかね",
+  "kanji": "お金",
+  "meaning": "money",
+  "pronunciation": "o-ka-ne",
+  "id": ""
+},
+{
+  "title": "dictionary",
+  "word" : "じしょ",
+  "kanji": "辞書",
+  "meaning": "dictionary",
+  "pronunciation": "ji-sho",
+  "id": ""
+},
+{
+  "title": "wallet",
+  "word" : "さいふ",
+  "kanji": "財布",
+  "meaning": "wallet",
+  "pronunciation": "sa-i-fu",
+  "id": ""
+},
+{
   "title": "salmon",
   "word" : "サーモン",
   "kanji": "-",
