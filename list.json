@@ -1,5 +1,21 @@
 [
 {
+  "title": "salmon",
+  "word" : "サーモン",
+  "kanji": "-",
+  "meaning": "salmon",
+  "pronunciation": "saa-mon",
+  "id": ""
+},
+{
+  "title": "soysauce",
+  "word" : "しょうゆ",
+  "kanji": "醤油",
+  "meaning": "soy sauce",
+  "pronunciation": "shou-yu",
+  "id": ""
+},
+{
   "title": "hotdog",
   "word" : "ホットドッグ",
   "kanji": "-",
