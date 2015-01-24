@@ -1,10 +1,122 @@
 [
 {
+  "title": "hotdog",
+  "word" : "ホットドッグ",
+  "kanji": "-",
+  "meaning": "hotdog",
+  "pronunciation": "hottodoggu",
+  "id": ""
+},
+{
+  "title": "hamburger",
+  "word" : "ハンバーガー",
+  "kanji": "-",
+  "meaning": "hamburger",
+  "pronunciation": "hanbaagaa",
+  "id": ""
+},
+{
+  "title": "frenchfries",
+  "word" : "フライドポテト",
+  "kanji": "-",
+  "meaning": "French fries",
+  "pronunciation": "furaidopoteto",
+  "id": ""
+},
+{
+  "title": "coffee",
+  "word" : "コーヒー",
+  "kanji": "-",
+  "meaning": "coffee",
+  "pronunciation": "koohii",
+  "id": ""
+},
+{
+  "title": "juice",
+  "word" : "ジュース",
+  "kanji": "-",
+  "meaning": "juice",
+  "pronunciation": "juusu",
+  "id": ""
+},
+{
+  "title": "straw",
+  "word" : "ストロー",
+  "kanji": "-",
+  "meaning": "straw",
+  "pronunciation": "sutoroo",
+  "id": ""
+},
+{
+  "title": "pizza",
+  "word" : "ピザ",
+  "kanji": "-",
+  "meaning": "pizza",
+  "pronunciation": "piza",
+  "id": ""
+},
+{
+  "title": "bagel",
+  "word" : "ベーグル",
+  "kanji": "-",
+  "meaning": "bagel",
+  "pronunciation": "beeguru",
+  "id": ""
+},
+{
+  "title": "muffin",
+  "word" : "マフィン",
+  "kanji": "-",
+  "meaning": "muffin",
+  "pronunciation": "mafin",
+  "id": ""
+},
+{
+  "title": "doughnut",
+  "word" : "ドーナツ",
+  "kanji": "-",
+  "meaning": "doughnut",
+  "pronunciation": "doonatsu",
+  "id": ""
+},
+{
+  "title": "croissant",
+  "word" : "クロワッサン",
+  "kanji": "-",
+  "meaning": "croissant",
+  "pronunciation": "kurowassan",
+  "id": ""
+},
+{
+  "title": "sandwich",
+  "word" : "サンドイッチ",
+  "kanji": "-",
+  "meaning": "sandwich",
+  "pronunciation": "sandoitchi",
+  "id": ""
+},
+{
+  "title": "phonebooth",
+  "word" : "でんわボックス",
+  "kanji": "電話ボックス",
+  "meaning": "phone booth",
+  "pronunciation": "denwabokkusu",
+  "id": ""
+},
+{
+  "title": "gasstation",
+  "word" : "ガソリンスタンド",
+  "kanji": "-",
+  "meaning": "gas station",
+  "pronunciation": "gasorinsutando",
+  "id": ""
+},
+{
   "title": "badminton",
   "word" : "バドミントン",
   "kanji": "-",
   "meaning": "badminton",
-  "pronunciation": "badominton",
+  "pronunciation": "ba-do-min-ton",
   "id": ""
 },
 {
