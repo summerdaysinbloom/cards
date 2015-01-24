@@ -312,11 +312,19 @@
   "id": ""
 },
 {
+  "title": "detergent",
+  "word" : "せんざい",
+  "kanji": "洗剤",
+  "meaning": "laundry detergent",
+  "pronunciation": "sen-za-i",
+  "id": ""
+},
+{
   "title": "laptop",
   "word" : "ラップトップ",
   "kanji": "-",
   "meaning": "laptop",
-  "pronunciation": "",
+  "pronunciation": "ra-ppu-to-ppu",
   "id": ""
 },
 {
@@ -324,15 +332,7 @@
   "word" : "デスクトップピーシー",
   "kanji": "-",
   "meaning": "desktop",
-  "pronunciation": "",
-  "id": ""
-},
-{
-  "title": "detergent",
-  "word" : "せんざい",
-  "kanji": "洗剤",
-  "meaning": "laundry detergent",
-  "pronunciation": "sen-za-i",
+  "pronunciation": "de-su-ku-to-ppu",
   "id": ""
 },
 {
