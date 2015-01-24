@@ -359,7 +359,8 @@ footer {
       pepper, necktie, glass, teapot, teacup, mug, bowl, plate, chopstick, spoon, notebook, clothes, soldier, icecream, dress,
       fork, taxi,monday,tuesday,wednesday,thursday,friday,saturday,sunday,wineglass,
       january,february,march,april, may, june , july, august, september, october, november, december,
-      showerhead, faucet, cottonswab, bathroomscale, dice, yogurt, degree,mobilephone,laptop,desktop,detergent) {
+      showerhead, faucet, cottonswab, bathroomscale, dice, yogurt, degree,mobilephone,laptop,desktop,detergent,
+      spring, summer, autumn, winter,butter,coin,baseball,bowling,tennis,tabletennis,rugby,basketball,badminton,soccer) {
   .#{$image}-img {
     background: url('../images/#{$image}.png') no-repeat center center;
     -webkit-background-size: cover;
@@ -400,7 +401,8 @@ footer {
       pepper, necktie, glass, teapot, teacup, mug, bowl, plate, chopstick, spoon, notebook, clothes, soldier, icecream, dress,
       fork, taxi,monday,tuesday,wednesday,thursday,friday,saturday,sunday,wineglass,
       january,february,march,april, may, june , july, august, september, october, november, december,
-      showerhead, faucet, cottonswab, bathroomscale, dice, yogurt, degree,mobilephone,laptop,desktop,detergent) {
+      showerhead, faucet, cottonswab, bathroomscale, dice, yogurt, degree,mobilephone,laptop,desktop,detergent,
+      spring, summer, autumn, winter,butter,coin,baseball,bowling,tennis,tabletennis,rugby,basketball,badminton,soccer) {
     .#{$image}-img {
       background: url('../images/#{$image}.png') no-repeat center center;
       -webkit-background-size: cover;
@@ -478,7 +480,8 @@ footer {
     pepper, necktie, glass, teapot, teacup, mug, bowl, plate, chopstick, spoon, notebook, clothes, soldier, icecream, dress,
     fork, taxi,monday,tuesday,wednesday,thursday,friday,saturday,sunday,wineglass,
     january,february,march,april, may, june , july, august, september, october, november, december,
-    showerhead, faucet, cottonswab, bathroomscale, dice, yogurt, degree,mobilephone,laptop,desktop,detergent) {
+    showerhead, faucet, cottonswab, bathroomscale, dice, yogurt, degree,mobilephone,laptop,desktop,detergent,
+    spring, summer, autumn, winter,butter,coin,baseball,bowling,tennis,tabletennis,rugby,basketball,badminton,soccer) {
     .#{$image}-img {
       background: url('../images/#{$image}.png') no-repeat center center;
       -webkit-background-size: cover;
@@ -529,7 +532,8 @@ footer {
     pepper, necktie, glass, teapot, teacup, mug, bowl, plate, chopstick, spoon, notebook, clothes, soldier, icecream, dress,
     fork, taxi,monday,tuesday,wednesday,thursday,friday,saturday,sunday,wineglass,
     january,february,march,april, may, june , july, august, september, october, november, december,
-    showerhead, faucet, cottonswab, bathroomscale, dice, yogurt, degree,mobilephone,laptop,desktop,detergent) {
+    showerhead, faucet, cottonswab, bathroomscale, dice, yogurt, degree,mobilephone,laptop,desktop,detergent,
+    spring, summer, autumn, winter,butter,coin,baseball,bowling,tennis,tabletennis,rugby,basketball,badminton,soccer) {
     .#{$image}-img {
       background: url('../images/#{$image}.png') no-repeat center center;
       -webkit-background-size: cover;
@@ -622,7 +626,7 @@ footer {
   }
 }
 /* 6 colour code */
-@each $id in (airplane, glasses, giraffe, mountain, mushroom, shoes, sakura, yawn, guide, map, subway,watermelon, fish, greentea, cucumber, scissors, spinach, horse, hospital, trafficlight,switch, lettuce, asparagus, ear,refrigerator, factory, zebra, bee, cow, sweater, sneakers, crocodile, turtle, broccoli, celery, washstand, lamp, earphone, ladle, mop, yarn, pepper, teacup, dress, monday, sunday,january,july,showerhead) {
+@each $id in (airplane, glasses, giraffe, mountain, mushroom, shoes, sakura, yawn, guide, map, subway,watermelon, fish, greentea, cucumber, scissors, spinach, horse, hospital, trafficlight,switch, lettuce, asparagus, ear,refrigerator, factory, zebra, bee, cow, sweater, sneakers, crocodile, turtle, broccoli, celery, washstand, lamp, earphone, ladle, mop, yarn, pepper, teacup, dress, monday, sunday,january,july,showerhead, summer, tabletennis, soccer) {
   ##{$id} {
     background: $base-a;
     color: #222;
@@ -630,35 +634,35 @@ footer {
 }
 
 @each $id in (bag, hand, newspaper, ticket, zoo, bus, hotel, train,pear, beans, egg, rice, westernfood, chinesedumpling, garlic, sunflower, mouse, school,mosquito, electrickettle, feather, curtain, bathtub, nest, flashlight, cap,boxers, briefs, hamster, butterfly, corn, potato, hairdryer, wardrobe, rug, floor, microwave, dustpan, glass, teapot, necktie, taxi, tuesday,february,august,
-  cottonswab, bathroomscale,faucet) {
+  cottonswab, bathroomscale,faucet,spring, butter) {
   ##{$id} {
     background: $base-b;
     color: #222;
   }
 }
 
-@each $id in (cloud, ice, octopus, umbrella, udon, car, immigration,apple, strawberry, shrimp, beer, beef, ruler, peach, rose, deer, cat,socks, giraffe, chair, electricfan, kettle, telephone, parrot, clock, highheels, panties, coat, hanger, pillow, toiletpaper, toiletbowl, door, television, oven, pot, mug, notebook, fork, wineglass, wednesday,march,september, dice, yogurt) {
+@each $id in (cloud, ice, octopus, umbrella, udon, car, immigration,apple, strawberry, shrimp, beer, beef, ruler, peach, rose, deer, cat,socks, giraffe, chair, electricfan, kettle, telephone, parrot, clock, highheels, panties, coat, hanger, pillow, toiletpaper, toiletbowl, door, television, oven, pot, mug, notebook, fork, wineglass, wednesday,march,september, dice, yogurt,coin, baseball, basketball) {
   ##{$id} {
     background: $base-c;
     color: #222;
   }
 }
 
-@each $id in (drum, judo, plants, vegetables, departure, japan, passport, vehicles, grape, milk, salt, japanesefood, calculator, eraser, eggplant, swimming, pig, bank,dragonfly, stapler, snail, penguin, mirror, jellyfish, slippers, snake, outlet, raincoat, necklace, whale, shampoo, toothpaste, ironingboard, washingmachine, bin, elephant, plate, icecream, thursday,april, october,degree,mobilephone) {
+@each $id in (drum, judo, plants, vegetables, departure, japan, passport, vehicles, grape, milk, salt, japanesefood, calculator, eraser, eggplant, swimming, pig, bank,dragonfly, stapler, snail, penguin, mirror, jellyfish, slippers, snake, outlet, raincoat, necklace, whale, shampoo, toothpaste, ironingboard, washingmachine, bin, elephant, plate, icecream, thursday,april, october,degree,mobilephone,bowling, badminton) {
   ##{$id} {
     background: $base-d;
     color: #222;
   }
 }
 
-@each $id in (eye, key, queue, window, water, entrance, kimono, cherry, carrot, chickenmeat, crab, bread, sushi, glue, pumpkin, dog, bridge,squirrel, bottleopener, choppingboard, orange, hat, vacuum, duck, owl, boots, chicken, lobster, tomato, soap, spatula, quilt, alarmclock, kitchenknife, table, blind, fryingpan, chopstick, spoon, bowl, friday,may, november,laptop) {
+@each $id in (eye, key, queue, window, water, entrance, kimono, cherry, carrot, chickenmeat, crab, bread, sushi, glue, pumpkin, dog, bridge,squirrel, bottleopener, choppingboard, orange, hat, vacuum, duck, owl, boots, chicken, lobster, tomato, soap, spatula, quilt, alarmclock, kitchenknife, table, blind, fryingpan, chopstick, spoon, bowl, friday,may, november,laptop,autumn, rugby) {
   ##{$id} {
     background: $base-e;
     color: #222;
   }
 }
 
-@each $id in (fruit, lion, rope, xylophone, food, luggage, onion, sugar, sushi, dairy, riceuncooked, drinks, pencil, dandelion, rabbit, rhino,squid, towel, bed, cake, frog, ant,iron,lizard, gloves, pigeon, wall, blender, brassiere, cap, scarf, camel, shell, pea, toothbrush, blanket, airconditioner, remotecontrol, headphone, clothes, soldier, saturday,june,december,desktop,detergent) {
+@each $id in (fruit, lion, rope, xylophone, food, luggage, onion, sugar, sushi, dairy, riceuncooked, drinks, pencil, dandelion, rabbit, rhino,squid, towel, bed, cake, frog, ant,iron,lizard, gloves, pigeon, wall, blender, brassiere, cap, scarf, camel, shell, pea, toothbrush, blanket, airconditioner, remotecontrol, headphone, clothes, soldier, saturday,june,december,desktop,detergent,winter, tennis) {
   ##{$id} {
     background: $base-f;
     color: #222;
