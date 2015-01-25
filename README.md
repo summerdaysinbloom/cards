@@ -1,5 +1,3 @@
-## mainichi.me 
-	
 Last update : 2014-09-26
 	
 Author : Aimee
