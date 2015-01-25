@@ -353,10 +353,10 @@
 },
 {
   "title": "laptop",
-  "word" : "ラップトップ",
+  "word" : "ノートパソコン",
   "kanji": "-",
   "meaning": "laptop",
-  "pronunciation": "ra-ppu-to-ppu",
+  "pronunciation": "Nō-to-pa-so-kon",
   "id": ""
 },
 {
@@ -668,7 +668,7 @@
     "word" : "パスポート",
     "kanji": "-",
     "meaning": "passport",
-    "pronunciation": "pah-soo-pohh-toh",
+    "pronunciation": "pah-su-pohh-to",
     "id": "P"
   },
   {
@@ -1961,10 +1961,10 @@
 },
 {
   "title": "alarmclock",
-  "word" : "めざまし",
-  "kanji": "目覚まし",
+  "word" : "めざましとけい",
+  "kanji": "目覚まし時計",
   "meaning": "alarm clock",
-  "pronunciation": "me-za-ma-shi",
+  "pronunciation": "me-za-ma-shi-to-ke-i",
   "id": ""
 },
 {
@@ -2028,7 +2028,7 @@
   "word" : "フライパン",
   "kanji": "-",
   "meaning": "frying pan",
-  "pronunciation": "furaipan",
+  "pronunciation": "fu-ra-i-pan",
   "id": ""
 },
 {
