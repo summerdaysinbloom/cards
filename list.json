@@ -36,7 +36,7 @@
   "word" : "サーモン",
   "kanji": "-",
   "meaning": "salmon",
-  "pronunciation": "saa-mon",
+  "pronunciation": "sā-mon",
   "id": ""
 },
 {
@@ -60,7 +60,7 @@
   "word" : "ハンバーガー",
   "kanji": "-",
   "meaning": "hamburger",
-  "pronunciation": "han-baa-gaa",
+  "pronunciation": "han-bā-gā",
   "id": ""
 },
 {
@@ -76,7 +76,7 @@
   "word" : "コーヒー",
   "kanji": "-",
   "meaning": "coffee",
-  "pronunciation": "koo-hii",
+  "pronunciation": "kō-hī",
   "id": ""
 },
 {
@@ -84,7 +84,7 @@
   "word" : "ジュース",
   "kanji": "-",
   "meaning": "juice",
-  "pronunciation": "juu-su",
+  "pronunciation": "jyu-su",
   "id": ""
 },
 {
@@ -92,7 +92,7 @@
   "word" : "ストロー",
   "kanji": "-",
   "meaning": "straw",
-  "pronunciation": "su-to-roo",
+  "pronunciation": "su-to-rō",
   "id": ""
 },
 {
@@ -124,7 +124,7 @@
   "word" : "ドーナツ",
   "kanji": "-",
   "meaning": "doughnut",
-  "pronunciation": "doo-na-tsu",
+  "pronunciation": "dō-na-tsu",
   "id": ""
 },
 {
@@ -172,7 +172,7 @@
   "word" : "サッカー",
   "kanji": "-",
   "meaning": "soccer",
-  "pronunciation": "sa-kkaa",
+  "pronunciation": "sa-kkā",
   "id": ""
 },
 {
@@ -180,7 +180,7 @@
   "word" : "バスケットボール",
   "kanji": "-",
   "meaning": "basketball",
-  "pronunciation": "ba-su-ke-tto-boo-ru",
+  "pronunciation": "ba-su-ke-tto-bō-ru",
   "id": ""
 },
 {
@@ -188,7 +188,7 @@
   "word" : "ラグビー",
   "kanji": "-",
   "meaning": "rugby",
-  "pronunciation": "ra-gu-bii",
+  "pronunciation": "ra-gu-bī",
   "id": ""
 },
 {
@@ -212,7 +212,7 @@
   "word" : "やきゅう",
   "kanji": "野球",
   "meaning": "baseball",
-  "pronunciation": "ya-kyuu",
+  "pronunciation": "ya-kyū",
   "id": ""
 },
 {
@@ -220,7 +220,7 @@
   "word" : "ボーリング",
   "kanji": "-",
   "meaning": "bowling",
-  "pronunciation": "boo-rin-gu",
+  "pronunciation": "bō-rin-gu",
   "id": ""
 },
 {
@@ -228,7 +228,7 @@
   "word" : "バター",
   "kanji": "-",
   "meaning": "butter",
-  "pronunciation": "ba-taa",
+  "pronunciation": "ba-tā",
   "id": ""
 },
 {
@@ -276,7 +276,7 @@
   "word" : "スニーカー",
   "kanji": "-",
   "meaning": "sneakers",
-  "pronunciation": "su-nii-kaa",
+  "pronunciation": "su-nī-kā",
   "id": ""
 },
 {
@@ -292,7 +292,7 @@
   "word" : "シャワーヘッド",
   "kanji": "-",
   "meaning": "shower head",
-  "pronunciation": "sha-waa-he-ddo",
+  "pronunciation": "sha-wā-he-ddo",
   "id": ""
 },
 {
@@ -324,7 +324,7 @@
   "word" : "ヨーグルト",
   "kanji": "-",
   "meaning": "yogurt",
-  "pronunciation": "yoo-gu-ru-to",
+  "pronunciation": "yō-gu-ru-to",
   "id": ""
 },
 {
@@ -332,7 +332,7 @@
   "word" : "たいじゅうけい",
   "kanji": "体重計",
   "meaning": "bathroom scale",
-  "pronunciation": "ta-i-juu-ke-i",
+  "pronunciation": "ta-i-jū-ke-i",
   "id": ""
 },
 {
@@ -353,10 +353,10 @@
 },
 {
   "title": "laptop",
-  "word" : "ノートパソコン",
+  "word" : "ラップトップ",
   "kanji": "-",
-  "meaning": "notebook PC",
-  "pronunciation": "Nō-to-pa-so-kon",
+  "meaning": "laptop",
+  "pronunciation": "ra-ppu-to-ppu",
   "id": ""
 },
 {
@@ -444,7 +444,7 @@
   "word" : "じゅうがつ",
   "kanji": "十月",
   "meaning": "October",
-  "pronunciation": "juu-ga-tsu",
+  "pronunciation": "jū-ga-tsu",
   "id": ""
 },
 {
@@ -452,7 +452,7 @@
   "word" : "じゅういちがつ",
   "kanji": "十一月",
   "meaning": "November",
-  "pronunciation": "juu-i-chi-ga-tsu",
+  "pronunciation": "jū-i-chi-ga-tsu",
   "id": ""
 },
 {
@@ -460,7 +460,7 @@
   "word" : "じゅうにがつ",
   "kanji": "十二月",
   "meaning": "December",
-  "pronunciation": "juu-ni-ga-tsu",
+  "pronunciation": "jū-ni-ga-tsu",
   "id": ""
 },
 {
@@ -586,7 +586,7 @@
   {
     "title": "entrance",
     "word" : "げんかん",
-    "kanji": "入口",
+    "kanji": "玄関",
     "meaning": "entrance",
     "pronunciation": "gen-kan",
     "id": "E"
@@ -668,7 +668,7 @@
     "word" : "パスポート",
     "kanji": "-",
     "meaning": "passport",
-    "pronunciation": "pah-su-pohh-to",
+    "pronunciation": "pah-sō-pohh-toh",
     "id": "P"
   },
   {
@@ -874,7 +874,7 @@
   {
   "title": "apple",
   "word" : "りんご",
-  "kanji": "-",
+  "kanji": "林檎",
   "meaning": "apple",
   "pronunciation": "rin-go",
   "id": ""
@@ -988,7 +988,7 @@
   "word" : "ぎゅうにゅう",
   "kanji": "牛乳",
   "meaning": "milk",
-  "pronunciation": "gyuu-nyuu",
+  "pronunciation": "gyū-nyū",
   "id": ""
 },
 {
@@ -1036,7 +1036,7 @@
   "word" : "ビール",
   "kanji": "-",
   "meaning": "beer",
-  "pronunciation": "bi-ru",
+  "pronunciation": "bī-ru",
   "id": ""
 },
 {
@@ -1044,7 +1044,7 @@
   "word" : "にゅうせいひん",
   "kanji": "乳製品",
   "meaning": "dairy products",
-  "pronunciation": "nyuu-se-i-hin",
+  "pronunciation": "nyū-se-i-hin",
   "id": ""
 },
 {
@@ -1052,13 +1052,13 @@
   "word" : "にゅうこくかんりきょく",
   "kanji": "入国管理局",
   "meaning": "immigration",
-  "pronunciation": "nyuu-ko-ku-kan-ri-kyo-ku",
+  "pronunciation": "nyū-ko-ku-kan-ri-kyo-ku",
   "id": "I"
 },
 {
   "title": "riceuncooked",
   "word" : "こめ",
-  "kanji": "-",
+  "kanji": "米",
   "meaning": "rice (uncooked)",
   "pronunciation": "ko-me",
   "id": ""
@@ -1100,7 +1100,7 @@
   "word" : "きゅうり",
   "kanji": "胡瓜",
   "meaning": "cucumber",
-  "pronunciation": "kyuu-ri",
+  "pronunciation": "kyū-ri",
   "id": ""
 },
 {
@@ -1116,7 +1116,7 @@
   "word" : "ぎゅうにく",
   "kanji": "牛肉",
   "meaning": "beef",
-  "pronunciation": "gyuu-ni-ku",
+  "pronunciation": "gyū-ni-ku",
   "id": ""
 },
 {
@@ -1156,7 +1156,7 @@
   "word" : "じょうぎ",
   "kanji": "定規",
   "meaning": "ruler",
-  "pronunciation": "jo-u-gi",
+  "pronunciation": "jyo-u-gi",
   "id": ""
 },
 {
@@ -1178,7 +1178,7 @@
 {
   "title": "spinach",
   "word" : "ほうれんそう",
-  "kanji": "ほうれん草",
+  "kanji": "菠薐草",
   "meaning": "spinach",
   "pronunciation": "ho-u-ren-so-u",
   "id": ""
@@ -1676,7 +1676,7 @@
   "word" : "ハイヒール",
   "kanji": "-",
   "meaning": "high heels",
-  "pronunciation": "ha-i-hii-ru",
+  "pronunciation": "ha-i-hī-ru",
   "id": ""
 },
 {
@@ -1684,7 +1684,7 @@
   "word" : "ブーツ",
   "kanji": "-",
   "meaning": "boots",
-  "pronunciation": "buu-tsu",
+  "pronunciation": "bū-tsu",
   "id": ""
 },
 {
@@ -1692,7 +1692,7 @@
   "word" : "ブラジャー",
   "kanji": "-",
   "meaning": "brassiere",
-  "pronunciation": "bu-ra-jaa",
+  "pronunciation": "bu-ra-jā",
   "id": ""
 },
 {
@@ -1708,7 +1708,7 @@
   "word" : "セーター",
   "kanji": "-",
   "meaning": "sweater",
-  "pronunciation": "see-taa",
+  "pronunciation": "see-tā",
   "id": ""
 },
 {
@@ -1724,7 +1724,7 @@
   "word" : "スニーカー",
   "kanji": "-",
   "meaning": "sneakers",
-  "pronunciation": "su-nii-kaa",
+  "pronunciation": "su-nī-kā",
   "id": ""
 },
 {
@@ -1740,7 +1740,7 @@
   "word" : "ブリーフ",
   "kanji": "-",
   "meaning": "briefs",
-  "pronunciation": "bu-rii-fu",
+  "pronunciation": "bu-rī-fu",
   "id": ""
 },
 {
@@ -1756,7 +1756,7 @@
   "word" : "マフラー",
   "kanji": "-",
   "meaning": "scarf",
-  "pronunciation": "ma-fu-raa",
+  "pronunciation": "ma-fu-rā",
   "id": ""
 },
 {
@@ -1772,7 +1772,7 @@
   "word" : "ハムスター",
   "kanji": "-",
   "meaning": "hamster",
-  "pronunciation": "ha-mu-su-taa",
+  "pronunciation": "ha-mu-su-tā",
   "id": ""
 },
 {
@@ -1804,7 +1804,7 @@
   "word" : "ロブスター",
   "kanji": "-",
   "meaning": "lobster",
-  "pronunciation": "ro-bu-su-taa",
+  "pronunciation": "ro-bu-su-tā",
   "id": ""
 },
 {
@@ -1860,7 +1860,7 @@
   "word" : "ブロッコリー",
   "kanji": "-",
   "meaning": "broccoli",
-  "pronunciation": "bu-ro-kko-rii",
+  "pronunciation": "bu-ro-kko-rī",
   "id": ""
 },
 {
@@ -1892,7 +1892,7 @@
   "word" : "ハンガー",
   "kanji": "-",
   "meaning": "hanger",
-  "pronunciation": "han-gaa",
+  "pronunciation": "han-gā",
   "id": ""
 },
 {
@@ -1900,7 +1900,7 @@
   "word" : "シャンプー",
   "kanji": "-",
   "meaning": "shampoo",
-  "pronunciation": "shan-puu",
+  "pronunciation": "shan-pū",
   "id": ""
 },
 {
@@ -1961,10 +1961,10 @@
 },
 {
   "title": "alarmclock",
-  "word" : "めざましとけい",
-  "kanji": "目覚まし時計",
+  "word" : "めざまし",
+  "kanji": "目覚まし",
   "meaning": "alarm clock",
-  "pronunciation": "me-za-ma-shi-to-ke-i",
+  "pronunciation": "me-za-ma-shi",
   "id": ""
 },
 {
@@ -1988,7 +1988,7 @@
   "word" : "ヘアドライヤー",
   "kanji": "-",
   "meaning": "hair dryer",
-  "pronunciation": "he-a-do-ra-i-yaa",
+  "pronunciation": "he-a-do-ra-i-yā",
   "id": ""
 },
 {
@@ -2012,7 +2012,7 @@
   "word" : "トイレットペーパー",
   "kanji": "-",
   "meaning": "toilet paper",
-  "pronunciation": "to-i-re-tto-pee-paa",
+  "pronunciation": "to-i-re-tto-pee-pā",
   "id": ""
 },
 {
@@ -2036,7 +2036,7 @@
   "word" : "オーブン",
   "kanji": "-",
   "meaning": "oven",
-  "pronunciation": "oo-bun",
+  "pronunciation": "ō-bun",
   "id": ""
 },
 {
@@ -2052,7 +2052,7 @@
   "word" : "ミキサー",
   "kanji": "-",
   "meaning": "blender/mixer",
-  "pronunciation": "mi-ki-saa",
+  "pronunciation": "mi-ki-sā",
   "id": ""
 },
 {
@@ -2083,8 +2083,8 @@
   "title": "rug",
   "word" : "じゅうたん",
   "kanji": "絨毯",
-  "meaning": "carpet/rug",
-  "pronunciation": "juu-tan",
+  "meaning": "rug",
+  "pronunciation": "jyu-tan",
   "id": ""
 },
 {
@@ -2196,7 +2196,7 @@
   "word" : "かいちゅうでんとう",
   "kanji": "懐中電灯",
   "meaning": "flashlight",
-  "pronunciation": "ka-i-chuu-den-to-u",
+  "pronunciation": "ka-i-chyū-den-to",
   "id": ""
 },
 {
@@ -2340,7 +2340,7 @@
   "word" : "きゅうす",
   "kanji": "急須",
   "meaning": "teapot",
-  "pronunciation": "kyuu-su",
+  "pronunciation": "kyū-su",
   "id": ""
 },
 {
@@ -2388,7 +2388,7 @@
   "word" : "スプーン",
   "kanji": "-",
   "meaning": "spoon",
-  "pronunciation": "su-puun",
+  "pronunciation": "su-pūn",
   "id": ""
 },
 {
@@ -2396,7 +2396,7 @@
   "word" : "ノート",
   "kanji": "-",
   "meaning": "notebook",
-  "pronunciation": "noo-to",
+  "pronunciation": "nō-to",
   "id": ""
 },
 {
@@ -2420,7 +2420,7 @@
   "word" : "アイスクリーム",
   "kanji": "-",
   "meaning": "ice cream",
-  "pronunciation": "a-i-su-ku-rii-mu",
+  "pronunciation": "a-i-su-ku-rī-mu",
   "id": ""
 },
 {
@@ -2428,7 +2428,7 @@
   "word" : "ワンピース",
   "kanji": "-",
   "meaning": "one-piece dress",
-  "pronunciation": "wan-pii-su",
+  "pronunciation": "wan-pī-su",
   "id": ""
 }
-]
+];
