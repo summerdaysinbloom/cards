@@ -6,7 +6,7 @@ angular.module('ngFilters', [])
 .filter('middot', function() {
 	return function(str) {
 		var str = str;
-		var res = str.replace(/-/g, "·");
+		var res = str.replace(/_/g, "·");
 		return res;
 	}
 })
