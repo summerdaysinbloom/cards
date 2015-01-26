@@ -21,7 +21,8 @@
   "kanji": "辞書",
   "meaning": "dictionary",
   "pronunciation": "ji-sho",
-  "id": ""
+  "id": "",
+  "tag": "study,book,learn"
 },
 {
   "title": "wallet",
@@ -37,7 +38,8 @@
   "kanji": "-",
   "meaning": "salmon",
   "pronunciation": "sā-mon",
-  "id": ""
+  "id": "",
+  "tag": "food,fish"
 },
 {
   "title": "soysauce",
@@ -45,7 +47,8 @@
   "kanji": "醤油",
   "meaning": "soy sauce",
   "pronunciation": "sho-u-yu",
-  "id": ""
+  "id": "",
+  "tag": "food,sauce"
 },
 {
   "title": "hotdog",
@@ -53,7 +56,8 @@
   "kanji": "-",
   "meaning": "hotdog",
   "pronunciation": "ho-tto-do-ggu",
-  "id": ""
+  "id": "",
+  "tag": "food,meal,fastfood,western"
 },
 {
   "title": "hamburger",
@@ -61,7 +65,8 @@
   "kanji": "-",
   "meaning": "hamburger",
   "pronunciation": "han-bā-gā",
-  "id": ""
+  "id": "",
+  "tag": "food,meal,fastfood,western"
 },
 {
   "title": "frenchfries",
