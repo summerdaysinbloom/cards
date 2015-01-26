@@ -1,5 +1,8 @@
 <div class='pure-u-1'>
-  <section class='card pure-u-1 pure-u-sm-1-2 pure-u-md-1-3 pure-u-lg-1-4' ng-click='scroll(item.title)' ng-repeat='item in list' id='{{item.title}}'>
+  <p style='color: #fff; padding: 10px;'>Search: <input ng-model="query"></p>
+</div>
+<div class='pure-u-1'>
+  <section class='card pure-u-1 pure-u-sm-1-2 pure-u-md-1-3 pure-u-lg-1-4' ng-click='scroll(item.title)' ng-repeat='item in list | filter: query' id='{{item.title}}'>
   	<div class='img-wrapper'>
   		<div class='{{item.title}}-img'></div>
   	</div>

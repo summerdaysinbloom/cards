@@ -28,6 +28,7 @@ app.config(['$routeProvider', '$locationProvider', function($routeProvider, $loc
     $routeProvider
 	    .when('/', {
             templateUrl: './cards/views/main.html',
+            // templateUrl: 'views/main.html',
             title: '',
             keywords: '',
             description: ''
