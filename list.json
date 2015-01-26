@@ -1,5 +1,93 @@
 [
 {
+  "title": "detective",
+  "word" : "たんてい",
+  "kanji": "探偵",
+  "meaning": "detective",
+  "pronunciation": "tan-te-i",
+  "id": "350"
+},
+{
+  "title": "peace",
+  "word" : "へいわ",
+  "kanji": "平和",
+  "meaning": "peace",
+  "pronunciation": "he-i-wa",
+  "id": "351"
+},
+{
+  "title": "fireworks",
+  "word" : "はなび",
+  "kanji": "花火",
+  "meaning": "fireworks",
+  "pronunciation": "ha-na-bi",
+  "id": "352"
+},
+{
+  "title": "stairs",
+  "word" : "かいだん",
+  "kanji": "階段",
+  "meaning": "stairs",
+  "pronunciation": "ka-i-dan",
+  "id": "367"
+},
+{
+  "title": "leaf",
+  "word" : "は",
+  "kanji": "葉",
+  "meaning": "leaf",
+  "pronunciation": "ha",
+  "id": "373"
+},
+{
+  "title": "tree",
+  "word" : "き",
+  "kanji": "木",
+  "meaning": "tree",
+  "pronunciation": "ki",
+  "id": "374"
+},
+{
+  "title": "mountain",
+  "word" : "やま",
+  "kanji": "山",
+  "meaning": "mountain",
+  "pronunciation": "ya-ma",
+  "id": "375"
+},
+{
+  "title": "medicine",
+  "word" : "くすり",
+  "kanji": "薬",
+  "meaning": "medicine",
+  "pronunciation": "  ku-su-ri",
+  "id": "378"
+},
+{
+  "title": "doctor",
+  "word" : "いしゃ",
+  "kanji": "医者",
+  "meaning": "doctor",
+  "pronunciation": "i-sha",
+  "id": "379"
+},
+{
+  "title": "colour",
+  "word" : "いろ",
+  "kanji": "色",
+  "meaning": "colour",
+  "pronunciation": "i-ro",
+  "id": "380"
+},
+{
+  "title": "science",
+  "word" : "かがく",
+  "kanji": "科学",
+  "meaning": "science",
+  "pronunciation": "ka-ga-ku",
+  "id": "382"
+},
+{
   "title": "textbook",
   "word" : "きょうかしょ",
   "kanji": "教科書",
