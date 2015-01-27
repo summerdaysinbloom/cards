@@ -360,7 +360,7 @@ footer {
       spring, summer, autumn, winter,butter,coin,baseball,bowling,tennis,tabletennis,rugby,basketball,badminton,soccer,
       gasstation,phonebooth,muffin,doughnut,croissant,sandwich,hamburger,hotdog,pizza,straw,juice,coffee,frenchfries,bagel,soysauce,textbook,money,wallet,dictionary,
       detective,peace,fireworks,stairs,leaf,tree,mountain,medicine,doctor,colour,science,button,
-      nailpolish,thief,nose) {
+      nailpolish,thief,nose,calendar) {
   .#{$image}-img {
     background: url('../images/#{$image}.png') no-repeat center center;
     -webkit-background-size: cover;
@@ -404,7 +404,7 @@ footer {
       showerhead, faucet, cottonswab, bathroomscale, dice, yogurt, degree,mobilephone,laptop,desktop,detergent,
       spring, summer, autumn, winter,butter,coin,baseball,bowling,tennis,tabletennis,rugby,basketball,badminton,soccer,
       gasstation,phonebooth,muffin,doughnut,croissant,sandwich,hamburger,hotdog,pizza,straw,juice,coffee,frenchfries,bagel,soysauce,salmon,textbook,money,wallet,dictionary,
-      detective,peace,fireworks,stairs,leaf,tree,mountain,medicine,doctor,colour,science,button,nailpolish,thief,nose) {
+      detective,peace,fireworks,stairs,leaf,tree,mountain,medicine,doctor,colour,science,button,nailpolish,thief,nose,calendar) {
     .#{$image}-img {
       background: url('../images/#{$image}.png') no-repeat center center;
       -webkit-background-size: cover;
@@ -486,7 +486,7 @@ footer {
     spring, summer, autumn, winter,butter,coin,baseball,bowling,tennis,tabletennis,rugby,basketball,badminton,soccer,
     gasstation,phonebooth,muffin,doughnut,croissant,sandwich,hamburger,hotdog,pizza,straw,juice,coffee,frenchfries,bagel,soysauce,salmon,textbook,money,wallet,dictionary,
     detective,peace,fireworks,stairs,leaf,tree,mountain,medicine,doctor,colour,science,button,
-    nailpolish,thief,nose) {
+    nailpolish,thief,nose,calendar) {
     .#{$image}-img {
       background: url('../images/#{$image}.png') no-repeat center center;
       -webkit-background-size: cover;
@@ -541,7 +541,7 @@ footer {
     spring, summer, autumn, winter,butter,coin,baseball,bowling,tennis,tabletennis,rugby,basketball,badminton,soccer,
     gasstation,phonebooth,muffin,doughnut,croissant,sandwich,hamburger,hotdog,pizza,straw,juice,coffee,frenchfries,bagel,soysauce,salmon,textbook,money,wallet,dictionary,
     detective,peace,fireworks,stairs,leaf,tree,mountain,medicine,doctor,colour,science,button,
-    nailpolish,thief,nose) {
+    nailpolish,thief,nose,calendar) {
     .#{$image}-img {
       background: url('../images/#{$image}.png') no-repeat center center;
       -webkit-background-size: cover;
@@ -600,7 +600,7 @@ footer {
 }
 
 /* 6 colour code */
-@each $id in (airplane, glasses, giraffe, mountain, mushroom, shoes, sakura, yawn, guide, map, subway,watermelon, fish, greentea, cucumber, scissors, spinach, horse, hospital, trafficlight,switch, lettuce, asparagus, ear,refrigerator, factory, zebra, bee, cow, sweater, sneakers, crocodile, turtle, broccoli, celery, washstand, lamp, earphone, ladle, mop, yarn, pepper, teacup, dress, monday, sunday,january,july,showerhead, summer, tabletennis, soccer,muffin, sandwich,soysauce,textbook,detective,mountain) {
+@each $id in (airplane, glasses, giraffe, mountain, mushroom, shoes, sakura, yawn, guide, map, subway,watermelon, fish, greentea, cucumber, scissors, spinach, horse, hospital, trafficlight,switch, lettuce, asparagus, ear,refrigerator, factory, zebra, bee, cow, sweater, sneakers, crocodile, turtle, broccoli, celery, washstand, lamp, earphone, ladle, mop, yarn, pepper, teacup, dress, monday, sunday,january,july,showerhead, summer, tabletennis, soccer,muffin, sandwich,soysauce,textbook,detective,mountain,calendar) {
   ##{$id} {
     background: $base-a;
     color: #222;
