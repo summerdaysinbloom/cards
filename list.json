@@ -112,6 +112,56 @@
   "id": "382"
 },
 {
+  "title": "soup",
+  "word" : "しる",
+  "kanji": "汁",
+  "meaning": "soup",
+  "pronunciation": "shi-ru",
+  "id": "394"
+},
+{
+  "title": "comb",
+  "word" : "くし",
+  "kanji": "櫛",
+  "meaning": "comb",
+  "pronunciation": "ku-shi",
+  "id": "403"
+},
+{
+  "title": "moustache",
+  "word" : "くちひげ",
+  "kanji": "口髭",
+  "meaning": "moustache",
+  "pronunciation": "ku-chi-hi-ge",
+  "id": "404"
+},
+
+{
+  "title": "comic",
+  "word" : "まんが",
+  "kanji": "漫画",
+  "meaning": "comic",
+  "pronunciation": "man-ga",
+  "id": "407"
+},
+{
+  "title": "fingerprint",
+  "word" : "しもん",
+  "kanji": "指紋",
+  "meaning": "fingerprint",
+  "pronunciation": "shi-mon",
+  "id": "416"
+},
+{
+  "title": "trafficcone",
+  "word" : "トラフィックコーン",
+  "kanji": "-",
+  "meaning": "traffic-cone",
+  "pronunciation": "to-ra-fi-kku-kōn",
+  "id": "417"
+},
+
+{
   "title": "nailpolish",
   "word" : "マニキュアえき",
   "kanji": "マニキュア液",
@@ -126,6 +176,30 @@
   "meaning": "calendar",
   "pronunciation": "ka-ren-dā",
   "id": "421"
+},
+{
+  "title": "microscope",
+  "word" : "けんびきょう",
+  "kanji": "顕微鏡",
+  "meaning": "microscope",
+  "pronunciation": "ken-bi-kyō",
+  "id": "423"
+},
+{
+  "title": "chemistry",
+  "word" : "ばけがく",
+  "kanji": "化学",
+  "meaning": "chemistry",
+  "pronunciation": "ba-ke-ga-ku",
+  "id": "424"
+},
+{
+  "title": "mechanicalpencil",
+  "word" : "シャープペンシル",
+  "kanji": "-",
+  "meaning": "mechanical pencil",
+  "pronunciation": "shā-pu-pen-shi-ru",
+  "id": "425"
 },
 {
   "title": "textbook",
