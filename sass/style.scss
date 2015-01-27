@@ -360,7 +360,7 @@ footer {
       spring, summer, autumn, winter,butter,coin,baseball,bowling,tennis,tabletennis,rugby,basketball,badminton,soccer,
       gasstation,phonebooth,muffin,doughnut,croissant,sandwich,hamburger,hotdog,pizza,straw,juice,coffee,frenchfries,bagel,soysauce,textbook,money,wallet,dictionary,
       detective,peace,fireworks,stairs,leaf,tree,mountain,medicine,doctor,colour,science,button,
-      nailpolish) {
+      nailpolish,thief,nose) {
   .#{$image}-img {
     background: url('../images/#{$image}.png') no-repeat center center;
     -webkit-background-size: cover;
@@ -404,7 +404,7 @@ footer {
       showerhead, faucet, cottonswab, bathroomscale, dice, yogurt, degree,mobilephone,laptop,desktop,detergent,
       spring, summer, autumn, winter,butter,coin,baseball,bowling,tennis,tabletennis,rugby,basketball,badminton,soccer,
       gasstation,phonebooth,muffin,doughnut,croissant,sandwich,hamburger,hotdog,pizza,straw,juice,coffee,frenchfries,bagel,soysauce,salmon,textbook,money,wallet,dictionary,
-      detective,peace,fireworks,stairs,leaf,tree,mountain,medicine,doctor,colour,science,button,nailpolish) {
+      detective,peace,fireworks,stairs,leaf,tree,mountain,medicine,doctor,colour,science,button,nailpolish,thief,nose) {
     .#{$image}-img {
       background: url('../images/#{$image}.png') no-repeat center center;
       -webkit-background-size: cover;
@@ -486,7 +486,7 @@ footer {
     spring, summer, autumn, winter,butter,coin,baseball,bowling,tennis,tabletennis,rugby,basketball,badminton,soccer,
     gasstation,phonebooth,muffin,doughnut,croissant,sandwich,hamburger,hotdog,pizza,straw,juice,coffee,frenchfries,bagel,soysauce,salmon,textbook,money,wallet,dictionary,
     detective,peace,fireworks,stairs,leaf,tree,mountain,medicine,doctor,colour,science,button,
-    nailpolish) {
+    nailpolish,thief,nose) {
     .#{$image}-img {
       background: url('../images/#{$image}.png') no-repeat center center;
       -webkit-background-size: cover;
@@ -541,7 +541,7 @@ footer {
     spring, summer, autumn, winter,butter,coin,baseball,bowling,tennis,tabletennis,rugby,basketball,badminton,soccer,
     gasstation,phonebooth,muffin,doughnut,croissant,sandwich,hamburger,hotdog,pizza,straw,juice,coffee,frenchfries,bagel,soysauce,salmon,textbook,money,wallet,dictionary,
     detective,peace,fireworks,stairs,leaf,tree,mountain,medicine,doctor,colour,science,button,
-    nailpolish) {
+    nailpolish,thief,nose) {
     .#{$image}-img {
       background: url('../images/#{$image}.png') no-repeat center center;
       -webkit-background-size: cover;
@@ -615,7 +615,7 @@ footer {
   }
 }
 
-@each $id in (cloud, ice, octopus, umbrella, udon, car, immigration,apple, strawberry, shrimp, beer, beef, ruler, peach, rose, deer, cat,socks, giraffe, chair, electricfan, kettle, telephone, parrot, clock, highheels, panties, coat, hanger, pillow, toiletpaper, toiletbowl, door, television, oven, pot, mug, notebook, fork, wineglass, wednesday,march,september, dice, yogurt,coin, baseball, basketball,phonebooth,frenchfries,bagel,wallet,fireworks,doctor) {
+@each $id in (cloud, ice, octopus, umbrella, udon, car, immigration,apple, strawberry, shrimp, beer, beef, ruler, peach, rose, deer, cat,socks, giraffe, chair, electricfan, kettle, telephone, parrot, clock, highheels, panties, coat, hanger, pillow, toiletpaper, toiletbowl, door, television, oven, pot, mug, notebook, fork, wineglass, wednesday,march,september, dice, yogurt,coin, baseball, basketball,phonebooth,frenchfries,bagel,wallet,fireworks,doctor,thief) {
   ##{$id} {
     background: $base-c;
     color: #222;
@@ -629,7 +629,7 @@ footer {
   }
 }
 
-@each $id in (eye, key, queue, window, water, entrance, kimono, cherry, carrot, chickenmeat, crab, bread, sushi, glue, pumpkin, dog, bridge,squirrel, bottleopener, choppingboard, orange, hat, vacuum, duck, owl, boots, chicken, lobster, tomato, soap, spatula, quilt, alarmclock, kitchenknife, table, blind, fryingpan, chopstick, spoon, bowl, friday,may, november,laptop,autumn, rugby,gasstation,hamburger,juice,salmon,leaf,science) {
+@each $id in (eye, key, queue, window, water, entrance, kimono, cherry, carrot, chickenmeat, crab, bread, sushi, glue, pumpkin, dog, bridge,squirrel, bottleopener, choppingboard, orange, hat, vacuum, duck, owl, boots, chicken, lobster, tomato, soap, spatula, quilt, alarmclock, kitchenknife, table, blind, fryingpan, chopstick, spoon, bowl, friday,may, november,laptop,autumn, rugby,gasstation,hamburger,juice,salmon,leaf,science,nose) {
   ##{$id} {
     background: $base-e;
     color: #222;

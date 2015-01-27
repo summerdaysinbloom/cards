@@ -32,6 +32,22 @@
   "id": "363"
 },
 {
+  "title": "nose",
+  "word" : "はな",
+  "kanji": "鼻",
+  "meaning": "nose",
+  "pronunciation": "ha-na",
+  "id": "364"
+},
+{
+  "title": "thief",
+  "word" : "どろぼう",
+  "kanji": "泥棒",
+  "meaning": "thief",
+  "pronunciation": "do-ro-bō",
+  "id": "366"
+},
+{
   "title": "stairs",
   "word" : "かいだん",
   "kanji": "階段",
