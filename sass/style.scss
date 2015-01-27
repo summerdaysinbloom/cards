@@ -359,7 +359,7 @@ footer {
       showerhead, faucet, cottonswab, bathroomscale, dice, yogurt, degree,mobilephone,laptop,desktop,detergent,
       spring, summer, autumn, winter,butter,coin,baseball,bowling,tennis,tabletennis,rugby,basketball,badminton,soccer,
       gasstation,phonebooth,muffin,doughnut,croissant,sandwich,hamburger,hotdog,pizza,straw,juice,coffee,frenchfries,bagel,soysauce,textbook,money,wallet,dictionary,
-      detective,peace,fireworks,stairs,leaf,tree,mountain,medicine,doctor,colour,science) {
+      detective,peace,fireworks,stairs,leaf,tree,mountain,medicine,doctor,colour,science,button) {
   .#{$image}-img {
     background: url('../images/#{$image}.png') no-repeat center center;
     -webkit-background-size: cover;
@@ -403,7 +403,7 @@ footer {
       showerhead, faucet, cottonswab, bathroomscale, dice, yogurt, degree,mobilephone,laptop,desktop,detergent,
       spring, summer, autumn, winter,butter,coin,baseball,bowling,tennis,tabletennis,rugby,basketball,badminton,soccer,
       gasstation,phonebooth,muffin,doughnut,croissant,sandwich,hamburger,hotdog,pizza,straw,juice,coffee,frenchfries,bagel,soysauce,salmon,textbook,money,wallet,dictionary,
-      detective,peace,fireworks,stairs,leaf,tree,mountain,medicine,doctor,colour,science) {
+      detective,peace,fireworks,stairs,leaf,tree,mountain,medicine,doctor,colour,science,button) {
     .#{$image}-img {
       background: url('../images/#{$image}.png') no-repeat center center;
       -webkit-background-size: cover;
@@ -484,7 +484,7 @@ footer {
     showerhead, faucet, cottonswab, bathroomscale, dice, yogurt, degree,mobilephone,laptop,desktop,detergent,
     spring, summer, autumn, winter,butter,coin,baseball,bowling,tennis,tabletennis,rugby,basketball,badminton,soccer,
     gasstation,phonebooth,muffin,doughnut,croissant,sandwich,hamburger,hotdog,pizza,straw,juice,coffee,frenchfries,bagel,soysauce,salmon,textbook,money,wallet,dictionary,
-    detective,peace,fireworks,stairs,leaf,tree,mountain,medicine,doctor,colour,science) {
+    detective,peace,fireworks,stairs,leaf,tree,mountain,medicine,doctor,colour,science,button) {
     .#{$image}-img {
       background: url('../images/#{$image}.png') no-repeat center center;
       -webkit-background-size: cover;
@@ -538,7 +538,7 @@ footer {
     showerhead, faucet, cottonswab, bathroomscale, dice, yogurt, degree,mobilephone,laptop,desktop,detergent,
     spring, summer, autumn, winter,butter,coin,baseball,bowling,tennis,tabletennis,rugby,basketball,badminton,soccer,
     gasstation,phonebooth,muffin,doughnut,croissant,sandwich,hamburger,hotdog,pizza,straw,juice,coffee,frenchfries,bagel,soysauce,salmon,textbook,money,wallet,dictionary,
-    detective,peace,fireworks,stairs,leaf,tree,mountain,medicine,doctor,colour,science) {
+    detective,peace,fireworks,stairs,leaf,tree,mountain,medicine,doctor,colour,science,button) {
     .#{$image}-img {
       background: url('../images/#{$image}.png') no-repeat center center;
       -webkit-background-size: cover;
@@ -605,7 +605,7 @@ footer {
 }
 
 @each $id in (bag, hand, newspaper, ticket, zoo, bus, hotel, train,pear, beans, egg, rice, westernfood, chinesedumpling, garlic, sunflower, mouse, school,mosquito, electrickettle, feather, curtain, bathtub, nest, flashlight, cap,boxers, briefs, hamster, butterfly, corn, potato, hairdryer, wardrobe, rug, floor, microwave, dustpan, glass, teapot, necktie, taxi, tuesday,february,august,
-  cottonswab, bathroomscale,faucet,spring, butter,croissant,hotdog,peace,medicine) {
+  cottonswab, bathroomscale,faucet,spring, butter,croissant,hotdog,peace,medicine,colour) {
   ##{$id} {
     background: $base-b;
     color: #222;
@@ -619,7 +619,7 @@ footer {
   }
 }
 
-@each $id in (drum, judo, plants, vegetables, departure, japan, passport, vehicles, grape, milk, salt, japanesefood, calculator, eraser, eggplant, swimming, pig, bank,dragonfly, stapler, snail, penguin, mirror, jellyfish, slippers, snake, outlet, raincoat, necklace, whale, shampoo, toothpaste, ironingboard, washingmachine, bin, elephant, plate, icecream, thursday,april, october,degree,mobilephone,bowling, badminton,pizza,coffee,dictionary,stairs,colour) {
+@each $id in (drum, judo, plants, vegetables, departure, japan, passport, vehicles, grape, milk, salt, japanesefood, calculator, eraser, eggplant, swimming, pig, bank,dragonfly, stapler, snail, penguin, mirror, jellyfish, slippers, snake, outlet, raincoat, necklace, whale, shampoo, toothpaste, ironingboard, washingmachine, bin, elephant, plate, icecream, thursday,april, october,degree,mobilephone,bowling, badminton,pizza,coffee,dictionary,stairs,button) {
   ##{$id} {
     background: $base-d;
     color: #222;
@@ -696,44 +696,4 @@ footer {
   position: relative;
   top: 2px;
   right: 3px;
-}
-
-// mailchimp
-#mc_embed_signup {
-  color: #fff;
-  text-align: center !important;
-  form {
-    padding: 15px 15px 0 15px!important;
-  }
-  label {
-    border-top: 1px solid #68686B;
-    color: #68686B;
-    font-weight: 200 !important;
-    padding-top: 15px;
-    text-align: center !important;
-    text-shadow: 0 1px 0 rgba(200,200,200,.05);
-  }
-  input.email {
-    left: 0 !important;
-    margin: 0 auto 10px auto !important;
-    max-width: 400px !important;
-    position: absolute !important;
-    right: 0 !important;
-  }
-  input.button {
-    margin: 50px auto 10px auto !important;
-  }
-  .button {
-    width: 150px !important;
-    color: #000 !important;
-    font-weight: 200 !important;
-    background-color: #68686B !important;
-    &:hover {
-      background-color: #eee !important;
-    }
-  }
-}
-
-#mc_embed_signup_scroll {
-  display: inline;
 }
