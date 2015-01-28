@@ -360,7 +360,7 @@ footer {
       spring, summer, autumn, winter,butter,coin,baseball,bowling,tennis,tabletennis,rugby,basketball,badminton,soccer,
       gasstation,phonebooth,muffin,doughnut,croissant,sandwich,hamburger,hotdog,pizza,straw,juice,coffee,frenchfries,bagel,soysauce,textbook,money,wallet,dictionary,
       detective,peace,fireworks,stairs,leaf,tree,mountain,medicine,doctor,colour,science,button,
-      nailpolish,thief,nose,calendar,soup,comb,moustache,comic,fingerprint,trafficcone,microscope,chemistry,mechanicalpencil) {
+      nailpolish,thief,nose,calendar,soup,comb,moustache,comic,fingerprint,trafficcone,microscope,chemistry,mechanicalpencil,doorway) {
   .#{$image}-img {
     background: url('../images/#{$image}.png') no-repeat center center;
     -webkit-background-size: cover;
@@ -404,7 +404,7 @@ footer {
       showerhead, faucet, cottonswab, bathroomscale, dice, yogurt, degree,mobilephone,laptop,desktop,detergent,
       spring, summer, autumn, winter,butter,coin,baseball,bowling,tennis,tabletennis,rugby,basketball,badminton,soccer,
       gasstation,phonebooth,muffin,doughnut,croissant,sandwich,hamburger,hotdog,pizza,straw,juice,coffee,frenchfries,bagel,soysauce,salmon,textbook,money,wallet,dictionary,
-      detective,peace,fireworks,stairs,leaf,tree,mountain,medicine,doctor,colour,science,button,nailpolish,thief,nose,calendar,soup,comb,moustache,comic,fingerprint,trafficcone,microscope,chemistry,mechanicalpencil) {
+      detective,peace,fireworks,stairs,leaf,tree,mountain,medicine,doctor,colour,science,button,nailpolish,thief,nose,calendar,soup,comb,moustache,comic,fingerprint,trafficcone,microscope,chemistry,mechanicalpencil,doorway) {
     .#{$image}-img {
       background: url('../images/#{$image}.png') no-repeat center center;
       -webkit-background-size: cover;
@@ -486,7 +486,7 @@ footer {
     spring, summer, autumn, winter,butter,coin,baseball,bowling,tennis,tabletennis,rugby,basketball,badminton,soccer,
     gasstation,phonebooth,muffin,doughnut,croissant,sandwich,hamburger,hotdog,pizza,straw,juice,coffee,frenchfries,bagel,soysauce,salmon,textbook,money,wallet,dictionary,
     detective,peace,fireworks,stairs,leaf,tree,mountain,medicine,doctor,colour,science,button,
-    nailpolish,thief,nose,calendar,soup,comb,moustache,comic,fingerprint,trafficcone,microscope,chemistry,mechanicalpencil) {
+    nailpolish,thief,nose,calendar,soup,comb,moustache,comic,fingerprint,trafficcone,microscope,chemistry,mechanicalpencil,doorway) {
     .#{$image}-img {
       background: url('../images/#{$image}.png') no-repeat center center;
       -webkit-background-size: cover;
@@ -541,7 +541,7 @@ footer {
     spring, summer, autumn, winter,butter,coin,baseball,bowling,tennis,tabletennis,rugby,basketball,badminton,soccer,
     gasstation,phonebooth,muffin,doughnut,croissant,sandwich,hamburger,hotdog,pizza,straw,juice,coffee,frenchfries,bagel,soysauce,salmon,textbook,money,wallet,dictionary,
     detective,peace,fireworks,stairs,leaf,tree,mountain,medicine,doctor,colour,science,button,
-    nailpolish,thief,nose,calendar,soup,comb,moustache,comic,fingerprint,trafficcone,microscope,chemistry,mechanicalpencil) {
+    nailpolish,thief,nose,calendar,soup,comb,moustache,comic,fingerprint,trafficcone,microscope,chemistry,mechanicalpencil,doorway) {
     .#{$image}-img {
       background: url('../images/#{$image}.png') no-repeat center center;
       -webkit-background-size: cover;
@@ -636,7 +636,7 @@ footer {
   }
 }
 
-@each $id in (fruit, lion, rope, xylophone, food, luggage, onion, sugar, sushi, dairy, riceuncooked, drinks, pencil, dandelion, rabbit, rhino,squid, towel, bed, cake, frog, ant,iron,lizard, gloves, pigeon, wall, blender, brassiere, cap, scarf, camel, shell, pea, toothbrush, blanket, airconditioner, remotecontrol, headphone, clothes, soldier, saturday,june,december,desktop,detergent,winter, tennis,doughnut,straw,money,tree,chemistry) {
+@each $id in (fruit, lion, rope, xylophone, food, luggage, onion, sugar, sushi, dairy, riceuncooked, drinks, pencil, dandelion, rabbit, rhino,squid, towel, bed, cake, frog, ant,iron,lizard, gloves, pigeon, wall, blender, brassiere, cap, scarf, camel, shell, pea, toothbrush, blanket, airconditioner, remotecontrol, headphone, clothes, soldier, saturday,june,december,desktop,detergent,winter, tennis,doughnut,straw,money,tree,chemistry,doorway) {
   ##{$id} {
     background: $base-f;
     color: #222;

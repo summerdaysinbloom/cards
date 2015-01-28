@@ -248,7 +248,7 @@
   "word" : "しょうゆ",
   "kanji": "醤油",
   "meaning": "soy sauce",
-  "pronunciation": "sho-u-yu",
+  "pronunciation": "shō-yu",
   "id": "",
   "tag": "food,sauce"
 },
@@ -291,7 +291,7 @@
   "word" : "ジュース",
   "kanji": "-",
   "meaning": "juice",
-  "pronunciation": "jyu-su",
+  "pronunciation": "jyū-su",
   "id": ""
 },
 {
@@ -315,7 +315,7 @@
   "word" : "ベーグル",
   "kanji": "-",
   "meaning": "bagel",
-  "pronunciation": "bee-gu-ru",
+  "pronunciation": "bē-gu-ru",
   "id": ""
 },
 {
@@ -560,10 +560,10 @@
 },
 {
   "title": "laptop",
-  "word" : "ラップトップ",
+  "word" : "ノートパソコン",
   "kanji": "-",
   "meaning": "laptop",
-  "pronunciation": "ra-ppu-to-ppu",
+  "pronunciation": "nō-to-pa-so-kon",
   "id": ""
 },
 {
@@ -675,7 +675,7 @@
   "word" : "げつようび",
   "kanji": "月曜日",
   "meaning": "monday",
-  "pronunciation": "ge-tsu-yo-u-bi",
+  "pronunciation": "ge-tsu-yō-bi",
   "id": ""
 },
 {
@@ -683,7 +683,7 @@
   "word" : "かようび",
   "kanji": "火曜日",
   "meaning": "tuesday",
-  "pronunciation": "ka-yo-u-bi",
+  "pronunciation": "ka-yō-bi",
   "id": ""
 },
 {
@@ -691,7 +691,7 @@
   "word" : "すいようび",
   "kanji": "水曜日",
   "meaning": "wednesday",
-  "pronunciation": "su-i-yo-u-bi",
+  "pronunciation": "su-i-yō-bi",
   "id": ""
 },
 {
@@ -699,7 +699,7 @@
   "word" : "もくようび",
   "kanji": "木曜日",
   "meaning": "thursday",
-  "pronunciation": "mo-ku-yo-u-bi",
+  "pronunciation": "mo-ku-yō-bi",
   "id": ""
 },
 {
@@ -707,7 +707,7 @@
   "word" : "きんようび",
   "kanji": "金曜日",
   "meaning": "friday",
-  "pronunciation": "kin-yo-u-bi",
+  "pronunciation": "kin-yō-bi",
   "id": ""
 },
 {
@@ -715,7 +715,7 @@
   "word" : "どようび",
   "kanji": "土曜日",
   "meaning": "saturday",
-  "pronunciation": "do-yo-u-bi",
+  "pronunciation": "do-yō-bi",
   "id": ""
 },
 {
@@ -723,7 +723,7 @@
   "word" : "にちようび",
   "kanji": "日曜日",
   "meaning": "sunday",
-  "pronunciation": "ni-chi-yo-u-bi",
+  "pronunciation": "ni-chi-yō-bi",
   "id": ""
 },
 {
@@ -755,7 +755,7 @@
   "word" : "フォーク",
   "kanji": "-",
   "meaning": "fork",
-  "pronunciation": "fohh-ku",
+  "pronunciation": "fō-ku",
   "id": ""
 },
   {
@@ -763,7 +763,7 @@
     "word" : "ひこうき",
     "kanji": "飛行機",
     "meaning": "airplane",
-    "pronunciation": "hi-ko-u-ki",
+    "pronunciation": "hi-kō-ki",
     "id": ""
   },
   {
@@ -791,11 +791,19 @@
     "id": ""
   },
   {
-    "title": "entrance",
+    "title": "doorway",
     "word" : "げんかん",
     "kanji": "玄関",
-    "meaning": "entrance",
+    "meaning": "doorway",
     "pronunciation": "gen-kan",
+    "id": "E"
+  },
+  {
+    "title": "entrance",
+    "word" : "いりぐち",
+    "kanji": "入り口",
+    "meaning": "entrance",
+    "pronunciation": "i-ri-gu-chi",
     "id": "E"
   },
   {
