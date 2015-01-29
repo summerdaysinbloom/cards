@@ -360,7 +360,7 @@ footer {
       spring, summer, autumn, winter,butter,coin,baseball,bowling,tennis,tabletennis,rugby,basketball,badminton,soccer,
       gasstation,phonebooth,muffin,doughnut,croissant,sandwich,hamburger,hotdog,pizza,straw,juice,coffee,frenchfries,bagel,soysauce,textbook,money,wallet,dictionary,
       detective,peace,fireworks,stairs,leaf,tree,mountain,medicine,doctor,colour,science,button,
-      nailpolish,thief,nose,calendar,soup,comb,moustache,comic,fingerprint,trafficcone,microscope,chemistry,mechanicalpencil,doorway,star,sewingmachine,planet,movie,temperature,stethoscope,ambulance,bandaid,mouthwash,syringe,vitamin,recycle,gun,nailclipper,can,zip,postcard,stamp,swimmingpool,hotsprings,ski,balloon,mathematics,camera,stroller,camera) {
+      nailpolish,thief,nose,calendar,soup,comb,moustache,comic,fingerprint,trafficcone,microscope,chemistry,mechanicalpencil,doorway,star,sewingmachine,planet,movie,temperature,stethoscope,ambulance,bandaid,mouthwash,syringe,vitamin,recycle,gun,nailclipper,can,zip,postcard,stamp,swimmingpool,hotspring,ski,balloon,mathematics,camera,stroller,camera) {
   .#{$image}-img {
     background: url('../images/#{$image}.png') no-repeat center center;
     -webkit-background-size: cover;
@@ -404,7 +404,7 @@ footer {
       showerhead, faucet, cottonswab, bathroomscale, dice, yogurt, degree,mobilephone,laptop,desktop,detergent,
       spring, summer, autumn, winter,butter,coin,baseball,bowling,tennis,tabletennis,rugby,basketball,badminton,soccer,
       gasstation,phonebooth,muffin,doughnut,croissant,sandwich,hamburger,hotdog,pizza,straw,juice,coffee,frenchfries,bagel,soysauce,salmon,textbook,money,wallet,dictionary,
-      detective,peace,fireworks,stairs,leaf,tree,mountain,medicine,doctor,colour,science,button,nailpolish,thief,nose,calendar,soup,comb,moustache,comic,fingerprint,trafficcone,microscope,chemistry,mechanicalpencil,doorway,star,sewingmachine,planet,movie,temperature,stethoscope,ambulance,bandaid,mouthwash,syringe,vitamin,recycle,gun,nailclipper,can,zip,postcard,stamp,swimmingpool,hotsprings,ski,balloon,mathematics,camera,stroller,camera) {
+      detective,peace,fireworks,stairs,leaf,tree,mountain,medicine,doctor,colour,science,button,nailpolish,thief,nose,calendar,soup,comb,moustache,comic,fingerprint,trafficcone,microscope,chemistry,mechanicalpencil,doorway,star,sewingmachine,planet,movie,temperature,stethoscope,ambulance,bandaid,mouthwash,syringe,vitamin,recycle,gun,nailclipper,can,zip,postcard,stamp,swimmingpool,hotspring,ski,balloon,mathematics,camera,stroller,camera) {
     .#{$image}-img {
       background: url('../images/#{$image}.png') no-repeat center center;
       -webkit-background-size: cover;
@@ -486,7 +486,7 @@ footer {
     spring, summer, autumn, winter,butter,coin,baseball,bowling,tennis,tabletennis,rugby,basketball,badminton,soccer,
     gasstation,phonebooth,muffin,doughnut,croissant,sandwich,hamburger,hotdog,pizza,straw,juice,coffee,frenchfries,bagel,soysauce,salmon,textbook,money,wallet,dictionary,
     detective,peace,fireworks,stairs,leaf,tree,mountain,medicine,doctor,colour,science,button,
-    nailpolish,thief,nose,calendar,soup,comb,moustache,comic,fingerprint,trafficcone,microscope,chemistry,mechanicalpencil,doorway,star,sewingmachine,planet,movie,temperature,stethoscope,ambulance,bandaid,mouthwash,syringe,vitamin,recycle,gun,nailclipper,can,zip,postcard,stamp,swimmingpool,hotsprings,ski,balloon,mathematics,camera,stroller,camera) {
+    nailpolish,thief,nose,calendar,soup,comb,moustache,comic,fingerprint,trafficcone,microscope,chemistry,mechanicalpencil,doorway,star,sewingmachine,planet,movie,temperature,stethoscope,ambulance,bandaid,mouthwash,syringe,vitamin,recycle,gun,nailclipper,can,zip,postcard,stamp,swimmingpool,hotspring,ski,balloon,mathematics,camera,stroller,camera) {
     .#{$image}-img {
       background: url('../images/#{$image}.png') no-repeat center center;
       -webkit-background-size: cover;
@@ -541,7 +541,7 @@ footer {
     spring, summer, autumn, winter,butter,coin,baseball,bowling,tennis,tabletennis,rugby,basketball,badminton,soccer,
     gasstation,phonebooth,muffin,doughnut,croissant,sandwich,hamburger,hotdog,pizza,straw,juice,coffee,frenchfries,bagel,soysauce,salmon,textbook,money,wallet,dictionary,
     detective,peace,fireworks,stairs,leaf,tree,mountain,medicine,doctor,colour,science,button,
-    nailpolish,thief,nose,calendar,soup,comb,moustache,comic,fingerprint,trafficcone,microscope,chemistry,mechanicalpencil,doorway,star,sewingmachine,planet,movie,temperature,stethoscope,ambulance,bandaid,mouthwash,syringe,vitamin,recycle,gun,nailclipper,can,zip,postcard,stamp,swimmingpool,hotsprings,ski,balloon,mathematics,camera,stroller,camera) {
+    nailpolish,thief,nose,calendar,soup,comb,moustache,comic,fingerprint,trafficcone,microscope,chemistry,mechanicalpencil,doorway,star,sewingmachine,planet,movie,temperature,stethoscope,ambulance,bandaid,mouthwash,syringe,vitamin,recycle,gun,nailclipper,can,zip,postcard,stamp,swimmingpool,hotspring,ski,balloon,mathematics,camera,stroller,camera) {
     .#{$image}-img {
       background: url('../images/#{$image}.png') no-repeat center center;
       -webkit-background-size: cover;
@@ -600,7 +600,7 @@ footer {
 }
 
 /* 6 colour code */
-@each $id in (airplane, glasses, giraffe, mountain, mushroom, shoes, sakura, yawn, guide, map, subway,watermelon, fish, greentea, cucumber, scissors, spinach, horse, hospital, trafficlight,switch, lettuce, asparagus, ear,refrigerator, factory, zebra, bee, cow, sweater, sneakers, crocodile, turtle, broccoli, celery, washstand, lamp, earphone, ladle, mop, yarn, pepper, teacup, dress, monday, sunday,january,july,showerhead, summer, tabletennis, soccer,muffin, sandwich,soysauce,textbook,detective,mountain,calendar,soup,fingerprint,star,ambulance,recycle,stamp,stroller) {
+@each $id in (airplane, glasses, giraffe, mountain, mushroom, shoes, sakura, yawn, guide, map, subway,watermelon, fish, greentea, cucumber, scissors, spinach, horse, hospital, trafficlight,switch, lettuce, asparagus, ear,refrigerator, factory, zebra, bee, cow, sweater, sneakers, crocodile, turtle, broccoli, celery, washstand, lamp, earphone, ladle, mop, yarn, pepper, teacup, dress, monday, sunday,january,july,showerhead, summer, tabletennis, soccer,muffin, sandwich,soysauce,textbook,detective,mountain,calendar,soup,fingerprint,star,ambulance,recycle,stamp,stroller,swimmingpool) {
   ##{$id} {
     background: $base-a;
     color: #222;
@@ -636,7 +636,7 @@ footer {
   }
 }
 
-@each $id in (fruit, lion, rope, xylophone, food, luggage, onion, sugar, sushi, dairy, riceuncooked, drinks, pencil, dandelion, rabbit, rhino,squid, towel, bed, cake, frog, ant,iron,lizard, gloves, pigeon, wall, blender, brassiere, cap, scarf, camel, shell, pea, toothbrush, blanket, airconditioner, remotecontrol, headphone, clothes, soldier, saturday,june,december,desktop,detergent,winter, tennis,doughnut,straw,money,tree,chemistry,doorway,stethoscope,gun,hotsprings) {
+@each $id in (fruit, lion, rope, xylophone, food, luggage, onion, sugar, sushi, dairy, riceuncooked, drinks, pencil, dandelion, rabbit, rhino,squid, towel, bed, cake, frog, ant,iron,lizard, gloves, pigeon, wall, blender, brassiere, cap, scarf, camel, shell, pea, toothbrush, blanket, airconditioner, remotecontrol, headphone, clothes, soldier, saturday,june,december,desktop,detergent,winter, tennis,doughnut,straw,money,tree,chemistry,doorway,stethoscope,gun,hotspring) {
   ##{$id} {
     background: $base-f;
     color: #222;
