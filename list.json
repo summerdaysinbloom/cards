@@ -413,6 +413,95 @@
   "id": "427"
 },
 {
+  "title": "guitar",
+  "word" : "ギータ",
+  "kanji": "-",
+  "meaning": "guitar",
+  "pronunciation": "gī-ta",
+  "id": "428"
+},
+{
+  "title": "cigarette",
+  "word" : "タバコ",
+  "kanji": "-",
+  "meaning": "cigarette",
+  "pronunciation": "ta-ba-ko",
+  "id": "429"
+},
+
+{
+  "title": "nosmoking",
+  "word" : "きんえん",
+  "kanji": "禁煙",
+  "meaning": "no smoking",
+  "pronunciation": "kin-en",
+  "id": "430"
+},
+{
+  "title": "skirt",
+  "word" : "スカート",
+  "kanji": "-",
+  "meaning": "skirt",
+  "pronunciation": "su-kā-to",
+  "id": "431"
+},
+{
+  "title": "shirt",
+  "word" : "シャツ",
+  "kanji": "-",
+  "meaning": "shirt",
+  "pronunciation": "shya-tsu",
+  "id": "432"
+},
+{
+  "title": "bacon",
+  "word" : "ベーコン",
+  "kanji": "-",
+  "meaning": "bacon",
+  "pronunciation": "bē-kon",
+  "id": "433"
+},
+{
+  "title": "teacher",
+  "word" : "せんせい",
+  "kanji": "先生",
+  "meaning": "teacher",
+  "pronunciation": "sen-se-i",
+  "id": "434"
+},
+{
+  "title": "oil",
+  "word" : "あぶら",
+  "kanji": "油",
+  "meaning": "oil",
+  "pronunciation": "a-bu-ra",
+  "id": "435"
+},
+{
+  "title": "exit",
+  "word" : "でぐち",
+  "kanji": "出口",
+  "meaning": "exit",
+  "pronunciation": "de-gu-chi",
+  "id": "436"
+},
+{
+  "title": "footprints",
+  "word" : "あしあと",
+  "kanji": "足跡",
+  "meaning": "footprints",
+  "pronunciation": "a-shi-a-to",
+  "id": "437"
+},
+{
+  "title": "golf",
+  "word" : "ゴルフ",
+  "kanji": "-",
+  "meaning": "golf",
+  "pronunciation": "go-ru-fu",
+  "id": "438"
+},
+{
   "title": "textbook",
   "word" : "きょうかしょ",
   "kanji": "教科書",
