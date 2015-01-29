@@ -24,6 +24,22 @@
   "id": "352"
 },
 {
+  "title": "star",
+  "word" : "ほし",
+  "kanji": "星",
+  "meaning": "star",
+  "pronunciation": "ho-shi",
+  "id": "356"
+},
+{
+  "title": "sewingmachine",
+  "word" : "ミシン",
+  "kanji": "-",
+  "meaning": "sewing machine",
+  "pronunciation": "mi-shin",
+  "id": "362"
+},
+{
   "title": "button",
   "word" : "ボタン",
   "kanji": "-",
@@ -110,6 +126,73 @@
   "meaning": "science",
   "pronunciation": "ka-ga-ku",
   "id": "382"
+},
+
+{
+  "title": "planet",
+  "word" : "わくせい  ",
+  "kanji": "惑星",
+  "meaning": "planet",
+  "pronunciation": "wa-ku-se-i",
+  "id": "383"
+},
+{
+  "title": "movie",
+  "word" : "えいが",
+  "kanji": "映画",
+  "meaning": "movie",
+  "pronunciation": "e-i-ga",
+  "id": "384"
+},
+
+{
+  "title": "temperature",
+  "word" : "おんど",
+  "kanji": "温度",
+  "meaning": "temperature",
+  "pronunciation": "on-do",
+  "id": "385"
+},
+{
+  "title": "stethoscope",
+  "word" : "ちょうしんき",
+  "kanji": "聴診器",
+  "meaning": "stethoscope",
+  "pronunciation": "chō-shin-ki",
+  "id": "386"
+},
+{
+  "title": "ambulance",
+  "word" : "きゅうきゅうしゃ",
+  "kanji": "救急車",
+  "meaning": "ambulance",
+  "pronunciation": "kyū-kyū-sha",
+  "id": "387"
+},
+
+{
+  "title": "bandaid",
+  "word" : "バンドエイド",
+  "kanji": "-",
+  "meaning": "band-aid",
+  "pronunciation": "ban-do-e-i-do",
+  "id": "388"
+},
+{
+  "title": "mouthwash",
+  "word" : "せんこうえき",
+  "kanji": "洗口液",
+  "meaning": "mouthwash",
+  "pronunciation": "sen-kō-e-ki",
+  "id": "389"
+},
+{
+  "title": "syringe",
+  "word" : "ちゅうしゃき",
+  "kanji": "注射器",
+  "meaning": "syringe",
+  "pronunciation": "chū-sha-ki",
+  "id": "390"
 },
 {
   "title": "soup",
@@ -2627,7 +2710,7 @@
   "word" : "ぐんじん",
   "kanji": "軍人",
   "meaning": "soldier",
-  "pronunciation": "kun-jin",
+  "pronunciation": "gun-jin",
   "id": ""
 },
 {
