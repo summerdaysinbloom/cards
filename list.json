@@ -195,12 +195,76 @@
   "id": "390"
 },
 {
+  "title": "vitamin",
+  "word" : "ビタミン",
+  "kanji": "-",
+  "meaning": "vitamin",
+  "pronunciation": "bi-ta-min",
+  "id": "391"
+},
+{
   "title": "soup",
   "word" : "しる",
   "kanji": "汁",
   "meaning": "soup",
   "pronunciation": "shi-ru",
   "id": "394"
+},
+{
+  "title": "recycle",
+  "word" : "リサイクル",
+  "kanji": "-",
+  "meaning": "recycle",
+  "pronunciation": "ri-sa-i-ku-ru",
+  "id": "395"
+},
+{
+  "title": "gun",
+  "word" : "じゅう",
+  "kanji": "銃",
+  "meaning": "gun",
+  "pronunciation": "jyū",
+  "id": "396"
+},
+{
+  "title": "nailclipper",
+  "word" : "つめきり",
+  "kanji": "爪切り",
+  "meaning": "nail clipper",
+  "pronunciation": "tsu-me-ki-ri",
+  "id": "397"
+},
+{
+  "title": "can",
+  "word" : "かん",
+  "kanji": "缶",
+  "meaning": "can",
+  "pronunciation": "kan",
+  "id": "398"
+},
+{
+  "title": "zip",
+  "word" : "ジッパー",
+  "kanji": "-",
+  "meaning": "zip",
+  "pronunciation": "ji-ppā",
+  "id": "399"
+},
+{
+  "title": "postcard",
+  "word" : "ポストカード",
+  "kanji": "-",
+  "meaning": "postcard",
+  "pronunciation": "po-su-to-kā-do",
+  "id": "400"
+},
+{
+  "title": "stamp",
+  "word" : "きって",
+  "kanji": "切手",
+  "meaning": "stamp",
+  "pronunciation": "ki-tte",
+  "id": "401"
 },
 {
   "title": "comb",
@@ -228,6 +292,30 @@
   "id": "407"
 },
 {
+  "title": "swimmingpool",
+  "word" : "プール",
+  "kanji": "-",
+  "meaning": "swimming pool",
+  "pronunciation": "pū-ru",
+  "id": "408"
+},
+{
+  "title": "hotsprings",
+  "word" : "おんせん",
+  "kanji": "温泉",
+  "meaning": "hotsprings",
+  "pronunciation": "on-sen",
+  "id": "409"
+},
+{
+  "title": "ski",
+  "word" : "スキー",
+  "kanji": "-",
+  "meaning": "ski",
+  "pronunciation": "su-kī",
+  "id": "414"
+},
+{
   "title": "fingerprint",
   "word" : "しもん",
   "kanji": "指紋",
@@ -253,12 +341,36 @@
   "id": "418"
 },
 {
+  "title": "balloon",
+  "word" : "ききゅう",
+  "kanji": "気球",
+  "meaning": "balloon",
+  "pronunciation": "ki-kyū",
+  "id": "419"
+},
+{
+  "title": "mathematics",
+  "word" : "すうがく",
+  "kanji": "数学",
+  "meaning": "mathematics",
+  "pronunciation": "sū-ga-ku",
+  "id": "420"
+},
+{
   "title": "calendar",
   "word" : "カレンダー",
   "kanji": "-",
   "meaning": "calendar",
   "pronunciation": "ka-ren-dā",
   "id": "421"
+},
+{
+  "title": "camera",
+  "word" : "しゃしんき",
+  "kanji": "写真器",
+  "meaning": "camera",
+  "pronunciation": "sha-shin-ki",
+  "id": "422"
 },
 {
   "title": "microscope",
@@ -283,6 +395,22 @@
   "meaning": "mechanical pencil",
   "pronunciation": "shā-pu-pen-shi-ru",
   "id": "425"
+},
+{
+  "title": "stroller",
+  "word" : "ベビーカー",
+  "kanji": "-",
+  "meaning": "stroller",
+  "pronunciation": "be-bī-kā",
+  "id": "426"
+},
+{
+  "title": "camera",
+  "word" : "カメラ",
+  "kanji": "-",
+  "meaning": "camera",
+  "pronunciation": "ka-me-ra",
+  "id": "427"
 },
 {
   "title": "textbook",
