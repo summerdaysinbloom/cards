@@ -24,6 +24,30 @@
   "id": "352"
 },
 {
+  "title": "bicycle",
+  "word" : "じてんしゃ",
+  "kanji": "自転車",
+  "meaning": "bicycle",
+  "pronunciation": "ji-ten-sha",
+  "id": "353"
+},
+{
+  "title": "wing",
+  "word" : "つばさ",
+  "kanji": "翼",
+  "meaning": "wing",
+  "pronunciation": "tsu-ba-sa",
+  "id": "354"
+},
+{
+  "title": "photograph",
+  "word" : "しゃしん  ",
+  "kanji": "写真",
+  "meaning": "photograph",
+  "pronunciation": "sha-shin",
+  "id": "355"
+},
+{
   "title": "star",
   "word" : "ほし",
   "kanji": "星",
@@ -201,6 +225,22 @@
   "meaning": "vitamin",
   "pronunciation": "bi-ta-min",
   "id": "391"
+},
+{
+  "title": "baby",
+  "word" : "あかちゃん",
+  "kanji": "赤ちゃん",
+  "meaning": "baby",
+  "pronunciation": "a-ka-chan",
+  "id": "392"
+},
+{
+  "title": "children",
+  "word" : "こども",
+  "kanji": "子供",
+  "meaning": "children",
+  "pronunciation": "ko-do-mo",
+  "id": "393"
 },
 {
   "title": "soup",
@@ -500,6 +540,54 @@
   "meaning": "golf",
   "pronunciation": "go-ru-fu",
   "id": "438"
+},
+{
+  "title": "book",
+  "word" : "ほん",
+  "kanji": "本",
+  "meaning": "book",
+  "pronunciation": "hon",
+  "id": "439"
+},
+{
+  "title": "music",
+  "word" : "おんがく",
+  "kanji": "音楽",
+  "meaning": "music",
+  "pronunciation": "on-ga-ku",
+  "id":"440"
+},
+{
+  "title": "radio",
+  "word" : "ラジオ",
+  "kanji": "-",
+  "meaning": "radio",
+  "pronunciation": "ra-ji-o",
+  "id":"441"
+},
+{
+  "title": "police",
+  "word" : "けいさつ",
+  "kanji": "警察",
+  "meaning": "police",
+  "pronunciation": "ke-i-sa-tsu",
+  "id": "442"
+},
+{
+  "title": "mouth",
+  "word" : "ぐち",
+  "kanji": "口",
+  "meaning": "mouth",
+  "pronunciation": "gu-chi",
+  "id":"443"
+},
+{
+  "title": "moon",
+  "word" : "つき",
+  "kanji": "月",
+  "meaning": "moon",
+  "pronunciation": "tsu-ki",
+  "id":"444"
 },
 {
   "title": "textbook",
