@@ -798,6 +798,62 @@
   "id": "499"
 },
 {
+  "title": "film",
+  "word" : "フィルム",
+  "kanji": "-",
+  "meaning": "film",
+  "pronunciation": "fi-ru-mu",
+  "id": "500"
+},
+{
+  "title": "vinegar",
+  "word" : "す",
+  "kanji": "酢",
+  "meaning": "vinegar",
+  "pronunciation": "su",
+  "id": "502"
+},
+{
+  "title": "wine",
+  "word" : "ワイン",
+  "kanji": "-",
+  "meaning": "wine",
+  "pronunciation": "wa-in",
+  "id": "503"
+},
+{
+  "title": "toy",
+  "word" : "おもちゃ",
+  "kanji": "玩具",
+  "meaning": "toy",
+  "pronunciation": "o-mo-cha",
+  "id": "504"
+},
+{
+  "title": "puzzle",
+  "word" : "パズル",
+  "kanji": "-",
+  "meaning": "puzzle",
+  "pronunciation": "pa-zu-ru",
+  "id": "505"
+},
+{
+  "title": "yoyo",
+  "word" : "ヨーヨー",
+  "kanji": "-",
+  "meaning": "yo-yo",
+  "pronunciation": "yōyō",
+  "id": "507"
+},
+{
+  "title": "kite",
+  "word" : "たこ",
+  "kanji": "凧",
+  "meaning": "kite",
+  "pronunciation": "ta-ko",
+  "id": "509"
+},
+{
   "title": "textbook",
   "word" : "きょうかしょ",
   "kanji": "教科書",
