@@ -1254,6 +1254,22 @@
   "id": "577"
 },
 {
+  "title": "earings",
+  "word" : "イヤリング",
+  "kanji": "-",
+  "meaning": "earings",
+  "pronunciation": "i-ya-rin-gu",
+  "id": "590"
+},
+{
+  "title": "watch",
+  "word" : "うでどけい",
+  "kanji": "腕時計",
+  "meaning": "watch",
+  "pronunciation": "u-de-do-ke-i",
+  "id": "591"
+},
+{
   "title": "textbook",
   "word" : "きょうかしょ",
   "kanji": "教科書",
