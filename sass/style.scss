@@ -640,7 +640,7 @@ footer {
   }
 }
 
-@each $id in (fruit, lion, rope, xylophone, food, luggage, onion, sugar, sushi, dairy, riceuncooked, drinks, pencil, dandelion, rabbit, rhino,squid, towel, bed, cake, frog, ant,iron,lizard, gloves, pigeon, wall, blender, brassiere, cap, scarf, camel, shell, pea, toothbrush, blanket, airconditioner, remotecontrol, headphone, clothes, soldier, saturday,june,december,desktop,detergent,winter, tennis,doughnut,straw,money,tree,chemistry,doorway,stethoscope,gun,hotspring,bacon,bicycle,moon,confectionary,firefighter,shop,liferaft,wine,pinwheel,battery,tablet) {
+@each $id in (fruit, lion, rope, xylophone, food, luggage, onion, sugar, sushi, dairy, riceuncooked, drinks, pencil, dandelion, rabbit, rhino,squid, towel, bed, cake, frog, ant,iron,lizard, gloves, pigeon, wall, blender, brassiere, cap, scarf, camel, shell, pea, toothbrush, blanket, airconditioner, remotecontrol, headphone, clothes, soldier, saturday,june,december,desktop,detergent,winter, tennis,doughnut,straw,money,tree,chemistry,doorway,stethoscope,gun,hotspring,bacon,bicycle,moon,confectionary,firefighter,shop,liferaft,wine,pinwheel,battery,tablet,doctor) {
   ##{$id} {
     background: $base-f;
     color: #222;

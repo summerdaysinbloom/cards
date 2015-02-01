@@ -774,11 +774,11 @@
   "id": "495"
 },
 {
-  "title": "liferaft",
-  "word" : "きゅうめいいかだ",
-  "kanji": "救命いかだ",
-  "meaning": "liferaft",
-  "pronunciation": "kyū-me-i-i-ka-da",
+  "title": "lifebuoy",
+  "word" : "ライフボーイ",
+  "kanji": "-",
+  "meaning": "lifebuoy",
+  "pronunciation": "ra-i-fu-bō-i",
   "id": "496"
 },
 {
@@ -1108,6 +1108,14 @@
   "meaning": "magnifying glass",
   "pronunciation": "ka-ku-da-i-kyō",
   "id": "547"
+},
+{
+  "title": "liferaft",
+  "word" : "きゅうめいいかだ",
+  "kanji": "救命いかだ",
+  "meaning": "rescue raft",
+  "pronunciation": "kyū-me-i-i-ka-da",
+  "id": "573"
 },
 {
   "title": "textbook",
