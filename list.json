@@ -590,6 +590,94 @@
   "id":"444"
 },
 {
+  "title": "firefighter",
+  "word" : "しょうぼうし”",
+  "kanji": "消防士",
+  "meaning": "firefighter",
+  "pronunciation": "shō-bō-shi",
+  "id": "445"
+},
+{
+  "title": "surgery",
+  "word" : "しゅじゅつ",
+  "kanji": "手術",
+  "meaning": "surgery",
+  "pronunciation": "shu-ju-tsu",
+  "id": "450"
+},
+{
+  "title": "surgeon",
+  "word" : "げかい",
+  "kanji": "外科医",
+  "meaning": "surgeon",
+  "pronunciation": "ge-ka-i",
+  "id": "451"
+},
+{
+  "title": "coconut",
+  "word" : "ココナッツ",
+  "kanji": "-",
+  "meaning": "coconut",
+  "pronunciation": "ko-ko-na-ttsu",
+  "id": "452"
+},
+{
+  "title": "announcer",
+  "word" : "アナウンサー",
+  "kanji": "-",
+  "meaning": "announcer",
+  "pronunciation": "a-na-un-sā",
+  "id": "453"
+},
+{
+  "title": "lecture",
+  "word" : "こうぎ",
+  "kanji": "講義",
+  "meaning": "lecture",
+  "pronunciation": "kō-gi",
+  "id": "454"
+},
+{
+  "title": "confectionary",
+  "word" : "おかし",
+  "kanji": "お菓子",
+  "meaning": "confectionary",
+  "pronunciation": "o-ka-shi",
+  "id": "455"
+},
+{
+  "title": "birthday",
+  "word" : "たんじょうび",
+  "kanji": "誕生日",
+  "meaning": "birthday",
+  "pronunciation": "tan-jō-bi",
+  "id": "456"
+},
+{
+  "title": "pocket",
+  "word" : "ポケット",
+  "kanji": "-",
+  "meaning": "pocket",
+  "pronunciation": "po-ke-tto",
+  "id": "457"
+},
+{
+  "title": "helicopter",
+  "word" : "ヘリコプター",
+  "kanji": "-",
+  "meaning": "helicopter",
+  "pronunciation": "he-ri-ko-pu-tā",
+  "id": "458"
+},
+{
+  "title": "helipad",
+  "word" : "ヘリポート",
+  "kanji": "-",
+  "meaning": "helipad",
+  "pronunciation": "he-ri-pō-to",
+  "id": "459"
+},
+{
   "title": "textbook",
   "word" : "きょうかしょ",
   "kanji": "教科書",
