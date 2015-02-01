@@ -702,6 +702,102 @@
   "id": "466"
 },
 {
+  "title": "xray",
+  "word" : "エックスせん",
+  "kanji": "X線",
+  "meaning": "x-ray",
+  "pronunciation": "e-kku-su-sen",
+  "id": "470"
+},
+{
+  "title": "hospitaldrip",
+  "word" : "てんてき",
+  "kanji": "点滴",
+  "meaning": "hospital drip",
+  "pronunciation": "ten-te-ki",
+  "id": "471"
+},
+{
+  "title": "shop",
+  "word" : "みせ",
+  "kanji": "店",
+  "meaning": "shop",
+  "pronunciation": "mi-se",
+  "id": "480"
+},
+{
+  "title": "boat",
+  "word" : "ふね",
+  "kanji": "船",
+  "meaning": "boat",
+  "pronunciation": "fu-ne",
+  "id": "482"
+},
+{
+  "title": "pie",
+  "word" : "パイ",
+  "kanji": "-",
+  "meaning": "pie",
+  "pronunciation": "pa-i",
+  "id": "483"
+},
+{
+  "title": "vendingmachine",
+  "word" : "じどうはんばいき",
+  "kanji": "自動販売機",
+  "meaning": "vending machine",
+  "pronunciation": "ji-dō-han-ba-i-ki",
+  "id": "490"
+},
+{
+  "title": "walnut",
+  "word" : "くるみ",
+  "kanji": "胡桃",
+  "meaning": "walnut",
+  "pronunciation": "ku-ru-mi",
+  "id": "494"
+},
+{
+  "title": "peanut",
+  "word" : "なんきんまめ",
+  "kanji": "南京豆",
+  "meaning": "peanut",
+  "pronunciation": "nan-kin-ma-me",
+  "id": "495"
+},
+{
+  "title": "liferaft",
+  "word" : "きゅうめいいかだ",
+  "kanji": "救命いかだ",
+  "meaning": "liferaft",
+  "pronunciation": "kyū-me-i-i-ka-da",
+  "id": "496"
+},
+{
+  "title": "sausage",
+  "word" : "ソーセージ",
+  "kanji": "-",
+  "meaning": "sausage",
+  "pronunciation": "sō-sē-ji",
+  "id": "497"
+},
+{
+  "title": "sunglasses",
+  "word" : "サングラス",
+  "kanji": "-",
+  "meaning": "sunglasses",
+  "pronunciation": "san-gu-ra-su",
+  "id": "498"
+},
+{
+  "title": "frame",
+  "word" : "がくぶち",
+  "kanji": "額縁",
+  "meaning": "frame",
+  "pronunciation": "ga-ku-bu-chi",
+  "id": "499"
+},
+{
   "title": "textbook",
   "word" : "きょうかしょ",
   "kanji": "教科書",
