@@ -1343,7 +1343,7 @@
   "word" : "こうか",
   "kanji": "硬貨",
   "meaning": "coin",
-  "pronunciation": "ko-u-ka",
+  "pronunciation": "kō-ka",
   "id": ""
 },
 {
@@ -1415,7 +1415,7 @@
   "word" : "めんぼう",
   "kanji": "綿棒",
   "meaning": "cotton swab",
-  "pronunciation": "men-bo-u",
+  "pronunciation": "men-bō",
   "id": ""
 },
 {
@@ -1999,7 +1999,7 @@
   "word" : "ぶどう",
   "kanji": "葡萄",
   "meaning": "grape",
-  "pronunciation": "bu-do-u",
+  "pronunciation": "bu-dō",
   "id": ""
 },
 {
@@ -2199,7 +2199,7 @@
   "word" : "ようしょく",
   "kanji": "洋食",
   "meaning": "western food",
-  "pronunciation": "yo-u-sho-ku",
+  "pronunciation": "yō-sho-ku",
   "id": ""
 },
 {
@@ -2207,7 +2207,7 @@
   "word" : "ぎょうざ",
   "kanji": "餃子",
   "meaning": "chinese dumpling",
-  "pronunciation": "gyo-u-za",
+  "pronunciation": "gyō-za",
   "id": ""
 },
 {
@@ -2271,7 +2271,7 @@
   "word" : "じょうぎ",
   "kanji": "定規",
   "meaning": "ruler",
-  "pronunciation": "jyo-u-gi",
+  "pronunciation": "jyō-gi",
   "id": ""
 },
 {
@@ -2295,7 +2295,7 @@
   "word" : "ほうれんそう",
   "kanji": "菠薐草",
   "meaning": "spinach",
-  "pronunciation": "ho-u-ren-so-u",
+  "pronunciation": "hō-ren-sō",
   "id": ""
 },
 {
@@ -2416,7 +2416,7 @@
   "word" : "びょういん",
   "kanji": "病院",
   "meaning": "hospital",
-  "pronunciation": "byo-u-in",
+  "pronunciation": "byō-in",
   "id": ""
 },
 {
@@ -2424,7 +2424,7 @@
   "word" : "がっこう",
   "kanji": "学校",
   "meaning": "school",
-  "pronunciation": "ga-kko-u",
+  "pronunciation": "ga-kkō",
   "id": ""
 },
 {
@@ -2432,7 +2432,7 @@
   "word" : "ぎんこう",
   "kanji": "銀行",
   "meaning": "bank",
-  "pronunciation": "gin-ko-u",
+  "pronunciation": "gin-kō",
   "id": ""
 },
 {
@@ -2440,7 +2440,7 @@
   "word" : "しんごう",
   "kanji": "信号",
   "meaning": "traffic light",
-  "pronunciation": "shin-go-u",
+  "pronunciation": "shin-gō",
   "id": ""
 },
 {
@@ -2464,7 +2464,7 @@
   "word" : "よくそう",
   "kanji": "浴槽",
   "meaning": "bath tub",
-  "pronunciation": "yo-ku-so-u",
+  "pronunciation": "yo-ku-sō",
   "id": ""
 },
 {
@@ -2480,7 +2480,7 @@
   "word" : "こうじょう",
   "kanji": "工場",
   "meaning": "factory",
-  "pronunciation": "ko-u-jou",
+  "pronunciation": "kō-jou",
   "id": "F"
 },
 {
@@ -2488,7 +2488,7 @@
   "word" : "ぼうし",
   "kanji": "帽子",
   "meaning": "hat",
-  "pronunciation": "bo-u-shi",
+  "pronunciation": "bō-shi",
   "id": "H"
 },
 {
@@ -2552,7 +2552,7 @@
   "word" : "そうじき",
   "kanji": "掃除機",
   "meaning": "vacuum cleaner",
-  "pronunciation": "so-u-ji-ki",
+  "pronunciation": "sō-ji-ki",
   "id": "V"
 },
 {
@@ -2664,7 +2664,7 @@
   "word" : "れいぞうこ",
   "kanji": "冷蔵庫",
   "meaning": "refrigerator",
-  "pronunciation": "re-i-zo-u-ko",
+  "pronunciation": "re-i-zō-ko",
   "id": ""
 },
 {
@@ -2928,7 +2928,7 @@
   "word" : "ちょう",
   "kanji": "蝶",
   "meaning": "butterfly",
-  "pronunciation": "cho-u",
+  "pronunciation": "chō",
   "id": ""
 },
 {
@@ -2952,7 +2952,7 @@
   "word" : "こうら",
   "kanji": "甲羅",
   "meaning": "shell",
-  "pronunciation": "ko-u-ra",
+  "pronunciation": "kō-ra",
   "id": ""
 },
 {
@@ -2960,7 +2960,7 @@
   "word" : "とうもろこし",
   "kanji": "玉蜀黍",
   "meaning": "corn",
-  "pronunciation": "to-u-mo-ro-ko-shi",
+  "pronunciation": "tō-mo-ro-ko-shi",
   "id": ""
 },
 {
@@ -2984,7 +2984,7 @@
   "word" : "えんどう",
   "kanji": "豌豆",
   "meaning": "pea",
-  "pronunciation": "en-do-u",
+  "pronunciation": "en-dō",
   "id": ""
 },
 {
@@ -3296,7 +3296,7 @@
   "word" : "ほうちょう",
   "kanji": "包丁／庖丁",
   "meaning": "kitchen knife",
-  "pronunciation": "ho-u-cho-u",
+  "pronunciation": "hō-chō",
   "id": ""
 },
 {
@@ -3360,7 +3360,7 @@
   "word" : "ふくろう",
   "kanji": "梟",
   "meaning": "owl",
-  "pronunciation": "fu-ku-ro-u",
+  "pronunciation": "fu-ku-rō",
   "id": ""
 },
 {
@@ -3368,7 +3368,7 @@
   "word" : "おうむ",
   "kanji": "鸚鵡",
   "meaning": "parrot",
-  "pronunciation": "o-u-mu",
+  "pronunciation": "ō-mu",
   "id": ""
 },
 {
@@ -3408,7 +3408,7 @@
   "word" : "ぞう",
   "kanji": "象",
   "meaning": "elephant",
-  "pronunciation": "zo-u",
+  "pronunciation": "zō",
   "id": ""
 },
 {
@@ -3440,7 +3440,7 @@
   "word" : "こしょう",
   "kanji": "胡椒",
   "meaning": "pepper",
-  "pronunciation": "ko-sho-u",
+  "pronunciation": "ko-shō",
   "id": ""
 },
 {
