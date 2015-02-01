@@ -854,6 +854,70 @@
   "id": "509"
 },
 {
+  "title": "origami",
+  "word" : "おりがみ",
+  "kanji": "折り紙",
+  "meaning": "origami",
+  "pronunciation": "o-ri-ga-mi",
+  "id": "511"
+},
+{
+  "title": "pinwheel",
+  "word" : "かざぐるま",
+  "kanji": "風車",
+  "meaning": "pinwheel",
+  "pronunciation": "ka-za-gu-ru-ma",
+  "id": "512"
+},
+{
+  "title": "boomerang",
+  "word" : "ブーメラン",
+  "kanji": "-",
+  "meaning": "boomerang",
+  "pronunciation": "bū-me-ran",
+  "id": "513"
+},
+{
+  "title": "top",
+  "word" : "こま",
+  "kanji": "独楽",
+  "meaning": "top",
+  "pronunciation": "ko-ma",
+  "id": "515"
+},
+{
+  "title": "popcorn",
+  "word" : "ポップコーン",
+  "kanji": "-",
+  "meaning": "popcorn",
+  "pronunciation": "po-ppu-kōn",
+  "id": "516"
+},
+{
+  "title": "biscuit",
+  "word" : "ビスケット",
+  "kanji": "-",
+  "meaning": "biscuit",
+  "pronunciation": "bi-su-ke-tto",
+  "id": "517"
+},
+{
+  "title": "lollipop",
+  "word" : "ロリポップ",
+  "kanji": "-",
+  "meaning": "lollipop",
+  "pronunciation": "ro-ri-po-ppu",
+  "id": "518"
+},
+{
+  "title": "battery",
+  "word" : "でんち",
+  "kanji": "電池",
+  "meaning": "battery",
+  "pronunciation": "den-chi",
+  "id": "519"
+},
+{
   "title": "textbook",
   "word" : "きょうかしょ",
   "kanji": "教科書",
