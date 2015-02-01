@@ -1110,12 +1110,52 @@
   "id": "547"
 },
 {
+  "title": "donation",
+  "word" : "きふ",
+  "kanji": "寄付",
+  "meaning": "donation glass",
+  "pronunciation": "ki-fu",
+  "id": "548"
+},
+{
   "title": "liferaft",
   "word" : "きゅうめいいかだ",
   "kanji": "救命いかだ",
   "meaning": "rescue raft",
   "pronunciation": "kyū-me-i-i-ka-da",
-  "id": "573"
+  "id": "549"
+},
+{
+  "title": "nine",
+  "word" : "きゅう(く)",
+  "kanji": "九",
+  "meaning": "nine",
+  "pronunciation": "kyū(ku)",
+  "id": "559"
+},
+{
+  "title": "ten",
+  "word" : "じゅう",
+  "kanji": "十",
+  "meaning": "ten",
+  "pronunciation": "jū",
+  "id": "560"
+},
+{
+  "title": "hundred",
+  "word" : "ひゃく",
+  "kanji": "百",
+  "meaning": "hundred",
+  "pronunciation": "hya-ku",
+  "id": "561"
+},
+{
+  "title": "thousand",
+  "word" : "せん",
+  "kanji": "千",
+  "meaning": "thousand",
+  "pronunciation": "sen",
+  "id": "562"
 },
 {
   "title": "textbook",
@@ -3093,10 +3133,10 @@
 },
 {
   "title": "alarmclock",
-  "word" : "めざまし",
-  "kanji": "目覚まし",
+  "word" : "めざましどけい",
+  "kanji": "目覚まし時計",
   "meaning": "alarm clock",
-  "pronunciation": "me-za-ma-shi",
+  "pronunciation": "me-za-ma-shi-do-ke-i",
   "id": ""
 },
 {
