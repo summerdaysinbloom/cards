@@ -958,6 +958,94 @@
   "id": "523"
 },
 {
+  "title": "kendo",
+  "word" : "けんどう",
+  "kanji": "剣道",
+  "meaning": "kendo",
+  "pronunciation": "ken-dō",
+  "id": "526"
+},
+{
+  "title": "kayak",
+  "word" : "カヤック",
+  "kanji": "-",
+  "meaning": "kayak",
+  "pronunciation": "ka-ya-kku",
+  "id": "527"
+},
+{
+  "title": "navy",
+  "word" : "かいぐん",
+  "kanji": "海軍",
+  "meaning": "navy",
+  "pronunciation": "Kai-gun",
+  "id": "528"
+},
+{
+  "title": "cricket",
+  "word" : "くさひばり",
+  "kanji": "草雲雀",
+  "meaning": "cricket",
+  "pronunciation": "Ku-sa-hi-ba-ri",
+  "id": "529"
+},
+{
+  "title": "raspberry",
+  "word" : "ラズベリー",
+  "kanji": "-",
+  "meaning": "raspberry",
+  "pronunciation": "ra-zu-be-rī",
+  "id": "530"
+},
+{
+  "title": "acorn",
+  "word" : "どんぐり",
+  "kanji": "団栗",
+  "meaning": "acorn",
+  "pronunciation": "don-gu-ri",
+  "id": "531"
+},
+{
+  "title": "lemon",
+  "word" : "レモン",
+  "kanji": "-",
+  "meaning": "lemon",
+  "pronunciation": "re-mon",
+  "id": "532"
+},
+{
+  "title": "blueberry",
+  "word" : "ブルーベリー",
+  "kanji": "-",
+  "meaning": "blueberry",
+  "pronunciation": "bu-rū-be-rī",
+  "id": "533"
+},
+{
+  "title": "juicer",
+  "word" : "ジューサー",
+  "kanji": "-",
+  "meaning": "juicer",
+  "pronunciation": "jū-sā",
+  "id": "534"
+},
+{
+  "title": "pebble",
+  "word" : "こいし",
+  "kanji": "小石",
+  "meaning": "pebble",
+  "pronunciation": "ko-i-shi",
+  "id": "538"
+},
+{
+  "title": "tent",
+  "word" : "テント",
+  "kanji": "-",
+  "meaning": "tent",
+  "pronunciation": "ten-to",
+  "id": "540"
+},
+{
   "title": "choco",
   "word" : "チョコレート",
   "kanji": "-",
