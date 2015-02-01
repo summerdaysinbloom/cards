@@ -926,6 +926,86 @@
   "id": "519"
 },
 {
+  "title": "hammer",
+  "word" : "つち",
+  "kanji": "槌",
+  "meaning": "hammer",
+  "pronunciation": "tsu-chi",
+  "id": "520"
+},
+{
+  "title": "injury",
+  "word" : "けが",
+  "kanji": "怪我",
+  "meaning": "injury",
+  "pronunciation": "ke-ga",
+  "id": "521"
+},
+{
+  "title": "almond",
+  "word" : "アーモンド",
+  "kanji": "-",
+  "meaning": "almond",
+  "pronunciation": "ā-mon-do",
+  "id": "522"
+},
+{
+  "title": "stretcher",
+  "word" : "たんか",
+  "kanji": "担架",
+  "meaning": "stretcher",
+  "pronunciation": "tan-ka",
+  "id": "523"
+},
+{
+  "title": "chocolate",
+  "word" : "チョコレート",
+  "kanji": "-",
+  "meaning": "chocolate",
+  "pronunciation": "cho-ko-rē-to",
+  "id": "541"
+},
+{
+  "title": "namecard",
+  "word" : "めいし",
+  "kanji": "名刺",
+  "meaning": "namecard",
+  "pronunciation": "me-i-shi",
+  "id": "542"
+},
+{
+  "title": "chef",
+  "word" : "ちょうりし",
+  "kanji": "調理師",
+  "meaning": "chef",
+  "pronunciation": "chō-ri-shi",
+  "id": "543"
+},
+{
+  "title": "chef",
+  "word" : "りょりじん",
+  "kanji": "料理人",
+  "meaning": "chef",
+  "pronunciation": "ryō-ri-jin",
+  "id": "544"
+},
+{
+  "title": "chef",
+  "word" : "チーフ",
+  "kanji": "-",
+  "meaning": "chef",
+  "pronunciation": "chī-fu",
+  "id": "545"
+},
+{
+  "title": "hammer",
+  "word" : "ハンマー",
+  "kanji": "-",
+  "meaning": "hammer",
+  "pronunciation": "han-mā",
+  "id": "546"
+},
+{
   "title": "textbook",
   "word" : "きょうかしょ",
   "kanji": "教科書",
