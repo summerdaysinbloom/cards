@@ -9,7 +9,7 @@
   	<div class='l-box'>
   		<h1>{{item.word}} | <span ng-bind="item.meaning"></span></h1>
   		<p class='pronunciation'>{{ item.pronunciation | middot }}</p>
-  		<p class='kanji'>{{ item.kanji | none }}</p>
+  		<p class='kanji'>{{ item.id }} {{ item.kanji | none }}</p>
   		<p class='copy'>{{ item.copy }}</p>
       <p class='share'><a href='{{item.link}}' data-ng-click="shareTracking('getapp-logo')" target='_blank'>{{ item.share }}</a></p>
   	</div>

@@ -678,6 +678,30 @@
   "id": "459"
 },
 {
+  "title": "patient",
+  "word" : "かんじゃ",
+  "kanji": "患者",
+  "meaning": "patient",
+  "pronunciation": "kan-jya",
+  "id": "463"
+},
+{
+  "title": "dentist",
+  "word" : "しかい",
+  "kanji": "歯科医",
+  "meaning": "dentist",
+  "pronunciation": "shi-ka-i",
+  "id": "465"
+},
+{
+  "title": "nurse",
+  "word" : "かんごし",
+  "kanji": "看護師",
+  "meaning": "nurse",
+  "pronunciation": "kan-go-shi",
+  "id": "466"
+},
+{
   "title": "textbook",
   "word" : "きょうかしょ",
   "kanji": "教科書",
