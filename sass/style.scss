@@ -625,7 +625,7 @@ footer {
   }
 }
 
-@each $id in (drum, judo, plants, vegetables, departure, japan, passport, vehicles, grape, milk, salt, japanesefood, calculator, eraser, eggplant, swimming, pig, bank,dragonfly, stapler, snail, penguin, mirror, jellyfish, slippers, snake, outlet, raincoat, necklace, whale, shampoo, toothpaste, ironingboard, washingmachine, bin, elephant, plate, icecream, thursday,april, october,degree,mobilephone,bowling, badminton,pizza,coffee,dictionary,stairs,button,comic,fingerprint,movie,syringe,zip,mathematics,skirt,footprints,police,children,announcer,helipad,xray,walnut,film,kite,biscuit,almond,navy,blueberry) {
+@each $id in (drum, judo, plants, vegetables, departure, japan, passport, vehicles, grape, milk, salt, japanesefood, calculator, eraser, eggplant, swimming, pig, bank,dragonfly, stapler, snail, penguin, mirror, jellyfish, slippers, snake, outlet, raincoat, necklace, whale, shampoo, toothpaste, ironingboard, washingmachine, bin, elephant, plate, icecream, thursday,april, october,degree,mobilephone,bowling, badminton,pizza,coffee,dictionary,stairs,button,comic,fingerprint,movie,syringe,zip,mathematics,skirt,footprints,police,children,announcer,helipad,xray,walnut,film,kite,biscuit,almond,navy,blueberry,watch) {
   ##{$id} {
     background: $base-d;
     color: #222;
