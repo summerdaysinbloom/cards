@@ -1126,6 +1126,78 @@
   "id": "549"
 },
 {
+  "title": "zero",
+  "word" : "れい(ゼロ)",
+  "kanji": "零",
+  "meaning": "zero",
+  "pronunciation": "rei(ze-ro)",
+  "id": "550"
+},
+{
+  "title": "one",
+  "word" : "いち",
+  "kanji": "一",
+  "meaning": "one",
+  "pronunciation": "i-chi",
+  "id": "551"
+},
+{
+  "title": "two",
+  "word" : "にい",
+  "kanji": "二",
+  "meaning": "two",
+  "pronunciation": "ni",
+  "id": "552"
+},
+{
+  "title": "three",
+  "word" : "さん",
+  "kanji": "三",
+  "meaning": "three",
+  "pronunciation": "san",
+  "id": "553"
+},
+{
+  "title": "four",
+  "word" : "し(よん)",
+  "kanji": "四",
+  "meaning": "four",
+  "pronunciation": "shi(yon)",
+  "id": "554"
+},
+{
+  "title": "five",
+  "word" : "ご",
+  "kanji": "五",
+  "meaning": "five",
+  "pronunciation": "go",
+  "id": "555"
+},
+{
+  "title": "six",
+  "word" : "ろく",
+  "kanji": "六",
+  "meaning": "six",
+  "pronunciation": "ro-ku",
+  "id": "556"
+},
+{
+  "title": "seven",
+  "word" : "しち(なな)",
+  "kanji": "七",
+  "meaning": "seven",
+  "pronunciation": "shi-chi(na-na)",
+  "id": "557"
+},
+{
+  "title": "eight",
+  "word" : "はち",
+  "kanji": "八",
+  "meaning": "eight",
+  "pronunciation": "ha-chi",
+  "id": "558"
+},
+{
   "title": "nine",
   "word" : "きゅう(く)",
   "kanji": "九",
@@ -1156,6 +1228,30 @@
   "meaning": "thousand",
   "pronunciation": "sen",
   "id": "562"
+},
+{
+  "title": "bell",
+  "word" : "かね",
+  "kanji": "鐘",
+  "meaning": "bell",
+  "pronunciation": "ka-ne",
+  "id": "574"
+},
+{
+  "title": "cassettetape",
+  "word" : "カセットテープ",
+  "kanji": "-",
+  "meaning": "cassette tape",
+  "pronunciation": "ka-se-tto-tē-pu",
+  "id": "575"
+},
+{
+  "title": "paintbrush",
+  "word" : "えふで",
+  "kanji": "絵筆",
+  "meaning": "paint brush",
+  "pronunciation": "e-fu-de",
+  "id": "577"
 },
 {
   "title": "textbook",
