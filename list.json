@@ -686,6 +686,22 @@
   "id": "459"
 },
 {
+  "title": "time",
+  "word" : "じかん",
+  "kanji": "時間",
+  "meaning": "time",
+  "pronunciation": "ji-kan",
+  "id": "460"
+},
+{
+  "title": "sea",
+  "word" : "うみ",
+  "kanji": "海",
+  "meaning": "sea",
+  "pronunciation": "u-mi",
+  "id": "461"
+},
+{
   "title": "patient",
   "word" : "かんじゃ",
   "kanji": "患者",
@@ -726,6 +742,30 @@
   "id": "471"
 },
 {
+  "title": "family",
+  "word" : "かぞく",
+  "kanji": "家族",
+  "meaning": "family",
+  "pronunciation": "ka-zo-ku",
+  "id": "474"
+},
+{
+  "title": "sad",
+  "word" : "かなしい",
+  "kanji": "悲しい",
+  "meaning": "sad",
+  "pronunciation": "ka-na-shi-i",
+  "id": "475"
+},
+{
+  "title": "tear",
+  "word" : "なみだ",
+  "kanji": "涙",
+  "meaning": "tear",
+  "pronunciation": "na-mi-da",
+  "id": "476"
+},
+{
   "title": "shop",
   "word" : "みせ",
   "kanji": "店",
@@ -748,6 +788,46 @@
   "meaning": "pie",
   "pronunciation": "pa-i",
   "id": "483"
+},
+{
+  "title": "report",
+  "word" : "ほうこく",
+  "kanji": "報告",
+  "meaning": "report",
+  "pronunciation": "hō-ko-ku",
+  "id": "484"
+},
+{
+  "title": "helmet",
+  "word" : "ヘルメット",
+  "kanji": "-",
+  "meaning": "helmet",
+  "pronunciation": "he-ru-me-tto",
+  "id": "485"
+},
+{
+  "title": "emergencyexit",
+  "word" : "ひじょうぐち",
+  "kanji": "非常口",
+  "meaning": "emergency exit",
+  "pronunciation": "hi-jyō-gu-chi",
+  "id": "486"
+},
+{
+  "title": "hazard",
+  "word" : "きけん",
+  "kanji": "危険",
+  "meaning": "hazard",
+  "pronunciation": "ki-ken",
+  "id": "487"
+},
+{
+  "title": "who",
+  "word" : "だれ",
+  "kanji": "誰",
+  "meaning": "who",
+  "pronunciation": "da-re",
+  "id": "488"
 },
 {
   "title": "vendingmachine",
@@ -814,6 +894,14 @@
   "id": "500"
 },
 {
+  "title": "soda",
+  "word" : "ソーダ",
+  "kanji": "-",
+  "meaning": "soda",
+  "pronunciation": "sō-da",
+  "id": "501"
+},
+{
   "title": "vinegar",
   "word" : "す",
   "kanji": "酢",
@@ -852,6 +940,14 @@
   "meaning": "yo-yo",
   "pronunciation": "yōyō",
   "id": "507"
+},
+{
+  "title": "scooter",
+  "word" : "スクーター",
+  "kanji": "-",
+  "meaning": "scooter",
+  "pronunciation": "su-kū-tā",
+  "id": "508"
 },
 {
   "title": "kite",
@@ -966,6 +1062,22 @@
   "id": "523"
 },
 {
+  "title": "blooddonation",
+  "word" : "けんけつ",
+  "kanji": "献血",
+  "meaning": "blood donation",
+  "pronunciation": "ken-ke-tsu",
+  "id": "524"
+},
+{
+  "title": "energy",
+  "word" : "えいようドリンク",
+  "kanji": "栄養ドリンク",
+  "meaning": "energy",
+  "pronunciation": "e-i-yō-do-rin-ku",
+  "id": "525"
+},
+{
   "title": "kendo",
   "word" : "けんどう",
   "kanji": "剣道",
@@ -1038,12 +1150,36 @@
   "id": "534"
 },
 {
+  "title": "waterfall",
+  "word" : "たき",
+  "kanji": "滝",
+  "meaning": "waterfall",
+  "pronunciation": "ta-ki",
+  "id": "536"
+},
+{
+  "title": "rock",
+  "word" : "いわ",
+  "kanji": "岩",
+  "meaning": "rock",
+  "pronunciation": "i-wa",
+  "id": "537"
+},
+{
   "title": "pebble",
   "word" : "こいし",
   "kanji": "小石",
   "meaning": "pebble",
   "pronunciation": "ko-i-shi",
   "id": "538"
+},
+{
+  "title": "camping",
+  "word" : "キャンプ",
+  "kanji": "-",
+  "meaning": "camping",
+  "pronunciation": "kyan-pu",
+  "id": "539"
 },
 {
   "title": "tent",
@@ -1230,6 +1366,38 @@
   "id": "562"
 },
 {
+  "title": "year",
+  "word" : "ねん",
+  "kanji": "年",
+  "meaning": "year",
+  "pronunciation": "nen",
+  "id": "564"
+},
+{
+  "title": "month",
+  "word" : "がつ",
+  "kanji": "月",
+  "meaning": "month",
+  "pronunciation": "ga-tsu",
+  "id": "565"
+},
+{
+  "title": "day",
+  "word" : "ひ",
+  "kanji": "日",
+  "meaning": "day",
+  "pronunciation": "bi",
+  "id": "566"
+},
+{
+  "title": "university",
+  "word" : "だいがく",
+  "kanji": "大学",
+  "meaning": "university",
+  "pronunciation": "da-i-ga-ku",
+  "id": "567"
+},
+{
   "title": "bell",
   "word" : "かね",
   "kanji": "鐘",
@@ -1244,6 +1412,14 @@
   "meaning": "cassette tape",
   "pronunciation": "ka-se-tto-tē-pu",
   "id": "575"
+},
+{
+  "title": "perfume",
+  "word" : "こうすい",
+  "kanji": "香水",
+  "meaning": "perfume",
+  "pronunciation": "kō-su-i",
+  "id": "576"
 },
 {
   "title": "paintbrush",
