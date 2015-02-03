@@ -1463,9 +1463,9 @@
 },
 {
   "title": "triangle",
-  "word" : "triangle",
-  "kanji": "さんかくけい",
-  "meaning": "三角形",
+  "word" : "さんかくけい",
+  "kanji": "三角形",
+  "meaning": "triangle",
   "pronunciation": "san-ka-ku-ke-i",
   "id": "659"
 },
