@@ -1070,10 +1070,10 @@
   "id": "524"
 },
 {
-  "title": "energy",
+  "title": "energydrink",
   "word" : "えいようドリンク",
   "kanji": "栄養ドリンク",
-  "meaning": "energy",
+  "meaning": "energy drink",
   "pronunciation": "e-i-yō-do-rin-ku",
   "id": "525"
 },
@@ -1444,6 +1444,118 @@
   "meaning": "watch",
   "pronunciation": "u-de-do-ke-i",
   "id": "591"
+},
+{
+  "title": "hotwaterbottle",
+  "word" : "ゆたんぽ",
+  "kanji": "湯たんぽ",
+  "meaning": "hot water bottle",
+  "pronunciation": "yu-tan-po",
+  "id": "720"
+},
+{
+  "title": "clothesdryer",
+  "word" : "いるいかんそうき",
+  "kanji": "衣類乾燥機",
+  "meaning": "clothes dryer",
+  "pronunciation": "i-ru-i-kan-sō-ki",
+  "id": "721"
+},
+{
+  "title": "apron",
+  "word" : "エプロン",
+  "kanji": "-",
+  "meaning": "apron",
+  "pronunciation": "e-pu-ron",
+  "id": "723"
+},
+{
+  "title": "oven",
+  "word" : "オーブン",
+  "kanji": "-",
+  "meaning": "oven",
+  "pronunciation": "ō-bun",
+  "id": "724"
+},
+{
+  "title": "broom",
+  "word" : "ほうき",
+  "kanji": "箒",
+  "meaning": "broom",
+  "pronunciation": "hō-ki",
+  "id": "725"
+},
+{
+  "title": "dishwasher",
+  "word" : "しょっきせんじょうき",
+  "kanji": "食器洗浄器",
+  "meaning": "dish washer",
+  "pronunciation": "sho-kki-sen-jō-ki",
+  "id": "726"
+},
+{
+  "title": "mitten",
+  "word" : "ミトン",
+  "kanji": "-",
+  "meaning": "mitten",
+  "pronunciation": "mi-ton",
+  "id": "727"
+},
+{
+  "title": "aluminiumfoil",
+  "word" : "アルミはく",
+  "kanji": "アルミ箔",
+  "meaning": "aluminium foil",
+  "pronunciation": "a-ru-mi-ha-ku",
+  "id": "728"
+},
+{
+  "title": "canopener",
+  "word" : "かんきり",
+  "kanji": "缶切り",
+  "meaning": "can opener",
+  "pronunciation": "kan-ki-ri",
+  "id": "729"
+},
+{
+  "title": "fluorescentlamp",
+  "word" : "けいこうとう",
+  "kanji": "蛍光灯",
+  "meaning": "fluorescent lamp",
+  "pronunciation": "ke-i-kū-tū",
+  "id": "730"
+},
+{
+  "title": "letterbox",
+  "word" : "ゆうびんうけ",
+  "kanji": "郵便受け",
+  "meaning": "letter box",
+  "pronunciation": "yū-bin",
+  "id": "731"
+},
+{
+  "title": "pottedplant",
+  "word" : "はちうえ",
+  "kanji": "鉢植え",
+  "meaning": "potted plant",
+  "pronunciation": "ha-chi-u-e",
+  "id": "732"
+},
+{
+  "title": "heater",
+  "word" : "だんぼう",
+  "kanji": "暖房",
+  "meaning": "heater",
+  "pronunciation": "dan-bū",
+  "id": "733"
+},
+{
+  "title": "heater",
+  "word" : "ヒーター",
+  "kanji": "-",
+  "meaning": "heater",
+  "pronunciation": "hī-tā",
+  "id": "734"
 },
 {
   "title": "textbook",
