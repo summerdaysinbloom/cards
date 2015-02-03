@@ -1446,6 +1446,158 @@
   "id": "591"
 },
 {
+  "title": "daisy",
+  "word" : "ひなぎく",
+  "kanji": "雛菊",
+  "meaning": "daisy",
+  "pronunciation": "hi-na-gi-ku",
+  "id": "655"
+},
+{
+  "title": "tulip",
+  "word" : "チューリップ",
+  "kanji": "-",
+  "meaning": "tulip",
+  "pronunciation": "chū-ri-ppu",
+  "id": "656"
+},
+{
+  "title": "triangle",
+  "word" : "triangle",
+  "kanji": "さんかくけい",
+  "meaning": "三角形",
+  "pronunciation": "san-ka-ku-ke-i",
+  "id": "659"
+},
+{
+  "title": "square",
+  "word" : "せいほうけい",
+  "kanji": "正方形",
+  "meaning": "square",
+  "pronunciation": "se-i-hō-ke-i",
+  "id": "660"
+},
+{
+  "title": "rectangle",
+  "word" : "ちょうほうけい",
+  "kanji": "長方形",
+  "meaning": "rectangle",
+  "pronunciation": "chō-hō-ke-i",
+  "id": "661"
+},
+{
+  "title": "rhombus",
+  "word" : "ひしがた",
+  "kanji": "菱形",
+  "meaning": "rhombus",
+  "pronunciation": "hi-shi-ga-ta",
+  "id": "662"
+},
+{
+  "title": "circle",
+  "word" : "えんけい",
+  "kanji": "円形",
+  "meaning": "circle",
+  "pronunciation": "en-su-i",
+  "id": "663"
+},
+{
+  "title": "oval",
+  "word" : "だえんけい",
+  "kanji": "楕円形",
+  "meaning": "oval",
+  "pronunciation": "da-en-ke-i",
+  "id": "664"
+},
+{
+  "title": "parallelogram",
+  "word" : "へいこうしへんけい",
+  "kanji": "平行四辺形",
+  "meaning": "parallelogram",
+  "pronunciation": "he-i-kō-shi-hen-ke-i",
+  "id": "665"
+},
+{
+  "title": "trapezium",
+  "word" : "だいけい",
+  "kanji": "台形",
+  "meaning": "trapezium",
+  "pronunciation": "da-i-ke-i",
+  "id": "666"
+},
+{
+  "title": "kite",
+  "word" : "たこがた",
+  "kanji": "凧形",
+  "meaning": "kite",
+  "pronunciation": "ta-ko-ga-ta",
+  "id": "667"
+},
+{
+  "title": "cone",
+  "word" : "えんすい",
+  "kanji": "円錐",
+  "meaning": "cone",
+  "pronunciation": "en-su-i",
+  "id": "668"
+},
+{
+  "title": "sphere",
+  "word" : "きゅうけい",
+  "kanji": "球形",
+  "meaning": "sphere",
+  "pronunciation": "kyū-ke-i",
+  "id": "669"
+},
+{
+  "title": "sector",
+  "word" : "おうぎがた",
+  "kanji": "扇形",
+  "meaning": "sector",
+  "pronunciation": "ō-gi-ga-ta",
+  "id": "670"
+},
+{
+  "title": "mango",
+  "word" : "マンゴー",
+  "kanji": "-",
+  "meaning": "mango",
+  "pronunciation": "man-gō",
+  "id": "672"
+},
+{
+  "title": "papaya",
+  "word" : "パパイヤ",
+  "kanji": "-",
+  "meaning": "papaya",
+  "pronunciation": "pa-pa-i-ya",
+  "id": "673"
+},
+{
+  "title": "durian",
+  "word" : "ドリアン",
+  "kanji": "-",
+  "meaning": "durian",
+  "pronunciation": "do-ri-an",
+  "id": "674"
+},
+{
+  "title": "pineapple",
+  "word" : "パイナップル",
+  "kanji": "-",
+  "meaning": "pineapple",
+  "pronunciation": "pa-in-a-ppu-ru",
+  "id": "675"
+},
+{
+  "title": "melon",
+  "word" : "メロン",
+  "kanji": "-",
+  "meaning": "melon",
+  "pronunciation": "me-ron",
+  "id": "676"
+},
+{
   "title": "fly",
   "word" : "はえ",
   "kanji": "蝿",
@@ -1500,6 +1652,22 @@
   "meaning": "cocoon",
   "pronunciation": "ma-yu",
   "id": "691"
+},
+{
+  "title": "seal",
+  "word" : "あざらし",
+  "kanji": "海豹",
+  "meaning": "seal",
+  "pronunciation": "a-za-ra-shi",
+  "id": "693"
+},
+{
+  "title": "seahorse",
+  "word" : "たつのおとしご",
+  "kanji": "竜の落とし子",
+  "meaning": "sea horse",
+  "pronunciation": "ta-tsu-nō-to-shi-go",
+  "id": "694"
 },
 {
   "title": "catfish",
