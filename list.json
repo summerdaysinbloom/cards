@@ -1446,6 +1446,214 @@
   "id": "591"
 },
 {
+  "title": "fly",
+  "word" : "はえ",
+  "kanji": "蝿",
+  "meaning": "fly",
+  "pronunciation": "ha-e",
+  "id": "685"
+},
+{
+  "title": "beetle",
+  "word" : "かぶとむし",
+  "kanji": "甲虫",
+  "meaning": "beetle",
+  "pronunciation": "ka-bu-to-mu-shi",
+  "id": "686"
+},
+{
+  "title": "spider",
+  "word" : "くも",
+  "kanji": "蜘蛛",
+  "meaning": "spider",
+  "pronunciation": "ku-mo",
+  "id": "687"
+},
+{
+  "title": "caterpillar",
+  "word" : "けむし",
+  "kanji": "毛虫",
+  "meaning": "caterpillar",
+  "pronunciation": "ke-mu-shi",
+  "id": "688"
+},
+{
+  "title": "ladybird",
+  "word" : "てんとうむし",
+  "kanji": "天道虫",
+  "meaning": "ladybird",
+  "pronunciation": "ten-tō-mu-shi",
+  "id": "689"
+},
+{
+  "title": "firefly",
+  "word" : "ほたる",
+  "kanji": "蛍",
+  "meaning": "firefly",
+  "pronunciation": "ho-ta-ru",
+  "id": "690"
+},
+{
+  "title": "cocoon",
+  "word" : "まゆ",
+  "kanji": "繭",
+  "meaning": "cocoon",
+  "pronunciation": "ma-yu",
+  "id": "691"
+},
+{
+  "title": "catfish",
+  "word" : "なまず",
+  "kanji": "鯰",
+  "meaning": "catfish",
+  "pronunciation": "na-ma-zu",
+  "id": "698"
+},
+{
+  "title": "goldfish",
+  "word" : "きんぎょ",
+  "kanji": "金魚",
+  "meaning": "goldfish",
+  "pronunciation": "kin-gyo",
+  "id": "699"
+},
+{
+  "title": "trout",
+  "word" : "ます",
+  "kanji": "鱒",
+  "meaning": "trout",
+  "pronunciation": "ma-su",
+  "id": "700"
+},
+{
+  "title": "crow",
+  "word" : "からす",
+  "kanji": "鴉",
+  "meaning": "crow",
+  "pronunciation": "ka-ra-su",
+  "id": "701"
+},
+{
+  "title": "peacock",
+  "word" : "くじゃく",
+  "kanji": "孔雀",
+  "meaning": "peacock",
+  "pronunciation": "ku-ja-ku",
+  "id": "702"
+},
+{
+  "title": "swan",
+  "word" : "はくちょう",
+  "kanji": "白鳥",
+  "meaning": "swan",
+  "pronunciation": "a-ku-chō",
+  "id": "703"
+},
+{
+  "title": "beak",
+  "word" : "くちばし",
+  "kanji": "嘴",
+  "meaning": "beak",
+  "pronunciation": "ku-chi-ba-shi",
+  "id": "704"
+},
+{
+  "title": "donkey",
+  "word" : "ろば",
+  "kanji": "驢馬",
+  "meaning": "donkey",
+  "pronunciation": "ro-ba",
+  "id": "705"
+},
+{
+  "title": "kangaroo",
+  "word" : "カンガルー",
+  "kanji": "-",
+  "meaning": "kangaroo",
+  "pronunciation": "kan-ga-rū",
+  "id": "706"
+},
+{
+  "title": "leopard",
+  "word" : "ひょう",
+  "kanji": "豹",
+  "meaning": "leopard",
+  "pronunciation": "hyō",
+  "id": "707"
+},
+{
+  "title": "fox",
+  "word" : "きつね",
+  "kanji": "狐",
+  "meaning": "fox",
+  "pronunciation": "ki-tsu-ne",
+  "id": "708"
+},
+{
+  "title": "wolf",
+  "word" : "おおかみ",
+  "kanji": "狼",
+  "meaning": "wolf",
+  "pronunciation": "ō-ka-mi",
+  "id": "709"
+},
+{
+  "title": "monkey",
+  "word" : "さる",
+  "kanji": "猿",
+  "meaning": "monkey",
+  "pronunciation": "sa-ru",
+  "id": "710"
+},
+{
+  "title": "hippopotamus",
+  "word" : "かば",
+  "kanji": "河馬",
+  "meaning": "hippopotamus",
+  "pronunciation": "ka-ba",
+  "id": "711"
+},
+{
+  "title": "ostrich",
+  "word" : "だちょう",
+  "kanji": "駝鳥",
+  "meaning": "ostrich",
+  "pronunciation": "da-chō",
+  "id": "712"
+},
+{
+  "title": "koala",
+  "word" : "コアラ",
+  "kanji": "-",
+  "meaning": "koala",
+  "pronunciation": "ko-a-ra",
+  "id": "713"
+},
+{
+  "title": "raccoon",
+  "word" : "あらいぐま",
+  "kanji": "浣熊",
+  "meaning": "raccoon",
+  "pronunciation": "a-ra-i-gu-ma",
+  "id": "714"
+},
+{
+  "title": "porcupine",
+  "word" : "やまあらし",
+  "kanji": "山荒/豪猪",
+  "meaning": "porcupine",
+  "pronunciation": "ya-mā-ra-shi",
+  "id": "715"
+},
+{
+  "title": "mattress",
+  "word" : "マットレス",
+  "kanji": "-",
+  "meaning": "mattress",
+  "pronunciation": "ma-tto-re-su",
+  "id": "716"
+},
+{
   "title": "hotwaterbottle",
   "word" : "ゆたんぽ",
   "kanji": "湯たんぽ",
