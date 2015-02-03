@@ -1523,14 +1523,6 @@
   "kanji": "台形",
   "meaning": "trapezium",
   "pronunciation": "da-i-ke-i",
-  "id": "666"
-},
-{
-  "title": "kite",
-  "word" : "たこがた",
-  "kanji": "凧形",
-  "meaning": "kite",
-  "pronunciation": "ta-ko-ga-ta",
   "id": "667"
 },
 {
@@ -1630,10 +1622,10 @@
   "id": "688"
 },
 {
-  "title": "ladybird",
+  "title": "ladybug",
   "word" : "てんとうむし",
   "kanji": "天道虫",
-  "meaning": "ladybird",
+  "meaning": "ladybug",
   "pronunciation": "ten-tō-mu-shi",
   "id": "689"
 },
