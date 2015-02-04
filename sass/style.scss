@@ -618,7 +618,7 @@ footer {
   }
 }
 
-@each $id in (cloud, ice, octopus, umbrella, udon, car, immigration,apple, strawberry, shrimp, beer, beef, ruler, peach, rose, deer, cat,socks, giraffe, chair, electricfan, kettle, telephone, parrot, clock, highheels, panties, coat, hanger, pillow, toiletpaper, toiletbowl, door, television, oven, pot, mug, notebook, fork, wineglass, wednesday,march,september, dice, yogurt,coin, baseball, basketball,phonebooth,frenchfries,bagel,wallet,fireworks,thief,moustache,planet,mouthwash,nailclipper,ski,nosmoking,exit,radio,baby,coconut,helicopter,nurse,vendingmachine,frame,yoyo,popcorn,injury,stretcher,choco,kayak,raspberry,donation,bell,earings,emergencyexit,waterfall,tear,university,letterbox,hippopotamus,kangaroo,peacock,church,tulip,square,cone,cafe,elecitons,beak,meeting,fin) {
+@each $id in (cloud, ice, octopus, umbrella, udon, car, immigration,apple, strawberry, shrimp, beer, beef, ruler, peach, rose, deer, cat,socks, giraffe, chair, electricfan, kettle, telephone, parrot, clock, highheels, panties, coat, hanger, pillow, toiletpaper, toiletbowl, door, television, oven, pot, mug, notebook, fork, wineglass, wednesday,march,september, dice, yogurt,coin, baseball, basketball,phonebooth,frenchfries,bagel,wallet,fireworks,thief,moustache,planet,mouthwash,nailclipper,ski,nosmoking,exit,radio,baby,coconut,helicopter,nurse,vendingmachine,frame,yoyo,popcorn,injury,stretcher,choco,kayak,raspberry,donation,bell,earings,emergencyexit,waterfall,tear,university,letterbox,hippopotamus,kangaroo,peacock,church,tulip,square,cone,cafe,elecitons,beak,meeting,fin,coral) {
   ##{$id} {
     background: $base-c;
     color: #222;
@@ -639,7 +639,7 @@ footer {
   }
 }
 
-@each $id in (fruit, lion, rope, xylophone, food, luggage, onion, sugar, sushi, dairy, riceuncooked, drinks, pencil, dandelion, rabbit, rhino,squid, towel, bed, cake, frog, ant,iron,lizard, gloves, pigeon, wall, blender, brassiere, cap, scarf, camel, shell, pea, toothbrush, blanket, airconditioner, remotecontrol, headphone, clothes, soldier, saturday,june,december,desktop,detergent,winter, tennis,doughnut,straw,money,tree,chemistry,doorway,stethoscope,gun,hotspring,bacon,bicycle,moon,confectionary,firefighter,shop,liferaft,wine,pinwheel,battery,tablet,doctor,cassettetape,paintbrush,hazard,rock,time,perfume,broom,mattress,laundry,catfish,pineapple,ginger,caterpillar,cocoon,coral,list,durian,fly,ladybug,cosmetics) {
+@each $id in (fruit, lion, rope, xylophone, food, luggage, onion, sugar, sushi, dairy, riceuncooked, drinks, pencil, dandelion, rabbit, rhino,squid, towel, bed, cake, frog, ant,iron,lizard, gloves, pigeon, wall, blender, brassiere, cap, scarf, camel, shell, pea, toothbrush, blanket, airconditioner, remotecontrol, headphone, clothes, soldier, saturday,june,december,desktop,detergent,winter, tennis,doughnut,straw,money,tree,chemistry,doorway,stethoscope,gun,hotspring,bacon,bicycle,moon,confectionary,firefighter,shop,liferaft,wine,pinwheel,battery,tablet,doctor,cassettetape,paintbrush,hazard,rock,time,perfume,broom,mattress,laundry,catfish,pineapple,ginger,caterpillar,cocoon,list,durian,fly,ladybug,cosmetics) {
   ##{$id} {
     background: $base-f;
     color: #222;
