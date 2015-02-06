@@ -649,7 +649,7 @@ footer {
 // only for basic e.g. numbers
 @each $id in (zero,one,two,three,four,five,six,seven,eight,nine,ten,hundred,thousand){
   ##{$id} {
-    background: #898898;
+    background: #d9d9d9;
     color: #000;
   }
 }
