@@ -193,7 +193,6 @@
   "pronunciation": "kyū-kyū-sha",
   "id": "387"
 },
-
 {
   "title": "bandaid",
   "word" : "バンドエイド",
@@ -938,7 +937,7 @@
   "word" : "ヨーヨー",
   "kanji": "-",
   "meaning": "yo-yo",
-  "pronunciation": "yōyō",
+  "pronunciation": "yō-yō",
   "id": "507"
 },
 {
@@ -1946,6 +1945,46 @@
   "id": "734"
 },
 {
+  "title": "alligator",
+  "word" : "わにぐち",
+  "kanji": "鰐口",
+  "meaning": "alligator",
+  "pronunciation": "wa-ni-gu-chi",
+  "id": "735"
+},
+{
+  "title": "church",
+  "word" : "きょうかい",
+  "kanji": "教会",
+  "meaning": "church",
+  "pronunciation": "kyō-ka-i",
+  "id": "736"
+},
+{
+  "title": "ink",
+  "word" : "インク",
+  "kanji": "-",
+  "meaning": "ink",
+  "pronunciation": "in-ku",
+  "id": "737"
+},
+{
+  "title": "present",
+  "word" : "おくりもの",
+  "kanji": "贈物",
+  "meaning": "present",
+  "pronunciation": "o-ku-ri-mo-no",
+  "id": "738"
+},
+{
+  "title": "sleigh",
+  "word" : "そり",
+  "kanji": "轌",
+  "meaning": "sleigh",
+  "pronunciation": "so-ri",
+  "id": "739"
+},
+{
   "title": "textbook",
   "word" : "きょうかしょ",
   "kanji": "教科書",
@@ -2739,7 +2778,7 @@
     "word" : "こおり",
     "kanji": "氷",
     "meaning": "ice",
-    "pronunciation": "ko-o-ri",
+    "pronunciation": "kō-ri",
     "id": "I"
   },
   {
